@@ -1,1 +1,552 @@
-{}
+{
+  "accounter.co::https://accounter.co/normatividad/estados-financieros-en-propiedades-horizontales-por-etapas-concepto-ctcp-2026-210": {
+    "fecha_detectado": "2026-09-19T20:25:56.024150+00:00",
+    "nivel": "🟠",
+    "titulo": "Estados financieros en propiedades horizontales por etapas. Concepto CTCP 2026-210"
+  },
+  "accounter.co::https://accounter.co/normatividad/modalidad-especial-de-obras-por-impuestos-para-la-reconstruccion-de-territorios-afectados-por-el-terremoto-decreto-legislativo-1389-de-2026": {
+    "fecha_detectado": "2026-09-19T20:25:56.024195+00:00",
+    "nivel": "🔴",
+    "titulo": "Modalidad especial de Obras por Impuestos para la reconstrucción de territorios afectados por el terremoto – Decreto Legislativo 1389 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/parentesco-dentro-del-equipo-de-revisoria-fiscal-concepto-ctcp-2026-225": {
+    "fecha_detectado": "2026-09-19T20:25:56.024098+00:00",
+    "nivel": "🟠",
+    "titulo": "Parentesco dentro del equipo de Revisoría Fiscal. Concepto CTCP 2026-225"
+  },
+  "accounter.co::https://accounter.co/normatividad/reconocimiento-y-correccion-de-pasivos-en-propiedad-horizontal-concepto-ctcp-2026-204": {
+    "fecha_detectado": "2026-09-19T20:25:56.024130+00:00",
+    "nivel": "🟠",
+    "titulo": "Reconocimiento y corrección de pasivos en propiedad horizontal. Concepto CTCP 2026-204"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/dian-intensifica-acciones-para-recuperar-mas-de-128-billones-en-retenciones-en-la-fuente": {
+    "fecha_detectado": "2026-09-19T20:25:56.024176+00:00",
+    "nivel": "🟠",
+    "titulo": "DIAN intensifica acciones para recuperar más de $1,28 billones en retenciones en la fuente"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/actualidad/cuando-una-circular-deja-de-ser-una-circular": {
+    "fecha_detectado": "2026-09-19T20:25:53.114637+00:00",
+    "nivel": "🟡",
+    "titulo": "Cuando una circular deja de ser una circular"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/civilfamilia/cotizar-en-salud-no-demuestra-independencia-economica-para-efectos-de": {
+    "fecha_detectado": "2026-09-19T20:25:53.114199+00:00",
+    "nivel": "🟢",
+    "titulo": "Cotizar en salud no demuestra independencia económica para efectos de sustitución pensional"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/consultorio-empresarial-con-ppu/la-leccion-detras-de-la-resolucion-2708-de-2026-del": {
+    "fecha_detectado": "2026-09-19T20:25:53.114400+00:00",
+    "nivel": "🟡",
+    "titulo": "La lección detrás de la Resolución 2708 de 2026 del Ministerio del Trabajo"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/consultorio-empresarial-con-ppu/la-reforma-pensional-aprobada-y-su-esfuerzo-por-incorporar": {
+    "fecha_detectado": "2026-09-19T20:25:53.114315+00:00",
+    "nivel": "🟢",
+    "titulo": "La reforma pensional aprobada y su esfuerzo por incorporar el enfoque de género"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/condicionan-facultad-de-supersalud-para-disenar-procedimiento-sancionatorio-por": {
+    "fecha_detectado": "2026-09-19T20:25:53.114244+00:00",
+    "nivel": "🟢",
+    "titulo": "Condicionan facultad de Supersalud para diseñar procedimiento sancionatorio por reporte de información"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/conozca-el-texto-del-fallo-que-declaro-exequible-mayoria-de-la-reforma-pensional": {
+    "fecha_detectado": "2026-09-19T20:25:53.114220+00:00",
+    "nivel": "🟢",
+    "titulo": "Conozca el texto del fallo que declaró exequible mayoría de la reforma pensional"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/derogan-resolucion-que-cambio-requisitos-para-prestadores-de-salud": {
+    "fecha_detectado": "2026-09-19T20:25:53.114357+00:00",
+    "nivel": "🟡",
+    "titulo": "Derogan resolución que cambió requisitos para prestadores de salud"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/el-ministerio-del-trabajo-se-despidio-con-otro-decreto-ilegal": {
+    "fecha_detectado": "2026-09-19T20:25:53.114656+00:00",
+    "nivel": "🟡",
+    "titulo": "El Ministerio del Trabajo se despidió con otro decreto ilegal"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/infografia-lo-pueden-despedir-por-no-justificar-el-retiro-de-cesantias": {
+    "fecha_detectado": "2026-09-19T20:25:53.114566+00:00",
+    "nivel": "🟢",
+    "titulo": "INFOGRAFÍA: ¿Lo pueden despedir por no justificar el retiro de cesantías?"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/juez-no-define-gravedad-de-faltas-previstas-en-el-reglamento-interno-de-trabajo": {
+    "fecha_detectado": "2026-09-19T20:25:53.114433+00:00",
+    "nivel": "🟢",
+    "titulo": "Juez no define gravedad de faltas previstas en el reglamento interno de trabajo, salvo vaguedad"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/la-reivindicacion-pensional-de-la-mujer-y-la-economia-del-cuidado-en-colombia": {
+    "fecha_detectado": "2026-09-19T20:25:53.114587+00:00",
+    "nivel": "🟢",
+    "titulo": "La reivindicación pensional de la mujer y la economía del cuidado en Colombia"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/mintrabajo-realiza-inspeccion-laboral-establecimiento-en-bogota-por-denuncia": {
+    "fecha_detectado": "2026-09-19T20:25:53.114338+00:00",
+    "nivel": "🟢",
+    "titulo": "Mintrabajo realiza inspección laboral a establecimiento en Bogotá, por denuncia ciudadana"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/once-circulares-laborales-que-nadie-va-extranar": {
+    "fecha_detectado": "2026-09-19T20:25:53.114621+00:00",
+    "nivel": "🟡",
+    "titulo": "Once circulares laborales que nadie va a extrañar"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/pantallazos-de-whatsapp-impresos-son-prueba-documental-en-procesos-laborales": {
+    "fecha_detectado": "2026-09-19T20:25:53.114380+00:00",
+    "nivel": "🟢",
+    "titulo": "Pantallazos de WhatsApp impresos son prueba documental en procesos laborales"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/podcast-catedra-procesall-xxx-cambiaron-los-fallos-extra-y-ultra-petita-en-el": {
+    "fecha_detectado": "2026-09-19T20:25:53.114521+00:00",
+    "nivel": "🟢",
+    "titulo": "PÓDCAST Cátedra ProcesALL XXX: ¿Cambiaron los fallos ‘extra’ y ‘ultra’ ‘petita’ en el nuevo Código Procesal Laboral?"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/precisiones-formales-y-sustanciales-sobre-la-cuota-de-inclusion-laboral": {
+    "fecha_detectado": "2026-09-19T20:25:53.114293+00:00",
+    "nivel": "🟢",
+    "titulo": "Precisiones formales y sustanciales sobre la cuota de inclusión laboral"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/reforma-pensional-cuidar-no-es-lo-mismo-que-ser-madre": {
+    "fecha_detectado": "2026-09-19T20:25:53.114604+00:00",
+    "nivel": "🟢",
+    "titulo": "Reforma pensional: cuidar no es lo mismo que ser madre"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/videocolumna-el-fallo-de-la-corte-constitucional-sobre-la-reforma-pensional": {
+    "fecha_detectado": "2026-09-19T20:25:53.114453+00:00",
+    "nivel": "🟠",
+    "titulo": "VIDEOCOLUMNA: El fallo de la Corte Constitucional sobre la reforma pensional"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/videocolumna-mas-alla-de-la-ley-de-acoso-sexual-en-el-trabajo": {
+    "fecha_detectado": "2026-09-19T20:25:53.114539+00:00",
+    "nivel": "🟢",
+    "titulo": "VIDEOCOLUMNA: Más allá de la Ley de Acoso Sexual en el trabajo"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/videocolumna-que-herramientas-ofrece-el-derecho-laboral-para-las-empresas": {
+    "fecha_detectado": "2026-09-19T20:25:53.114489+00:00",
+    "nivel": "🟢",
+    "titulo": "VIDEOCOLUMNA: ¿Qué herramientas ofrece el derecho laboral para las empresas afectadas por el terremoto?"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/penal/dian-reporta-aumento-del-507-en-aprehensiones-por-contrabando": {
+    "fecha_detectado": "2026-09-19T20:25:53.113791+00:00",
+    "nivel": "🟠",
+    "titulo": "DIAN reporta aumento del 50,7 % en aprehensiones por contrabando"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/analisis-cuanto-vale-firmar-la-responsabilidad-tributaria-del-representante-0": {
+    "fecha_detectado": "2026-09-19T20:25:53.113918+00:00",
+    "nivel": "🟢",
+    "titulo": "ANÁLISIS: ¿Cuánto vale firmar?: la responsabilidad tributaria del representante legal en Colombia: naturaleza y alcance (II)"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/declaracion-de-renta-2026-quienes-deben-declarar-fechas-clave-y-como-evitar": {
+    "fecha_detectado": "2026-09-19T20:25:53.114130+00:00",
+    "nivel": "🟢",
+    "titulo": "Declaración de renta 2026: quiénes deben declarar, fechas clave y cómo evitar sanciones"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/declaracion-de-renta-es-valida-para-deducir-costos-en-el-ibc-de-rentistas-de": {
+    "fecha_detectado": "2026-09-19T20:25:53.113871+00:00",
+    "nivel": "🟢",
+    "titulo": "Declaración de renta es válida para deducir costos en el IBC de rentistas de capital"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/definen-incentivos-tributarios-para-atraer-inversion-zonas-afectadas-por": {
+    "fecha_detectado": "2026-09-19T20:25:53.113725+00:00",
+    "nivel": "🟢",
+    "titulo": "Definen incentivos tributarios para atraer inversión a zonas afectadas por terremoto"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/dian-pretende-recuperar-128-billones-en-retenciones-en-la-fuente": {
+    "fecha_detectado": "2026-09-19T20:25:53.113750+00:00",
+    "nivel": "🟠",
+    "titulo": "Dian pretende recuperar $ 1,28 billones en retenciones en la fuente"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/el-impuesto-de-alumbrado-publico-y-los-estratos-residenciales-en-bogota": {
+    "fecha_detectado": "2026-09-19T20:25:53.114153+00:00",
+    "nivel": "🟢",
+    "titulo": "El impuesto de alumbrado público y los estratos residenciales en Bogotá"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/exequible-patrimonio-liquido-para-sancionar-no-contribuyentes-en-declaracion-de": {
+    "fecha_detectado": "2026-09-19T20:25:53.113849+00:00",
+    "nivel": "🟢",
+    "titulo": "Exequible patrimonio líquido para sancionar a no contribuyentes en declaración de ingresos y patrimonio"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/extienden-exencion-tributaria-del-25-sobre-el-salario-de-los-jueces": {
+    "fecha_detectado": "2026-09-19T20:25:53.113825+00:00",
+    "nivel": "🟢",
+    "titulo": "Extienden exención tributaria del 25 % sobre el salario de los jueces a procuradores judiciales I"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/fallo-que-declaro-inexequible-tipificacion-de-incumplimientos-laborales-como": {
+    "fecha_detectado": "2026-09-19T20:25:53.113893+00:00",
+    "nivel": "🟢",
+    "titulo": "Fallo que declaró inexequible tipificación de incumplimientos laborales como infracción aduanera"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/gobierno-adopta-alivios-tributarios-para-afectados-por-el-terremoto": {
+    "fecha_detectado": "2026-09-19T20:25:53.113691+00:00",
+    "nivel": "🟢",
+    "titulo": "Gobierno adopta alivios tributarios para afectados por el terremoto"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/infografia-plazos-impuesto-de-renta-2025-y-activos-en-el-exterior-para-personas": {
+    "fecha_detectado": "2026-09-19T20:25:53.114063+00:00",
+    "nivel": "🟢",
+    "titulo": "Infografía: Plazos impuesto de renta 2025 y activos en el exterior para personas jurídicas"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/la-reduccion-del-recaudo-tributario-y-el-uso-de-medios-electronicos": {
+    "fecha_detectado": "2026-09-19T20:25:53.114170+00:00",
+    "nivel": "🟢",
+    "titulo": "La reducción del recaudo tributario y el uso de medios electrónicos"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/novedades-sobre-niif-nuevas-reglas-para-los-contratos-de-electricidad-renovable": {
+    "fecha_detectado": "2026-09-19T20:25:53.114109+00:00",
+    "nivel": "🟢",
+    "titulo": "Novedades sobre NIIF: nuevas reglas para los contratos de electricidad renovable"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/podcast-revista-impuestos-economia-de-opcion-planeacion-fiscal-o-abuso-en": {
+    "fecha_detectado": "2026-09-19T20:25:53.113961+00:00",
+    "nivel": "🟢",
+    "titulo": "Podcast Revista Impuestos: Economía de opción, planeación fiscal o abuso en materia tributaria"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/podcast-revista-impuestos-el-patrimonio-en-tiempos-de-tormenta-recaudar-primero": {
+    "fecha_detectado": "2026-09-19T20:25:53.114042+00:00",
+    "nivel": "🟢",
+    "titulo": "Pódcast Revista Impuestos: El patrimonio en tiempos de tormenta: recaudar primero, preguntar después"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/podcast-revista-impuestos-la-insuficiencia-disuasoria-del-regimen-sancionatorio": {
+    "fecha_detectado": "2026-09-19T20:25:53.114087+00:00",
+    "nivel": "🟢",
+    "titulo": "Podcast Revista Impuestos: La insuficiencia disuasoria del régimen sancionatorio del RUB: un análisis crítico comparado"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/podcast-revista-impuestos-la-vinculacion-economica-en-el-iva-y-su-relacion-con": {
+    "fecha_detectado": "2026-09-19T20:25:53.114021+00:00",
+    "nivel": "🟢",
+    "titulo": "Podcast Revista Impuestos: La vinculación económica en el IVA y su relación con los precios de transferencia"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/podcast-revista-impuestos-los-efectos-sociales-y-fiscales-de-los-nuevos-avaluos": {
+    "fecha_detectado": "2026-09-19T20:25:53.113940+00:00",
+    "nivel": "🟢",
+    "titulo": "Podcast Revista Impuestos: Los efectos sociales y fiscales de los nuevos avalúos catastrales rurales"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/podcast-revista-impuestos-sostenibilidad-de-los-sistemas-pensionales-requiere-0": {
+    "fecha_detectado": "2026-09-19T20:25:53.113998+00:00",
+    "nivel": "🟢",
+    "titulo": "Podcast Revista Impuestos: Sostenibilidad de los sistemas pensionales requiere medidas fiscales"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/podcast-revista-impuestos-tributacion-de-los-activos-intangibles": {
+    "fecha_detectado": "2026-09-19T20:25:53.113978+00:00",
+    "nivel": "🟢",
+    "titulo": "Podcast Revista Impuestos: Tributación de los activos intangibles"
+  },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/Decreto": {
+    "fecha_detectado": "2026-09-19T20:26:00.041888+00:00",
+    "nivel": "🟡",
+    "titulo": "Decretos Reglamentarios"
+  },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/Resoluci%C3%B3n": {
+    "fecha_detectado": "2026-09-19T20:26:00.041931+00:00",
+    "nivel": "🟡",
+    "titulo": "Resoluciones"
+  },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/circulares-y-circulares-externas": {
+    "fecha_detectado": "2026-09-19T20:26:00.041919+00:00",
+    "nivel": "🟡",
+    "titulo": "Circulares y Circulares Externas"
+  },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-1510015195.html": {
+    "fecha_detectado": "2026-09-19T20:26:00.041962+00:00",
+    "nivel": "🟠",
+    "titulo": "Concepto 1510(015195)"
+  },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/decreto-unico-reglamentario/2015/dur-en-materia-contable.html": {
+    "fecha_detectado": "2026-09-19T20:26:00.041874+00:00",
+    "nivel": "🟢",
+    "titulo": "DUR en materia contable"
+  },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/decreto-unico-reglamentario/2016/decreto-unico-tributario-en-materia-tributaria.html": {
+    "fecha_detectado": "2026-09-19T20:26:00.041858+00:00",
+    "nivel": "🟢",
+    "titulo": "DUR EN MATERIA TRIBUTARIA"
+  },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/leyes-y-decretos-ley": {
+    "fecha_detectado": "2026-09-19T20:26:00.041904+00:00",
+    "nivel": "🟡",
+    "titulo": "Leyes, Decretos Ley y Decretos Legislativos"
+  },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/listado-conceptos-y-oficios-dian": {
+    "fecha_detectado": "2026-09-19T20:26:00.041830+00:00",
+    "nivel": "🟠",
+    "titulo": "Conceptos y oficios DIAN"
+  },
+  "dian.gov.co::https://www.dian.gov.co/Paginas/Privacidad.aspx": {
+    "fecha_detectado": "2026-09-19T20:25:57.981468+00:00",
+    "nivel": "🟢",
+    "titulo": "Política de Privacidad y Autorización de uso de los datos y contenidos"
+  },
+  "dian.gov.co::https://www.dian.gov.co/Prensa/Paginas/Noticias.aspx": {
+    "fecha_detectado": "2026-09-19T20:25:57.981417+00:00",
+    "nivel": "🟢",
+    "titulo": "Activar el modo de accesibilidad"
+  },
+  "dian.gov.co::https://www.dian.gov.co/atencionciudadano/PQSRD/Paginas/Denuncias-TAC.aspx": {
+    "fecha_detectado": "2026-09-19T20:25:57.981447+00:00",
+    "nivel": "🟢",
+    "titulo": "Denuncias tributarias, aduaneras y cambiarias"
+  },
+  "gerencie.com::https://www.gerencie.com/calculadora-de-imputacion-de-pagos-a-la-dian.html": {
+    "fecha_detectado": "2026-09-19T20:25:56.249379+00:00",
+    "nivel": "🟠",
+    "titulo": "Calculadora de imputación de pagos a la Dian"
+  },
+  "gerencie.com::https://www.gerencie.com/calculadora-laboral.html": {
+    "fecha_detectado": "2026-09-19T20:25:56.249365+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora laboral"
+  },
+  "gerencie.com::https://www.gerencie.com/calendario-tributario.html": {
+    "fecha_detectado": "2026-09-19T20:25:56.249327+00:00",
+    "nivel": "🔴",
+    "titulo": "Calendario tributario 2026 – Dian"
+  },
+  "gerencie.com::https://www.gerencie.com/diferencia-entre-bienes-excluidos-y-exentos-en-el-impuesto-a-las-ventas.html": {
+    "fecha_detectado": "2026-09-19T20:25:56.249106+00:00",
+    "nivel": "🟢",
+    "titulo": "Diferencia entre bienes exentos, excluidos y no gravados en el IVA"
+  },
+  "gerencie.com::https://www.gerencie.com/guia-laboral": {
+    "fecha_detectado": "2026-09-19T20:25:56.249307+00:00",
+    "nivel": "🟢",
+    "titulo": "Guía Laboral Gerencie.com 2026"
+  },
+  "gerencie.com::https://www.gerencie.com/guia-renta/conceptos/como-se-declaran-las-cesantias": {
+    "fecha_detectado": "2026-09-19T20:25:56.249173+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Cómo se declaran las cesantías?"
+  },
+  "gerencie.com::https://www.gerencie.com/guia-renta/conceptos/trabajador-independiente-declarar-renta-exenta-o-costos-y-deducciones": {
+    "fecha_detectado": "2026-09-19T20:25:56.249193+00:00",
+    "nivel": "🟢",
+    "titulo": "Trabajador independiente: ¿declarar renta exenta o costos y deducciones?"
+  },
+  "gerencie.com::https://www.gerencie.com/impuesto-a-las-ventas.html": {
+    "fecha_detectado": "2026-09-19T20:25:56.249133+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Qué es el IVA? Impuesto a las ventas en Colombia"
+  },
+  "gerencie.com::https://www.gerencie.com/liquidador-de-intereses-moratorios.html": {
+    "fecha_detectado": "2026-09-19T20:25:56.249339+00:00",
+    "nivel": "🟠",
+    "titulo": "Liquidador de intereses moratorios Dian"
+  },
+  "gerencie.com::https://www.gerencie.com/liquidador-de-pensiones": {
+    "fecha_detectado": "2026-09-19T20:25:56.249208+00:00",
+    "nivel": "🟢",
+    "titulo": "Liquidador de pensiones en Colpensiones"
+  },
+  "gerencie.com::https://www.gerencie.com/liquidador-dian-pro": {
+    "fecha_detectado": "2026-09-19T20:25:56.249247+00:00",
+    "nivel": "🟠",
+    "titulo": "Liquidador Pro de intereses moratorios – Dian"
+  },
+  "gerencie.com::https://www.gerencie.com/liquidadores-laborales": {
+    "fecha_detectado": "2026-09-19T20:25:56.249287+00:00",
+    "nivel": "🟢",
+    "titulo": "Liquidador de obligaciones laborales"
+  },
+  "gerencie.com::https://www.gerencie.com/proyeccion-pensional": {
+    "fecha_detectado": "2026-09-19T20:25:56.249225+00:00",
+    "nivel": "🟢",
+    "titulo": "Proyección y planeación pensional en Colpensiones"
+  },
+  "gerencie.com::https://www.gerencie.com/responsables-y-no-responsables-del-iva.html": {
+    "fecha_detectado": "2026-09-19T20:25:56.249152+00:00",
+    "nivel": "🟢",
+    "titulo": "Responsables y no responsables de IVA: requisitos y topes en 2026"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/estandares-internacionales/2026/09/ocde-reformas-tributarias-de-2025-reflejan-un-giro-hacia-el-fortalecimiento-del-recaudo-y-los-incentivos-a-la-inversion/": {
+    "fecha_detectado": "2026-09-19T20:25:52.386151+00:00",
+    "nivel": "🟢",
+    "titulo": "OCDE: reformas tributarias de 2025 reflejan un giro hacia el fortalecimiento del recaudo y los incentivos a la inversión"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/09/descuento-del-iva-en-fiducia-por-activos-fijos-reales-productivos/": {
+    "fecha_detectado": "2026-09-19T20:25:52.386174+00:00",
+    "nivel": "🟢",
+    "titulo": "Descuento del IVA en fiducia por activos fijos reales productivos"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/09/el-15-de-septiembre-vence-el-plazo-para-pagar-la-contribucion-2026-a-supersociedades/": {
+    "fecha_detectado": "2026-09-19T20:25:52.386200+00:00",
+    "nivel": "🔴",
+    "titulo": "El 15 de septiembre vence el plazo para pagar la contribución 2026 a Supersociedades"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/09/funcion-publica-actualizo-guia-de-auditoria-interna-para-entidades-publicas/": {
+    "fecha_detectado": "2026-09-19T20:25:52.386108+00:00",
+    "nivel": "🟢",
+    "titulo": "Función Pública actualizó guía de auditoría interna para entidades públicas"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/09/puede-la-dian-exigir-el-certificado-de-representacion-legal-en-un-recurso/": {
+    "fecha_detectado": "2026-09-19T20:25:52.386084+00:00",
+    "nivel": "🟠",
+    "titulo": "¿Puede la DIAN exigir el certificado de representación legal en un recurso?"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/09/supersociedades-aclaro-que-no-existe-obligacion-general-de-reportar-estados-financieros-intermedios/": {
+    "fecha_detectado": "2026-09-19T20:25:52.386052+00:00",
+    "nivel": "🟢",
+    "titulo": "Supersociedades aclaró que no existe obligación general de reportar estados financieros intermedios"
+  },
+  "nexiamya.com.co::https://nexiamya.com.co/liquidacion-de-impuestos": {
+    "fecha_detectado": "2026-09-19T20:25:55.897045+00:00",
+    "nivel": "🟢",
+    "titulo": "Liquidación de impuestos"
+  },
+  "nexiamya.com.co::https://nexiamya.com.co/servicios/asesoria-en-sistemas-contables-y-de-operaciones/": {
+    "fecha_detectado": "2026-09-19T20:25:55.896995+00:00",
+    "nivel": "🟢",
+    "titulo": "Asesoría en sistemas contables y de operaciones"
+  },
+  "nexiamya.com.co::https://nexiamya.com.co/servicios/asesorias-tributarias/": {
+    "fecha_detectado": "2026-09-19T20:25:55.897006+00:00",
+    "nivel": "🟢",
+    "titulo": "Asesorías tributarias"
+  },
+  "nexiamya.com.co::https://nexiamya.com.co/servicios/auditoria-en-salud/": {
+    "fecha_detectado": "2026-09-19T20:25:55.896932+00:00",
+    "nivel": "🟢",
+    "titulo": "Auditoría en salud"
+  },
+  "nexiamya.com.co::https://nexiamya.com.co/servicios/auditoria-externa-de-gestion-y-resultados/": {
+    "fecha_detectado": "2026-09-19T20:25:55.896891+00:00",
+    "nivel": "🟢",
+    "titulo": "Auditoría externa de gestión y resultados"
+  },
+  "nexiamya.com.co::https://nexiamya.com.co/servicios/auditoria-externa/": {
+    "fecha_detectado": "2026-09-19T20:25:55.896872+00:00",
+    "nivel": "🟢",
+    "titulo": "Auditoría Externa"
+  },
+  "nexiamya.com.co::https://nexiamya.com.co/servicios/interventorias-tecnicas-administrativas-y-financieras/": {
+    "fecha_detectado": "2026-09-19T20:25:55.896919+00:00",
+    "nivel": "🟢",
+    "titulo": "Interventorías técnicas, administrativas y financieras"
+  },
+  "nexiamya.com.co::https://nexiamya.com.co/servicios/peritajes-contables/": {
+    "fecha_detectado": "2026-09-19T20:25:55.896953+00:00",
+    "nivel": "🟢",
+    "titulo": "Peritajes contables"
+  },
+  "nexiamya.com.co::https://nexiamya.com.co/stm_service_category/auditoria-y-garantia/": {
+    "fecha_detectado": "2026-09-19T20:25:55.896846+00:00",
+    "nivel": "🟢",
+    "titulo": "Auditoría y garantía"
+  },
+  "nexiamya.com.co::https://nexiamya.com.co/stm_service_category/impuesto-personal-y-gestion-de-la-riqueza/": {
+    "fecha_detectado": "2026-09-19T20:25:55.896976+00:00",
+    "nivel": "🟢",
+    "titulo": "Impuesto personal y gestión de la riqueza"
+  },
+  "nexiamya.com.co::https://nexiamya.com.co/stm_service_category/impuestos-y-negocios/": {
+    "fecha_detectado": "2026-09-19T20:25:55.896903+00:00",
+    "nivel": "🟢",
+    "titulo": "Impuestos y negocios"
+  },
+  "nexiamya.com.co::https://nexiamya.com.co/wp-content/uploads/2026/01/Calendario_Tributario_2026.pdf": {
+    "fecha_detectado": "2026-09-19T20:25:55.897014+00:00",
+    "nivel": "🔴",
+    "titulo": "Calendario Tributario"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/aplicacion-de-la-nueva-deduccion-por-dependientes/": {
+    "fecha_detectado": "2026-09-19T20:25:50.411462+00:00",
+    "nivel": "🟢",
+    "titulo": "Deducción por dependientes en la declaración de renta AG 2025: ¿Cómo aplicar los artículos 387 y 336 del ET sin errores?"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/bienes-gravados-exentos-y-excluidos-de-iva/": {
+    "fecha_detectado": "2026-09-19T20:25:50.411524+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Cuál es la diferencia entre bienes gravados, exentos y excluidos de IVA?"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/decreto-1419-de-2026-beneficios-tributarios-dian/": {
+    "fecha_detectado": "2026-09-19T20:25:50.411235+00:00",
+    "nivel": "🟠",
+    "titulo": "Decreto 1419 de 2026: Reducción de sanciones, intereses y beneficios tributarios ante la DIAN por el sismo"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/decretos-de-la-reconstruccion-colombia/": {
+    "fecha_detectado": "2026-09-19T20:25:50.411394+00:00",
+    "nivel": "🟡",
+    "titulo": "Decretos para la reconstrucción en Colombia: efectos tributarios, contables y empresariales de las normas 1379 a 1389 de 2026"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/estampillas-deducibles-en-renta-personas-naturales/": {
+    "fecha_detectado": "2026-09-19T20:25:50.411368+00:00",
+    "nivel": "🟠",
+    "titulo": "¿Las estampillas son deducibles en renta para personas naturales? Esto aclaró la DIAN"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/firma-del-contador-publico-en-declaraciones-tributarias/": {
+    "fecha_detectado": "2026-09-19T20:25:50.411559+00:00",
+    "nivel": "🟢",
+    "titulo": "Firma del contador público en declaraciones tributarias en 2026"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/indices-de-coherencia-tributaria-personas-juridicas/": {
+    "fecha_detectado": "2026-09-19T20:25:50.411294+00:00",
+    "nivel": "🟢",
+    "titulo": "Índices de coherencia tributaria para personas jurídicas: Guía técnica y autoauditoría"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/listado-conceptos-del-formato-1001/": {
+    "fecha_detectado": "2026-09-19T20:25:50.411501+00:00",
+    "nivel": "🟠",
+    "titulo": "Conceptos del formato 1001 para el reporte de información exógena AG 2025: ¿Cuáles son y qué cambió?"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/obligaciones-fiscales-de-una-empresa-inactiva/": {
+    "fecha_detectado": "2026-09-19T20:25:50.411436+00:00",
+    "nivel": "🟠",
+    "titulo": "Obligaciones fiscales de una empresa inactiva en Colombia: ¿Qué debe seguir presentando ante la DIAN?"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/obras-por-impuestos-para-la-reconstruccion/": {
+    "fecha_detectado": "2026-09-19T20:25:50.411415+00:00",
+    "nivel": "🟡",
+    "titulo": "Obras por impuestos para la reconstrucción: ¿Cómo funciona el Decreto 1389 de 2026?"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/responsabilidad-07-en-el-rut/": {
+    "fecha_detectado": "2026-09-19T20:25:50.411348+00:00",
+    "nivel": "🟢",
+    "titulo": "Responsabilidad 07 en el RUT: ¿Debes presentar información exógena aunque no hayas practicado retenciones?"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/retenciones-en-el-regimen-simple-de-tributacion/": {
+    "fecha_detectado": "2026-09-19T20:25:50.411542+00:00",
+    "nivel": "🟢",
+    "titulo": "Retenciones en el régimen simple de tributación: ¿Cómo se aplican?"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/sanciones-en-la-declaracion-de-renta-de-personas-naturales/": {
+    "fecha_detectado": "2026-09-19T20:25:50.411322+00:00",
+    "nivel": "🟠",
+    "titulo": "Sanciones en la declaración de renta de personas naturales: Guía práctica para evitarlas y responder ante la DIAN"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/tabla-de-retencion-en-la-fuente-por-iva-2024/": {
+    "fecha_detectado": "2026-09-19T20:25:50.411478+00:00",
+    "nivel": "🟢",
+    "titulo": "Tabla de retención en la fuente por IVA 2024"
+  },
+  "valoraanalitik.com::https://www.valoraanalitik.com/banco-de-bogota-integra-plenamente-a-los-clientes-de-itau-asi-puede-activar-los-nuevos-servicios/": {
+    "fecha_detectado": "2026-09-19T20:25:58.204148+00:00",
+    "nivel": "🟢",
+    "titulo": "Banco de Bogotá integra plenamente a los clientes de Itaú: Así puede activar los nuevos servicios"
+  },
+  "valoraanalitik.com::https://www.valoraanalitik.com/colombia-y-venezuela-reactivan-corresponsalia-bancaria-transacciones-directas-podrian-retomarse-este-ano/": {
+    "fecha_detectado": "2026-09-19T20:25:58.204171+00:00",
+    "nivel": "🟢",
+    "titulo": "Colombia y Venezuela reactivan corresponsalía bancaria: transacciones directas podrían retomarse este año"
+  },
+  "valoraanalitik.com::https://www.valoraanalitik.com/con-nuevo-decreto-cambiar-de-banco-sera-tan-facil-como-cambiar-de-operador-movil/": {
+    "fecha_detectado": "2026-09-19T20:25:58.204107+00:00",
+    "nivel": "🟡",
+    "titulo": "Con nuevo decreto, cambiar de banco será tan fácil como cambiar de operador móvil"
+  },
+  "valoraanalitik.com::https://www.valoraanalitik.com/decreto-crea-mecanismo-de-financiacion-para-las-mipymes-con-el-mercado-de-capitales/": {
+    "fecha_detectado": "2026-09-19T20:25:58.204084+00:00",
+    "nivel": "🟡",
+    "titulo": "Decreto crea mecanismo de financiación para las mipymes con el mercado de capitales"
+  },
+  "valoraanalitik.com::https://www.valoraanalitik.com/gobierno-petro-expide-decreto-que-moderniza-la-regulacion-de-las-cooperativas/": {
+    "fecha_detectado": "2026-09-19T20:25:58.204126+00:00",
+    "nivel": "🟡",
+    "titulo": "Gobierno Petro expide decreto que moderniza la regulación de las cooperativas"
+  },
+  "valoraanalitik.com::https://www.valoraanalitik.com/presupuesto-de-2027-frena-la-valorizacion-de-los-tes-colombianos-y-reaviva-las-dudas-fiscales/": {
+    "fecha_detectado": "2026-09-19T20:25:58.203999+00:00",
+    "nivel": "🟢",
+    "titulo": "Presupuesto de 2027 frena la valorización de los TES colombianos y reaviva las dudas fiscales"
+  },
+  "valoraanalitik.com::https://www.valoraanalitik.com/prima-de-riesgo-de-colombia-seguira-descendiendo-manuel-garcia-de-skandia-analiza-la-coyuntura-de-pais-frente-al-panorama-global/": {
+    "fecha_detectado": "2026-09-19T20:25:58.204043+00:00",
+    "nivel": "🟢",
+    "titulo": "«Prima de riesgo de Colombia seguirá descendiendo»: Manuel García de Skandia analiza la coyuntura de país frente al panorama global"
+  }
+}
