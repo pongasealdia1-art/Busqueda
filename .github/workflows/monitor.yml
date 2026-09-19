@@ -2,44 +2,43 @@ name: Monitor Póngase al Día
 
 on:
   schedule:
-      # Corre 3 veces al día en horario Colombia (UTC-5): 7am, 1pm, 6pm COT
-          - cron: "0 12 * * *"   # 07:00 COT
-              - cron: "0 18 * * *"   # 13:00 COT
-                  - cron: "0 23 * * *"   # 18:00 COT
-                    workflow_dispatch: {}    # permite ejecutarlo manualmente desde GitHub
+    # Corre 3 veces al día en horario Colombia (UTC-5): 7am, 1pm, 6pm COT
+    - cron: "0 12 * * *"   # 07:00 COT
+    - cron: "0 18 * * *"   # 13:00 COT
+    - cron: "0 23 * * *"   # 18:00 COT
+  workflow_dispatch: {}    # permite ejecutarlo manualmente desde GitHub
 
-                    permissions:
-                      contents: write  # necesario para poder guardar registro.json actualizado
+permissions:
+  contents: write  # necesario para poder guardar registro.json actualizado
 
-                      jobs:
-                        monitor:
-                            runs-on: ubuntu-latest
-                                steps:
-                                      - name: Checkout del repositorio
-                                              uses: actions/checkout@v4
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4
 
-                                                    - name: Configurar Python
-                                                            uses: actions/setup-python@v5
-                                                                    with:
-                                                                              python-version: "3.12"
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
 
-                                                                                    - name: Instalar dependencias
-                                                                                            run: pip install -r requirements.txt
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
 
-                                                                                                  - name: Ejecutar monitor
-                                                                                                          env:
-                                                                                                                    TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
-                                                                                                                              TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-                                                                                                                                        GMAIL_USER: ${{ secrets.GMAIL_USER }}
-                                                                                                                                                  GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-                                                                                                                                                            GMAIL_TO: ${{ secrets.GMAIL_TO }}
-                                                                                                                                                                    run: python monitor.py
-                                                                                                                                                                    
-                                                                                                                                                                          - name: Guardar registro actualizado
-                                                                                                                                                                                  run: |
-                                                                                                                                                                                            git config user.name "monitor-bot"
-                                                                                                                                                                                                      git config user.email "actions@github.com"
-                                                                                                                                                                                                                git add registro.json
-                                                                                                                                                                                                                          git diff --staged --quiet || git commit -m "Actualiza registro de publicaciones detectadas [skip ci]"
-                                                                                                                                                                                                                                    git push
-                                                                                                                                                                                                                                    
+      - name: Ejecutar monitor
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_TO: ${{ secrets.GMAIL_TO }}
+        run: python monitor.py
+
+      - name: Guardar registro actualizado
+        run: |
+          git config user.name "monitor-bot"
+          git config user.email "actions@github.com"
+          git add registro.json
+          git diff --staged --quiet || git commit -m "Actualiza registro de publicaciones detectadas [skip ci]"
+          git push
