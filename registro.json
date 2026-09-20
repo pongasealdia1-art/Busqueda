@@ -329,6 +329,11 @@
     "nivel": "🟢",
     "titulo": "Cómo sacar el IVA de un valor: calculadora de IVA incluido"
   },
+  "gerencie.com::https://www.gerencie.com/computadores-excluidos-de-iva.html": {
+    "fecha_detectado": "2026-09-20T15:00:11.251347+00:00",
+    "nivel": "🟢",
+    "titulo": "Computadores, celulares y tabletas sin IVA en 2026"
+  },
   "gerencie.com::https://www.gerencie.com/diferencia-entre-bienes-excluidos-y-exentos-en-el-impuesto-a-las-ventas.html": {
     "fecha_detectado": "2026-09-19T20:25:56.249106+00:00",
     "nivel": "🟢",
@@ -379,6 +384,16 @@
     "nivel": "🟢",
     "titulo": "Liquidador de obligaciones laborales"
   },
+  "gerencie.com::https://www.gerencie.com/los-descuentos-se-aplican-antes-o-despues-de-iva.html": {
+    "fecha_detectado": "2026-09-20T15:00:11.251414+00:00",
+    "nivel": "🟢",
+    "titulo": "¿El descuento se aplica antes o después del IVA?"
+  },
+  "gerencie.com::https://www.gerencie.com/oportunidad-para-descontar-el-impuesto-a-las-ventas-retenido.html": {
+    "fecha_detectado": "2026-09-20T15:00:11.251395+00:00",
+    "nivel": "🟢",
+    "titulo": "Retenciones de IVA: cuándo se pueden descontar en la declaración"
+  },
   "gerencie.com::https://www.gerencie.com/prorrateo-del-iva.html": {
     "fecha_detectado": "2026-09-20T00:28:15.507940+00:00",
     "nivel": "🟢",
@@ -398,6 +413,26 @@
     "fecha_detectado": "2026-09-19T20:25:56.249152+00:00",
     "nivel": "🟢",
     "titulo": "Responsables y no responsables de IVA: requisitos y topes en 2026"
+  },
+  "gerencie.com::https://www.gerencie.com/simule-la-mejor-pension-que-puede-obtener-con-su-salario.html": {
+    "fecha_detectado": "2026-09-20T15:00:11.251550+00:00",
+    "nivel": "🟢",
+    "titulo": "Simule la pensión que puede obtener con su salario"
+  },
+  "gerencie.com::https://www.gerencie.com/tratamiento-del-iva-en-la-compra-de-activos-fijos.html": {
+    "fecha_detectado": "2026-09-20T15:00:11.251464+00:00",
+    "nivel": "🟢",
+    "titulo": "IVA en la compra de activos fijos: ¿es descontable?"
+  },
+  "gerencie.com::https://www.gerencie.com/venta-de-activos-fijos-no-genera-iva.html": {
+    "fecha_detectado": "2026-09-20T15:00:11.251446+00:00",
+    "nivel": "🟢",
+    "titulo": "¿La venta de activos fijos genera IVA?"
+  },
+  "gerencie.com::https://www.gerencie.com/venta-de-bienes-raices-no-genera-iva.html": {
+    "fecha_detectado": "2026-09-20T15:00:11.251430+00:00",
+    "nivel": "🟢",
+    "titulo": "¿La venta de inmuebles tiene IVA?"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/estandares-internacionales/2026/09/ocde-reformas-tributarias-de-2025-reflejan-un-giro-hacia-el-fortalecimiento-del-recaudo-y-los-incentivos-a-la-inversion/": {
     "fecha_detectado": "2026-09-19T20:25:52.386151+00:00",
