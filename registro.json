@@ -299,15 +299,40 @@
     "nivel": "🟠",
     "titulo": "Calculadora de imputación de pagos a la Dian"
   },
+  "gerencie.com::https://www.gerencie.com/calculadora-de-limites-al-salario-en-especie.html": {
+    "fecha_detectado": "2026-09-20T19:55:10.136336+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de límites al salario en especie"
+  },
+  "gerencie.com::https://www.gerencie.com/calculadora-de-reduccion-de-sanciones-tributarias.html": {
+    "fecha_detectado": "2026-09-20T19:55:10.136351+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de reducción de sanciones tributarias"
+  },
   "gerencie.com::https://www.gerencie.com/calculadora-en-linea-del-impuesto-a-la-renta-de-personas-naturales.html": {
     "fecha_detectado": "2026-09-20T00:28:15.508030+00:00",
     "nivel": "🟢",
     "titulo": "Calculadora en línea del impuesto a la renta de personas naturales"
   },
+  "gerencie.com::https://www.gerencie.com/calculadora-en-linea-para-indexar-salarios-y-demas-obligaciones-laborales.html": {
+    "fecha_detectado": "2026-09-20T19:55:10.136296+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora en línea para indexar salarios y demás obligaciones laborales"
+  },
   "gerencie.com::https://www.gerencie.com/calculadora-laboral.html": {
     "fecha_detectado": "2026-09-19T20:25:56.249365+00:00",
     "nivel": "🟢",
     "titulo": "Calculadora laboral"
+  },
+  "gerencie.com::https://www.gerencie.com/calculadora-retencion-en-la-fuente-prima-de-servicios.html": {
+    "fecha_detectado": "2026-09-20T19:55:10.136318+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora retención en la fuente prima de servicios"
+  },
+  "gerencie.com::https://www.gerencie.com/calendario-dian": {
+    "fecha_detectado": "2026-09-20T19:55:10.136166+00:00",
+    "nivel": "🔴",
+    "titulo": "Calendario tributario 2026"
   },
   "gerencie.com::https://www.gerencie.com/calendario-para-el-pago-de-la-seguridad-social-segun-el-nit.html": {
     "fecha_detectado": "2026-09-20T00:28:15.508041+00:00",
