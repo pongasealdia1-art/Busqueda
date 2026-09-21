@@ -359,6 +359,11 @@
     "nivel": "🟢",
     "titulo": "Calculadora retención en la fuente prima de servicios"
   },
+  "gerencie.com::https://www.gerencie.com/calcular-el-valor-de-la-hora-de-trabajo-en-colombia.html": {
+    "fecha_detectado": "2026-09-21T21:20:05.350610+00:00",
+    "nivel": "🟢",
+    "titulo": "Calcular el valor de la hora de trabajo en Colombia"
+  },
   "gerencie.com::https://www.gerencie.com/calendario-dian": {
     "fecha_detectado": "2026-09-20T19:55:10.136166+00:00",
     "nivel": "🔴",
@@ -428,6 +433,11 @@
     "fecha_detectado": "2026-09-19T20:25:56.249339+00:00",
     "nivel": "🟠",
     "titulo": "Liquidador de intereses moratorios Dian"
+  },
+  "gerencie.com::https://www.gerencie.com/liquidador-de-la-indemnizacion-moratoria-por-no-consignar-las-cesantias.html": {
+    "fecha_detectado": "2026-09-21T21:20:05.350657+00:00",
+    "nivel": "🟢",
+    "titulo": "Liquidador de la indemnización moratoria por no consignar las cesantías"
   },
   "gerencie.com::https://www.gerencie.com/liquidador-de-pensiones": {
     "fecha_detectado": "2026-09-19T20:25:56.249208+00:00",
