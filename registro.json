@@ -359,6 +359,11 @@
     "nivel": "🟢",
     "titulo": "Computadores, celulares y tabletas sin IVA en 2026"
   },
+  "gerencie.com::https://www.gerencie.com/cuando-pagar-el-iva.html": {
+    "fecha_detectado": "2026-09-21T00:35:17.379556+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Cuándo se paga el IVA?"
+  },
   "gerencie.com::https://www.gerencie.com/diferencia-entre-bienes-excluidos-y-exentos-en-el-impuesto-a-las-ventas.html": {
     "fecha_detectado": "2026-09-19T20:25:56.249106+00:00",
     "nivel": "🟢",
@@ -404,6 +409,11 @@
     "nivel": "🟠",
     "titulo": "Liquidador Pro de intereses moratorios – Dian"
   },
+  "gerencie.com::https://www.gerencie.com/liquidador-en-linea-de-trabajadores-que-trabajan-por-dias.html": {
+    "fecha_detectado": "2026-09-21T00:35:17.379635+00:00",
+    "nivel": "🟢",
+    "titulo": "Liquidador de contrato de trabajo por días"
+  },
   "gerencie.com::https://www.gerencie.com/liquidadores-laborales": {
     "fecha_detectado": "2026-09-19T20:25:56.249287+00:00",
     "nivel": "🟢",
@@ -438,6 +448,16 @@
     "fecha_detectado": "2026-09-19T20:25:56.249152+00:00",
     "nivel": "🟢",
     "titulo": "Responsables y no responsables de IVA: requisitos y topes en 2026"
+  },
+  "gerencie.com::https://www.gerencie.com/servicios-de-educacion-excluidos-del-iva.html": {
+    "fecha_detectado": "2026-09-21T00:35:17.379500+00:00",
+    "nivel": "🟢",
+    "titulo": "IVA en la educación: colegios, universidades, cursos y capacitaciones"
+  },
+  "gerencie.com::https://www.gerencie.com/servicios-de-salud-preventivos-estan-excluidos-del-iva.html": {
+    "fecha_detectado": "2026-09-21T00:35:17.379540+00:00",
+    "nivel": "🟢",
+    "titulo": "Servicios de salud excluidos del IVA: qué incluye y qué no"
   },
   "gerencie.com::https://www.gerencie.com/simule-la-mejor-pension-que-puede-obtener-con-su-salario.html": {
     "fecha_detectado": "2026-09-20T15:00:11.251550+00:00",
