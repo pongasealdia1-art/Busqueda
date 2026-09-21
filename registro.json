@@ -1,8 +1,23 @@
 {
+  "accounter.co::https://accounter.co/normatividad/ayudas-recibidas-por-damnificados-del-terremoto-estan-gravadas-como-ganancia-ocasional-oficio-dian-100192467-2764-de-2026": {
+    "fecha_detectado": "2026-09-21T17:18:28.285208+00:00",
+    "nivel": "🟠",
+    "titulo": "Ayudas recibidas por damnificados del terremoto están gravadas como ganancia ocasional. Oficio DIAN 100192467-2764 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/estados-financieros-en-propiedades-horizontales-por-etapas-concepto-ctcp-2026-210": {
     "fecha_detectado": "2026-09-19T20:25:56.024150+00:00",
     "nivel": "🟠",
     "titulo": "Estados financieros en propiedades horizontales por etapas. Concepto CTCP 2026-210"
+  },
+  "accounter.co::https://accounter.co/normatividad/incentivos-tributarios-para-inversiones-en-territorios-afectados-por-el-terremoto-decreto-legislativo-1413-de-2026": {
+    "fecha_detectado": "2026-09-21T17:18:28.285164+00:00",
+    "nivel": "🔴",
+    "titulo": "Incentivos tributarios para inversiones en territorios afectados por el terremoto – Decreto Legislativo 1413 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/inexistencia-de-obligacion-general-de-reportar-estados-financieros-intermedios-ante-supersociedades-oficio-115-001292-de-2026": {
+    "fecha_detectado": "2026-09-21T17:18:28.285244+00:00",
+    "nivel": "🟢",
+    "titulo": "Inexistencia de obligación general de reportar estados financieros intermedios ante Supersociedades – Oficio 115-001292 de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/modalidad-especial-de-obras-por-impuestos-para-la-reconstruccion-de-territorios-afectados-por-el-terremoto-decreto-legislativo-1389-de-2026": {
     "fecha_detectado": "2026-09-19T20:25:56.024195+00:00",
@@ -189,6 +204,11 @@
     "nivel": "🟢",
     "titulo": "La reducción del recaudo tributario y el uso de medios electrónicos"
   },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/negocios-simulados-asi-funciona-la-carga-dinamica-de-la-prueba-ante-la-dian": {
+    "fecha_detectado": "2026-09-21T17:18:25.555615+00:00",
+    "nivel": "🟠",
+    "titulo": "¿Negocios simulados? Así funciona la carga dinámica de la prueba ante la Dian"
+  },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/novedades-sobre-niif-nuevas-reglas-para-los-contratos-de-electricidad-renovable": {
     "fecha_detectado": "2026-09-19T20:25:53.114109+00:00",
     "nivel": "🟢",
@@ -228,6 +248,11 @@
     "fecha_detectado": "2026-09-19T20:25:53.113978+00:00",
     "nivel": "🟢",
     "titulo": "Podcast Revista Impuestos: Tributación de los activos intangibles"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/revolcon-tributario": {
+    "fecha_detectado": "2026-09-21T17:18:25.555580+00:00",
+    "nivel": "🟢",
+    "titulo": "Revolcón tributario"
   },
   "cijuf.org.co::https://cijuf.org.co/normatividad/Decreto": {
     "fecha_detectado": "2026-09-19T20:26:00.041888+00:00",
@@ -308,6 +333,11 @@
     "fecha_detectado": "2026-09-20T19:55:10.136351+00:00",
     "nivel": "🟢",
     "titulo": "Calculadora de reducción de sanciones tributarias"
+  },
+  "gerencie.com::https://www.gerencie.com/calculadora-de-salario-integral.html": {
+    "fecha_detectado": "2026-09-21T17:18:28.818558+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de salario integral"
   },
   "gerencie.com::https://www.gerencie.com/calculadora-en-linea-del-impuesto-a-la-renta-de-personas-naturales.html": {
     "fecha_detectado": "2026-09-20T00:28:15.508030+00:00",
@@ -484,10 +514,25 @@
     "nivel": "🟢",
     "titulo": "OCDE: reformas tributarias de 2025 reflejan un giro hacia el fortalecimiento del recaudo y los incentivos a la inversión"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/09/concejo-de-bogota-inicio-segundo-debate-del-proyecto-de-reforma-tributaria-distrital/": {
+    "fecha_detectado": "2026-09-21T17:18:25.151731+00:00",
+    "nivel": "🔴",
+    "titulo": "Concejo de Bogotá inició segundo debate del proyecto de reforma tributaria distrital"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/09/descuento-del-iva-en-fiducia-por-activos-fijos-reales-productivos/": {
     "fecha_detectado": "2026-09-19T20:25:52.386174+00:00",
     "nivel": "🟢",
     "titulo": "Descuento del IVA en fiducia por activos fijos reales productivos"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/09/patrimonio-liquido-es-la-base-para-calcular-sanciones-relacionadas-con-la-declaracion-de-ingresos-y-patrimonio/": {
+    "fecha_detectado": "2026-09-21T17:18:25.151672+00:00",
+    "nivel": "🟢",
+    "titulo": "Patrimonio líquido es la base para calcular sanciones relacionadas con la declaración de ingresos y patrimonio"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/09/disponible-dashboard-de-la-encuesta-nacional-de-la-profesion-contable-2026-realiza-por-jcc-y-universidad-externado/": {
+    "fecha_detectado": "2026-09-21T17:18:25.151722+00:00",
+    "nivel": "🟢",
+    "titulo": "Disponible dashboard de la Encuesta Nacional de la Profesión Contable 2026 realiza por JCC y universidad Externado"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/09/el-15-de-septiembre-vence-el-plazo-para-pagar-la-contribucion-2026-a-supersociedades/": {
     "fecha_detectado": "2026-09-19T20:25:52.386200+00:00",
@@ -579,6 +624,11 @@
     "nivel": "🟢",
     "titulo": "¿Cuál es la diferencia entre bienes gravados, exentos y excluidos de IVA?"
   },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/calendario-nomina-electronica/": {
+    "fecha_detectado": "2026-09-21T17:18:23.147958+00:00",
+    "nivel": "🟠",
+    "titulo": "Calendario de nómina electrónica 2026: Fechas límite de transmisión a la DIAN y controles para el contador"
+  },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/decreto-1419-de-2026-beneficios-tributarios-dian/": {
     "fecha_detectado": "2026-09-19T20:25:50.411235+00:00",
     "nivel": "🟠",
@@ -618,6 +668,16 @@
     "fecha_detectado": "2026-09-19T20:25:50.411415+00:00",
     "nivel": "🟡",
     "titulo": "Obras por impuestos para la reconstrucción: ¿Cómo funciona el Decreto 1389 de 2026?"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/reduccion-de-sanciones/": {
+    "fecha_detectado": "2026-09-21T17:18:23.147933+00:00",
+    "nivel": "🟠",
+    "titulo": "Reducción de sanciones DIAN 2026: ¿Cómo pagar el 15 % y aplicar los alivios vigentes del Decreto 1419 de 2026?"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/requerimientos-de-la-dian/": {
+    "fecha_detectado": "2026-09-21T17:18:23.147886+00:00",
+    "nivel": "🟠",
+    "titulo": "Requerimientos de la DIAN: Guía completa para contadores sobre cómo actuar, responder y defender a tu cliente"
   },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/responsabilidad-07-en-el-rut/": {
     "fecha_detectado": "2026-09-19T20:25:50.411348+00:00",
