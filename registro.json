@@ -199,6 +199,11 @@
     "nivel": "🟠",
     "titulo": "Dian pretende recuperar $ 1,28 billones en retenciones en la fuente"
   },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/dian-prorroga-suspension-de-terminos-en-pereira": {
+    "fecha_detectado": "2026-09-22T20:37:07.279443+00:00",
+    "nivel": "🟠",
+    "titulo": "Dian prorroga suspensión de términos en Pereira"
+  },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/el-impuesto-de-alumbrado-publico-y-los-estratos-residenciales-en-bogota": {
     "fecha_detectado": "2026-09-19T20:25:53.114153+00:00",
     "nivel": "🟢",
@@ -243,6 +248,11 @@
     "fecha_detectado": "2026-09-19T20:25:53.114109+00:00",
     "nivel": "🟢",
     "titulo": "Novedades sobre NIIF: nuevas reglas para los contratos de electricidad renovable"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/para-efectos-de-impuesto-predial-prevalece-la-realidad-del-inmueble-sobre-la": {
+    "fecha_detectado": "2026-09-22T20:37:07.279408+00:00",
+    "nivel": "🟢",
+    "titulo": "Para efectos de impuesto predial, prevalece la realidad del inmueble sobre la información de catastro"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/podcast-revista-impuestos-economia-de-opcion-planeacion-fiscal-o-abuso-en": {
     "fecha_detectado": "2026-09-19T20:25:53.113961+00:00",
@@ -344,6 +354,11 @@
     "nivel": "🟢",
     "titulo": "Base gravable del Iva"
   },
+  "gerencie.com::https://www.gerencie.com/calculadora-de-aportes-a-seguridad-social.html": {
+    "fecha_detectado": "2026-09-22T20:37:10.761675+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de aportes a seguridad social"
+  },
   "gerencie.com::https://www.gerencie.com/calculadora-de-cesantias.html": {
     "fecha_detectado": "2026-09-20T00:28:15.508019+00:00",
     "nivel": "🟢",
@@ -429,6 +444,11 @@
     "nivel": "🟢",
     "titulo": "Convertidor de tasa efectiva anual a nominal"
   },
+  "gerencie.com::https://www.gerencie.com/costo-historico-en-las-niif.html": {
+    "fecha_detectado": "2026-09-22T20:37:10.761542+00:00",
+    "nivel": "🟢",
+    "titulo": "Costo histórico en las NIIF: qué es y cómo se determina"
+  },
   "gerencie.com::https://www.gerencie.com/cuando-pagar-el-iva.html": {
     "fecha_detectado": "2026-09-21T00:35:17.379556+00:00",
     "nivel": "🟢",
@@ -438,6 +458,11 @@
     "fecha_detectado": "2026-09-19T20:25:56.249106+00:00",
     "nivel": "🟢",
     "titulo": "Diferencia entre bienes exentos, excluidos y no gravados en el IVA"
+  },
+  "gerencie.com::https://www.gerencie.com/grupos-en-contabilidad.html": {
+    "fecha_detectado": "2026-09-22T20:37:10.761565+00:00",
+    "nivel": "🟢",
+    "titulo": "Grupos NIIF en Colombia: qué norma debe aplicar cada empresa"
   },
   "gerencie.com::https://www.gerencie.com/guia-laboral": {
     "fecha_detectado": "2026-09-19T20:25:56.249307+00:00",
@@ -504,6 +529,11 @@
     "nivel": "🟢",
     "titulo": "¿El descuento se aplica antes o después del IVA?"
   },
+  "gerencie.com::https://www.gerencie.com/medicion-en-las-niif.html": {
+    "fecha_detectado": "2026-09-22T20:37:10.761587+00:00",
+    "nivel": "🟢",
+    "titulo": "Medición en las NIIF: qué es y cuáles son las bases de medición"
+  },
   "gerencie.com::https://www.gerencie.com/oportunidad-para-descontar-el-impuesto-a-las-ventas-retenido.html": {
     "fecha_detectado": "2026-09-20T15:00:11.251395+00:00",
     "nivel": "🟢",
@@ -523,6 +553,11 @@
     "fecha_detectado": "2026-09-20T00:28:15.507929+00:00",
     "nivel": "🟢",
     "titulo": "IVA generado: qué es, cómo se calcula y en qué cuenta se registra"
+  },
+  "gerencie.com::https://www.gerencie.com/que-son-las-niif.html": {
+    "fecha_detectado": "2026-09-22T20:37:10.761607+00:00",
+    "nivel": "🟢",
+    "titulo": "Qué son las NIIF y en qué se diferencian de las NIC"
   },
   "gerencie.com::https://www.gerencie.com/responsables-y-no-responsables-del-iva.html": {
     "fecha_detectado": "2026-09-19T20:25:56.249152+00:00",
@@ -548,6 +583,11 @@
     "fecha_detectado": "2026-09-20T15:00:11.251464+00:00",
     "nivel": "🟢",
     "titulo": "IVA en la compra de activos fijos: ¿es descontable?"
+  },
+  "gerencie.com::https://www.gerencie.com/valor-razonable-en-las-niif.html": {
+    "fecha_detectado": "2026-09-22T20:37:10.761509+00:00",
+    "nivel": "🟢",
+    "titulo": "Valor razonable en las NIIF: qué es y cómo se determina"
   },
   "gerencie.com::https://www.gerencie.com/venta-de-activos-fijos-no-genera-iva.html": {
     "fecha_detectado": "2026-09-20T15:00:11.251446+00:00",
