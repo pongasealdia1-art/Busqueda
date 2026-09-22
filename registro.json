@@ -79,6 +79,16 @@
     "nivel": "🟡",
     "titulo": "El Ministerio del Trabajo se despidió con otro decreto ilegal"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/el-nuevo-proceso-laboral-una-reforma-con-desafios-pendientes": {
+    "fecha_detectado": "2026-09-22T01:17:57.683794+00:00",
+    "nivel": "🟢",
+    "titulo": "El nuevo proceso laboral: una reforma con desafíos pendientes"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/fijan-criterios-para-resolver-controversias-donde-hay-dos-reclamantes-de": {
+    "fecha_detectado": "2026-09-22T01:17:57.683744+00:00",
+    "nivel": "🟢",
+    "titulo": "Fijan criterios para resolver controversias donde hay dos reclamantes de sustitución pensional"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/infografia-lo-pueden-despedir-por-no-justificar-el-retiro-de-cesantias": {
     "fecha_detectado": "2026-09-19T20:25:53.114566+00:00",
     "nivel": "🟢",
@@ -393,6 +403,11 @@
     "fecha_detectado": "2026-09-20T15:00:11.251347+00:00",
     "nivel": "🟢",
     "titulo": "Computadores, celulares y tabletas sin IVA en 2026"
+  },
+  "gerencie.com::https://www.gerencie.com/conversor-de-tasas-efectivas-a-nominales-y-viceversa.html": {
+    "fecha_detectado": "2026-09-22T01:18:00.572906+00:00",
+    "nivel": "🟢",
+    "titulo": "Convertidor de tasa efectiva anual a nominal"
   },
   "gerencie.com::https://www.gerencie.com/cuando-pagar-el-iva.html": {
     "fecha_detectado": "2026-09-21T00:35:17.379556+00:00",
