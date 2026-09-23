@@ -1,4 +1,9 @@
 {
+  "accounter.co::https://accounter.co/herramientas/151180": {
+    "fecha_detectado": "2026-09-23T20:47:40.970245+00:00",
+    "nivel": "🟢",
+    "titulo": "Protegido: Pack descargable: 10 prompts de IA para auditoría y Revisoría Fiscal"
+  },
   "accounter.co::https://accounter.co/normatividad/alcance-territorial-de-las-medidas-tributarias-adoptadas-por-el-decreto-1419-de-2026-concepto-dian-100208192-1737-de-2026": {
     "fecha_detectado": "2026-09-23T15:41:22.067088+00:00",
     "nivel": "🟠",
@@ -84,6 +89,11 @@
     "nivel": "🟡",
     "titulo": "Cuando una circular deja de ser una circular"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/civilfamilia/analisis-evolucion-del-concepto-de-familia-en-el-derecho-pensional-colombiano": {
+    "fecha_detectado": "2026-09-23T20:47:38.518883+00:00",
+    "nivel": "🟠",
+    "titulo": "ANÁLISIS: Evolución del concepto de familia en el derecho pensional colombiano"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/civilfamilia/cotizar-en-salud-no-demuestra-independencia-economica-para-efectos-de": {
     "fecha_detectado": "2026-09-19T20:25:53.114199+00:00",
     "nivel": "🟢",
@@ -98,6 +108,11 @@
     "fecha_detectado": "2026-09-19T20:25:53.114315+00:00",
     "nivel": "🟢",
     "titulo": "La reforma pensional aprobada y su esfuerzo por incorporar el enfoque de género"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/analisis-inversion-de-la-carga-de-la-prueba-en-discriminacion-laboral": {
+    "fecha_detectado": "2026-09-23T20:47:38.518939+00:00",
+    "nivel": "🟢",
+    "titulo": "ANÁLISIS: Inversión de la carga de la prueba en discriminación laboral"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/condicionan-facultad-de-supersalud-para-disenar-procedimiento-sancionatorio-por": {
     "fecha_detectado": "2026-09-19T20:25:53.114244+00:00",
@@ -128,6 +143,11 @@
     "fecha_detectado": "2026-09-22T01:17:57.683744+00:00",
     "nivel": "🟢",
     "titulo": "Fijan criterios para resolver controversias donde hay dos reclamantes de sustitución pensional"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/ineficacia-de-traslado-de-un-regimen-pensional-otro-no-procede-cuando-quien": {
+    "fecha_detectado": "2026-09-23T20:47:38.519061+00:00",
+    "nivel": "🟢",
+    "titulo": "Ineficacia de traslado de un régimen pensional a otro no procede cuando quien demanda es pensionado"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/infografia-lo-pueden-despedir-por-no-justificar-el-retiro-de-cesantias": {
     "fecha_detectado": "2026-09-19T20:25:53.114566+00:00",
@@ -229,6 +249,11 @@
     "nivel": "🟢",
     "titulo": "El impuesto de alumbrado público y los estratos residenciales en Bogotá"
   },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/esto-dice-la-propuesta-que-redefiniria-aspectos-de-la-profesion-contable": {
+    "fecha_detectado": "2026-09-23T20:47:38.518692+00:00",
+    "nivel": "🟢",
+    "titulo": "Esto dice la propuesta que redefiniría aspectos de la profesión contable"
+  },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/exequible-patrimonio-liquido-para-sancionar-no-contribuyentes-en-declaracion-de": {
     "fecha_detectado": "2026-09-19T20:25:53.113849+00:00",
     "nivel": "🟢",
@@ -248,6 +273,11 @@
     "fecha_detectado": "2026-09-19T20:25:53.113691+00:00",
     "nivel": "🟢",
     "titulo": "Gobierno adopta alivios tributarios para afectados por el terremoto"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/hacienda-bogota-requiere-mas-de-274-mil-contribuyentes-morosos-para-pagar": {
+    "fecha_detectado": "2026-09-23T20:47:38.518734+00:00",
+    "nivel": "🟢",
+    "titulo": "Hacienda Bogotá requiere a más de 274 mil contribuyentes morosos para pagar impuestos"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/infografia-plazos-impuesto-de-renta-2025-y-activos-en-el-exterior-para-personas": {
     "fecha_detectado": "2026-09-19T20:25:53.114063+00:00",
@@ -334,6 +364,11 @@
     "nivel": "🟠",
     "titulo": "Concepto 1510(015195)"
   },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-1635017190.html": {
+    "fecha_detectado": "2026-09-23T20:47:44.160832+00:00",
+    "nivel": "🟠",
+    "titulo": "Concepto 1635(017190)"
+  },
   "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-1737017734.html": {
     "fecha_detectado": "2026-09-23T15:41:26.142816+00:00",
     "nivel": "🟠",
@@ -373,6 +408,11 @@
     "fecha_detectado": "2026-09-19T20:25:57.981447+00:00",
     "nivel": "🟢",
     "titulo": "Denuncias tributarias, aduaneras y cambiarias"
+  },
+  "gerencie.com::https://www.gerencie.com/asociar-el-contador-publico-o-revisor-fiscal-al-rut-del-contribuyente.html": {
+    "fecha_detectado": "2026-09-23T20:47:41.201991+00:00",
+    "nivel": "🟢",
+    "titulo": "Cómo asociar o cambiar el contador o revisor fiscal en el RUT"
   },
   "gerencie.com::https://www.gerencie.com/base-gravable-en-el-impuesto-sobre-las-ventas.html": {
     "fecha_detectado": "2026-09-20T00:28:15.507970+00:00",
@@ -424,6 +464,11 @@
     "nivel": "🟢",
     "titulo": "Calculadora en línea para indexar salarios y demás obligaciones laborales"
   },
+  "gerencie.com::https://www.gerencie.com/calculadora-indemnizacion-por-despido-sin-justa-causa.html": {
+    "fecha_detectado": "2026-09-23T20:47:41.201948+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de indemnización por despido sin justa causa"
+  },
   "gerencie.com::https://www.gerencie.com/calculadora-laboral.html": {
     "fecha_detectado": "2026-09-19T20:25:56.249365+00:00",
     "nivel": "🟢",
@@ -454,6 +499,11 @@
     "nivel": "🔴",
     "titulo": "Calendario tributario 2026 – Dian"
   },
+  "gerencie.com::https://www.gerencie.com/cambio-de-representante-legal-ante-la-dian.html": {
+    "fecha_detectado": "2026-09-23T20:47:41.202010+00:00",
+    "nivel": "🟠",
+    "titulo": "Cambio de representante legal ante la Dian y la cámara de comercio"
+  },
   "gerencie.com::https://www.gerencie.com/causacion-del-impuesto-a-las-ventas.html": {
     "fecha_detectado": "2026-09-20T00:28:15.507894+00:00",
     "nivel": "🟢",
@@ -463,6 +513,16 @@
     "fecha_detectado": "2026-09-23T15:41:22.304343+00:00",
     "nivel": "🟠",
     "titulo": "Códigos de actividades económicas (CIIU) de la Dian"
+  },
+  "gerencie.com::https://www.gerencie.com/codigos-de-representacion-para-obligaciones-tributarias.html": {
+    "fecha_detectado": "2026-09-23T20:47:41.202025+00:00",
+    "nivel": "🟠",
+    "titulo": "Códigos de representación de la Dian"
+  },
+  "gerencie.com::https://www.gerencie.com/codigos-direcciones-seccionales-de-la-dian.html": {
+    "fecha_detectado": "2026-09-23T20:47:41.202040+00:00",
+    "nivel": "🟠",
+    "titulo": "Códigos de las direcciones seccionales de la Dian"
   },
   "gerencie.com::https://www.gerencie.com/como-calcular-el-valor-del-iva-cuando-no-se-discrimina.html": {
     "fecha_detectado": "2026-09-20T00:28:15.507962+00:00",
