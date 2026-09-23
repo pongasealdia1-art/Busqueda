@@ -359,6 +359,11 @@
     "nivel": "🟢",
     "titulo": "Calculadora de aportes a seguridad social"
   },
+  "gerencie.com::https://www.gerencie.com/calculadora-de-cesantias-exentas.html": {
+    "fecha_detectado": "2026-09-23T00:59:33.230837+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de cesantías exentas"
+  },
   "gerencie.com::https://www.gerencie.com/calculadora-de-cesantias.html": {
     "fecha_detectado": "2026-09-20T00:28:15.508019+00:00",
     "nivel": "🟢",
