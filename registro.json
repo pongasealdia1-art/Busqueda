@@ -1,8 +1,18 @@
 {
+  "accounter.co::https://accounter.co/normatividad/alcance-territorial-de-las-medidas-tributarias-adoptadas-por-el-decreto-1419-de-2026-concepto-dian-100208192-1737-de-2026": {
+    "fecha_detectado": "2026-09-23T15:41:22.067088+00:00",
+    "nivel": "🟠",
+    "titulo": "Alcance territorial de las medidas tributarias adoptadas por el Decreto 1419 de 2026 – Concepto DIAN 1737 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/alivios-tributarios-para-afectados-por-el-terremoto-facilidades-de-pago-reduccion-de-sanciones-e-intereses-y-beneficios-sobre-donaciones-decreto-1419-de-2026": {
     "fecha_detectado": "2026-09-22T15:51:46.190248+00:00",
     "nivel": "🟡",
     "titulo": "Alivios tributarios para afectados por el terremoto: facilidades de pago, reducción de sanciones e intereses y beneficios sobre donaciones – Decreto 1419 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/apoyo-extraordinario-a-la-nomina-y-proteccion-economica-de-trabajadores-damnificados-decreto-1417-de-2026": {
+    "fecha_detectado": "2026-09-23T15:41:22.067112+00:00",
+    "nivel": "🟡",
+    "titulo": "Apoyo extraordinario a la nómina y protección económica de trabajadores damnificados – Decreto 1417 de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/ayudas-recibidas-por-damnificados-del-terremoto-estan-gravadas-como-ganancia-ocasional-oficio-dian-100192467-2764-de-2026": {
     "fecha_detectado": "2026-09-21T17:18:28.285208+00:00",
@@ -43,6 +53,16 @@
     "fecha_detectado": "2026-09-19T20:25:56.024130+00:00",
     "nivel": "🟠",
     "titulo": "Reconocimiento y corrección de pasivos en propiedad horizontal. Concepto CTCP 2026-204"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/asunto-legales-retencion-en-servicios-con-aiu-la-dian-cambia-su-criterio": {
+    "fecha_detectado": "2026-09-23T15:41:22.067128+00:00",
+    "nivel": "🟠",
+    "titulo": "Asunto Legales - Retención en servicios con AIU: la DIAN cambia su criterio"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/decreto-1419-no-todos-los-alivios-del-sismo-se-quedan-en-la-zona-afectada": {
+    "fecha_detectado": "2026-09-23T15:41:22.067050+00:00",
+    "nivel": "🟡",
+    "titulo": "Accounter | Decreto 1419: No todos los alivios del sismo se quedan en la zona afectada"
   },
   "accounter.co::https://accounter.co/noticias/actualidad/dian-gobierno-nacional-expide-paquete-de-medidas-tributarias-para-la-reconstruccion-de-las-zonas-afectadas-por-el-terremoto": {
     "fecha_detectado": "2026-09-22T15:51:46.190333+00:00",
@@ -314,6 +334,11 @@
     "nivel": "🟠",
     "titulo": "Concepto 1510(015195)"
   },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-1737017734.html": {
+    "fecha_detectado": "2026-09-23T15:41:26.142816+00:00",
+    "nivel": "🟠",
+    "titulo": "Concepto 1737(017734)"
+  },
   "cijuf.org.co::https://cijuf.org.co/normatividad/decreto-unico-reglamentario/2015/dur-en-materia-contable.html": {
     "fecha_detectado": "2026-09-19T20:26:00.041874+00:00",
     "nivel": "🟢",
@@ -434,6 +459,11 @@
     "nivel": "🟢",
     "titulo": "Causación del IVA: cuándo se causa el impuesto a las ventas"
   },
+  "gerencie.com::https://www.gerencie.com/codigos-de-actividades-economicas.html": {
+    "fecha_detectado": "2026-09-23T15:41:22.304343+00:00",
+    "nivel": "🟠",
+    "titulo": "Códigos de actividades económicas (CIIU) de la Dian"
+  },
   "gerencie.com::https://www.gerencie.com/como-calcular-el-valor-del-iva-cuando-no-se-discrimina.html": {
     "fecha_detectado": "2026-09-20T00:28:15.507962+00:00",
     "nivel": "🟢",
@@ -493,6 +523,11 @@
     "fecha_detectado": "2026-09-20T00:28:15.507950+00:00",
     "nivel": "🟢",
     "titulo": "IVA descontable: qué es, requisitos y oportunidad"
+  },
+  "gerencie.com::https://www.gerencie.com/liquidacion-privada-de-impuestos.html": {
+    "fecha_detectado": "2026-09-23T15:41:22.304396+00:00",
+    "nivel": "🟢",
+    "titulo": "Liquidación privada de impuestos"
   },
   "gerencie.com::https://www.gerencie.com/liquidador-de-intereses-moratorios.html": {
     "fecha_detectado": "2026-09-19T20:25:56.249339+00:00",
@@ -569,6 +604,11 @@
     "nivel": "🟢",
     "titulo": "Responsables y no responsables de IVA: requisitos y topes en 2026"
   },
+  "gerencie.com::https://www.gerencie.com/rut.html": {
+    "fecha_detectado": "2026-09-23T15:41:22.304380+00:00",
+    "nivel": "🟢",
+    "titulo": "RUT – Registro Único Tributario"
+  },
   "gerencie.com::https://www.gerencie.com/servicios-de-educacion-excluidos-del-iva.html": {
     "fecha_detectado": "2026-09-21T00:35:17.379500+00:00",
     "nivel": "🟢",
@@ -644,6 +684,11 @@
     "nivel": "🟢",
     "titulo": "Función Pública actualizó guía de auditoría interna para entidades públicas"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/09/gobierno-expidio-paquetes-de-decretos-para-atender-los-efectos-del-sismo-de-10-de-agosto/": {
+    "fecha_detectado": "2026-09-23T15:41:16.859950+00:00",
+    "nivel": "🟡",
+    "titulo": "Gobierno expidió paquetes de decretos para atender los efectos del sismo de 10 de agosto"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/09/puede-la-dian-exigir-el-certificado-de-representacion-legal-en-un-recurso/": {
     "fecha_detectado": "2026-09-19T20:25:52.386084+00:00",
     "nivel": "🟠",
@@ -714,10 +759,20 @@
     "nivel": "🔴",
     "titulo": "Calendario Tributario"
   },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/ambito-de-aplicacion-del-decreto-1419-de-2026/": {
+    "fecha_detectado": "2026-09-23T15:41:14.603730+00:00",
+    "nivel": "🟠",
+    "titulo": "Ámbito de aplicación del Decreto 1419 de 2026: DIAN aclara qué beneficios aplican en todo Colombia"
+  },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/aplicacion-de-la-nueva-deduccion-por-dependientes/": {
     "fecha_detectado": "2026-09-19T20:25:50.411462+00:00",
     "nivel": "🟢",
     "titulo": "Deducción por dependientes en la declaración de renta AG 2025: ¿Cómo aplicar los artículos 387 y 336 del ET sin errores?"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/auditoria-a-la-declaracion-de-renta-de-personas-juridicas-dian/": {
+    "fecha_detectado": "2026-09-23T15:41:14.603671+00:00",
+    "nivel": "🟠",
+    "titulo": "Auditoría DIAN a la declaración de renta de personas jurídicas: 12 hallazgos que debes revisar"
   },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/auditoria-a-la-declaracion-de-renta-de-personas-naturales/": {
     "fecha_detectado": "2026-09-22T15:51:40.780080+00:00",
@@ -738,6 +793,11 @@
     "fecha_detectado": "2026-09-22T15:51:40.780037+00:00",
     "nivel": "🟢",
     "titulo": "Corte contable 2026: ¿Cómo evitar que ingresos, costos y gastos queden en el período equivocado?"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/declaracion-de-renta-por-fraccion-de-ano/": {
+    "fecha_detectado": "2026-09-23T15:41:14.603707+00:00",
+    "nivel": "🟢",
+    "titulo": "Declaración de renta por fracción de año: Aspectos clave para su presentación"
   },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/decreto-1419-de-2026-beneficios-tributarios-dian/": {
     "fecha_detectado": "2026-09-19T20:25:50.411235+00:00",
