@@ -19,6 +19,11 @@
     "nivel": "🟡",
     "titulo": "Apoyo extraordinario a la nómina y protección económica de trabajadores damnificados – Decreto 1417 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/arrendamiento-intragrupo-el-tratamiento-del-inmueble-cambia-segun-los-estados-financieros-concepto-ctcp-224-de-2026": {
+    "fecha_detectado": "2026-09-24T16:02:15.073621+00:00",
+    "nivel": "🟠",
+    "titulo": "Arrendamiento intragrupo: el tratamiento del inmueble cambia según los estados financieros — Concepto CTCP 224 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/ayudas-recibidas-por-damnificados-del-terremoto-estan-gravadas-como-ganancia-ocasional-oficio-dian-100192467-2764-de-2026": {
     "fecha_detectado": "2026-09-21T17:18:28.285208+00:00",
     "nivel": "🟠",
@@ -38,6 +43,11 @@
     "fecha_detectado": "2026-09-21T17:18:28.285244+00:00",
     "nivel": "🟢",
     "titulo": "Inexistencia de obligación general de reportar estados financieros intermedios ante Supersociedades – Oficio 115-001292 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/intereses-sobre-cesantias-su-nombre-legal-no-determina-una-clasificacion-financiera-concepto-ctcp-226-de-2026": {
+    "fecha_detectado": "2026-09-24T16:02:15.073658+00:00",
+    "nivel": "🟠",
+    "titulo": "Intereses sobre cesantías: su nombre legal no determina una clasificación financiera — Concepto CTCP 226 de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/medidas-especiales-para-la-recuperacion-y-reactivacion-empresarial-decreto-1418-de-2026": {
     "fecha_detectado": "2026-09-22T15:51:46.190309+00:00",
@@ -83,6 +93,11 @@
     "fecha_detectado": "2026-09-22T15:51:46.190283+00:00",
     "nivel": "🟢",
     "titulo": "Editorial Tributar Asesores SAS - Alivios tributarios: ¿solo en los territorios afectados?"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/la-republica-la-dian-aclaro-que-morosos-de-todo-el-pais-podran-pagar-solo-15-de-sus-sanciones": {
+    "fecha_detectado": "2026-09-24T16:02:15.073677+00:00",
+    "nivel": "🟠",
+    "titulo": "La Republica - La DIAN aclaró que morosos de todo el país podrán pagar solo 15% de sus sanciones"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/actualidad/cuando-una-circular-deja-de-ser-una-circular": {
     "fecha_detectado": "2026-09-19T20:25:53.114637+00:00",
@@ -424,6 +439,11 @@
     "nivel": "🟢",
     "titulo": "Base gravable del Iva"
   },
+  "gerencie.com::https://www.gerencie.com/cada-cuanto-se-declara-renta.html": {
+    "fecha_detectado": "2026-09-24T16:02:15.481180+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Cada cuánto se declara renta?"
+  },
   "gerencie.com::https://www.gerencie.com/calculadora-de-aportes-a-seguridad-social.html": {
     "fecha_detectado": "2026-09-22T20:37:10.761675+00:00",
     "nivel": "🟢",
@@ -448,6 +468,11 @@
     "fecha_detectado": "2026-09-20T19:55:10.136336+00:00",
     "nivel": "🟢",
     "titulo": "Calculadora de límites al salario en especie"
+  },
+  "gerencie.com::https://www.gerencie.com/calculadora-de-porcentaje-de-pension.html": {
+    "fecha_detectado": "2026-09-24T16:02:15.481319+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de porcentaje de pensión (Tasa de reemplazo)"
   },
   "gerencie.com::https://www.gerencie.com/calculadora-de-reduccion-de-sanciones-tributarias.html": {
     "fecha_detectado": "2026-09-20T19:55:10.136351+00:00",
@@ -569,6 +594,16 @@
     "nivel": "🟢",
     "titulo": "Diferencia entre bienes exentos, excluidos y no gravados en el IVA"
   },
+  "gerencie.com::https://www.gerencie.com/edad-minima-para-que-un-menor-cumpla-obligaciones-tributarias-directamente.html": {
+    "fecha_detectado": "2026-09-24T16:02:15.481245+00:00",
+    "nivel": "🟢",
+    "titulo": "Menor adulto: desde qué edad un menor puede cumplir sus obligaciones tributarias"
+  },
+  "gerencie.com::https://www.gerencie.com/firma-digital-dian.html": {
+    "fecha_detectado": "2026-09-24T16:02:15.481229+00:00",
+    "nivel": "🟠",
+    "titulo": "Firma electrónica de la Dian: cómo obtenerla, renovarla y recuperarla"
+  },
   "gerencie.com::https://www.gerencie.com/formulario-210-en-excel-sistema-cedular.html": {
     "fecha_detectado": "2026-09-24T00:56:21.635875+00:00",
     "nivel": "🟠",
@@ -603,6 +638,11 @@
     "fecha_detectado": "2026-09-20T00:28:15.507950+00:00",
     "nivel": "🟢",
     "titulo": "IVA descontable: qué es, requisitos y oportunidad"
+  },
+  "gerencie.com::https://www.gerencie.com/la-independencia-del-auditor.html": {
+    "fecha_detectado": "2026-09-24T16:02:15.481261+00:00",
+    "nivel": "🟢",
+    "titulo": "La independencia del auditor: qué es y cómo se pierde"
   },
   "gerencie.com::https://www.gerencie.com/liquidacion-privada-de-impuestos.html": {
     "fecha_detectado": "2026-09-23T15:41:22.304396+00:00",
@@ -704,6 +744,11 @@
     "nivel": "🟢",
     "titulo": "Simule la pensión que puede obtener con su salario"
   },
+  "gerencie.com::https://www.gerencie.com/sucesiones-iliquidas-y-sus-obligaciones-tributarias.html": {
+    "fecha_detectado": "2026-09-24T16:02:15.481214+00:00",
+    "nivel": "🟢",
+    "titulo": "Obligaciones tributarias de las sucesiones ilíquidas"
+  },
   "gerencie.com::https://www.gerencie.com/tratamiento-del-iva-en-la-compra-de-activos-fijos.html": {
     "fecha_detectado": "2026-09-20T15:00:11.251464+00:00",
     "nivel": "🟢",
@@ -723,6 +768,11 @@
     "fecha_detectado": "2026-09-20T15:00:11.251430+00:00",
     "nivel": "🟢",
     "titulo": "¿La venta de inmuebles tiene IVA?"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/2026/09/cuatro-ajustes-necesarios-al-organo-que-orienta-la-normatividad-contable-tecnica-en-colombia/": {
+    "fecha_detectado": "2026-09-24T16:02:11.468833+00:00",
+    "nivel": "🟢",
+    "titulo": "Cuatro ajustes necesarios al órgano que orienta la normatividad contable técnica en Colombia"
   },
   "incp.org.co::https://incp.org.co/publicaciones/2026/09/iaasb-explico-su-propuesta-de-modificaciones-a-las-normas-sobre-evidencia-y-respuesta-a-los-riesgos-de-auditoria/": {
     "fecha_detectado": "2026-09-22T15:51:42.910388+00:00",
