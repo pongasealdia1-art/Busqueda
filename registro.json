@@ -409,6 +409,11 @@
     "nivel": "🟢",
     "titulo": "Denuncias tributarias, aduaneras y cambiarias"
   },
+  "gerencie.com::https://www.gerencie.com/ajustes-por-diferencia-en-cambio-en-las-niif.html": {
+    "fecha_detectado": "2026-09-24T00:56:21.635732+00:00",
+    "nivel": "🟢",
+    "titulo": "Diferencia en cambio en las NIIF: cómo se reconoce y se ajusta"
+  },
   "gerencie.com::https://www.gerencie.com/asociar-el-contador-publico-o-revisor-fiscal-al-rut-del-contribuyente.html": {
     "fecha_detectado": "2026-09-23T20:47:41.201991+00:00",
     "nivel": "🟢",
@@ -453,6 +458,11 @@
     "fecha_detectado": "2026-09-21T17:18:28.818558+00:00",
     "nivel": "🟢",
     "titulo": "Calculadora de salario integral"
+  },
+  "gerencie.com::https://www.gerencie.com/calculadora-de-seguridad-social-por-dias.html": {
+    "fecha_detectado": "2026-09-24T00:56:21.635902+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de seguridad social por días"
   },
   "gerencie.com::https://www.gerencie.com/calculadora-en-linea-del-impuesto-a-la-renta-de-personas-naturales.html": {
     "fecha_detectado": "2026-09-20T00:28:15.508030+00:00",
@@ -549,10 +559,20 @@
     "nivel": "🟢",
     "titulo": "¿Cuándo se paga el IVA?"
   },
+  "gerencie.com::https://www.gerencie.com/descuentos-comerciales-y-condicionados-en-niif-para-pymes.html": {
+    "fecha_detectado": "2026-09-24T00:56:21.635775+00:00",
+    "nivel": "🟢",
+    "titulo": "Descuentos comerciales y condicionados: cuentas y contabilización bajo NIIF"
+  },
   "gerencie.com::https://www.gerencie.com/diferencia-entre-bienes-excluidos-y-exentos-en-el-impuesto-a-las-ventas.html": {
     "fecha_detectado": "2026-09-19T20:25:56.249106+00:00",
     "nivel": "🟢",
     "titulo": "Diferencia entre bienes exentos, excluidos y no gravados en el IVA"
+  },
+  "gerencie.com::https://www.gerencie.com/formulario-210-en-excel-sistema-cedular.html": {
+    "fecha_detectado": "2026-09-24T00:56:21.635875+00:00",
+    "nivel": "🟠",
+    "titulo": "Formulario 210 de la Dian en Excel"
   },
   "gerencie.com::https://www.gerencie.com/grupos-en-contabilidad.html": {
     "fecha_detectado": "2026-09-22T20:37:10.761565+00:00",
