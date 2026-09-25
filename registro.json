@@ -34,6 +34,11 @@
     "nivel": "🟠",
     "titulo": "Conversión de estados financieros comparativos: cada período conserva su tasa de cierre — Concepto CTCP 215 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/estados-financieros-base-para-la-transformacion-de-una-s-a-en-s-a-s-oficio-supersociedades-115-323554-de-2026": {
+    "fecha_detectado": "2026-09-25T16:02:59.444208+00:00",
+    "nivel": "🟢",
+    "titulo": "Estados financieros base para la transformación de una S.A. en S.A.S. — Oficio Supersociedades 115-323554 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/estados-financieros-en-propiedades-horizontales-por-etapas-concepto-ctcp-2026-210": {
     "fecha_detectado": "2026-09-19T20:25:56.024150+00:00",
     "nivel": "🟠",
@@ -48,6 +53,11 @@
     "fecha_detectado": "2026-09-21T17:18:28.285244+00:00",
     "nivel": "🟢",
     "titulo": "Inexistencia de obligación general de reportar estados financieros intermedios ante Supersociedades – Oficio 115-001292 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/intereses-moratorios-por-ajustes-a-los-anticipos-del-simple-oficio-dian-017190-int-1635-de-2026": {
+    "fecha_detectado": "2026-09-25T16:02:59.444162+00:00",
+    "nivel": "🟠",
+    "titulo": "Intereses moratorios por ajustes a los anticipos del SIMPLE — Oficio DIAN 017190 (int. 1635) de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/intereses-sobre-cesantias-su-nombre-legal-no-determina-una-clasificacion-financiera-concepto-ctcp-226-de-2026": {
     "fecha_detectado": "2026-09-24T16:02:15.073658+00:00",
@@ -93,6 +103,11 @@
     "fecha_detectado": "2026-09-19T20:25:56.024176+00:00",
     "nivel": "🟠",
     "titulo": "DIAN intensifica acciones para recuperar más de $1,28 billones en retenciones en la fuente"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/editorial-tributar-asesores-sas-alcance-de-la-informacion-contable-exigida-a-grandes-contribuyentes-de-ica-en-bogota-documento-tributar-io-1022-de-2026": {
+    "fecha_detectado": "2026-09-25T16:02:59.444249+00:00",
+    "nivel": "🟢",
+    "titulo": "Editorial Tributar Asesores SAS - Alcance de la información contable exigida a grandes contribuyentes de ICA en Bogotá — Documento TRIBUTAR-io 1022 de 2026"
   },
   "accounter.co::https://accounter.co/noticias/actualidad/editorial-tributar-asesores-sas-alivios-tributarios-solo-en-los-territorios-afectados": {
     "fecha_detectado": "2026-09-22T15:51:46.190283+00:00",
@@ -399,6 +414,16 @@
     "nivel": "🟠",
     "titulo": "Concepto 1510(015195)"
   },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-1526016556.html": {
+    "fecha_detectado": "2026-09-25T16:03:08.068714+00:00",
+    "nivel": "🟠",
+    "titulo": "Concepto 1526(016556)"
+  },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-161815983.html": {
+    "fecha_detectado": "2026-09-25T16:03:08.068685+00:00",
+    "nivel": "🟠",
+    "titulo": "Concepto 1618(15983)"
+  },
   "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-1635017190.html": {
     "fecha_detectado": "2026-09-23T20:47:44.160832+00:00",
     "nivel": "🟠",
@@ -454,6 +479,11 @@
     "nivel": "🟢",
     "titulo": "Diferencia en cambio en las NIIF: cómo se reconoce y se ajusta"
   },
+  "gerencie.com::https://www.gerencie.com/aportes-a-seguridad-social.html": {
+    "fecha_detectado": "2026-09-25T16:02:59.994139+00:00",
+    "nivel": "🟢",
+    "titulo": "Aportes a seguridad social"
+  },
   "gerencie.com::https://www.gerencie.com/asociar-el-contador-publico-o-revisor-fiscal-al-rut-del-contribuyente.html": {
     "fecha_detectado": "2026-09-23T20:47:41.201991+00:00",
     "nivel": "🟢",
@@ -468,6 +498,11 @@
     "fecha_detectado": "2026-09-20T00:28:15.507970+00:00",
     "nivel": "🟢",
     "titulo": "Base gravable del Iva"
+  },
+  "gerencie.com::https://www.gerencie.com/base-para-liquidar-aportes-a-seguridad-social.html": {
+    "fecha_detectado": "2026-09-25T16:02:59.994125+00:00",
+    "nivel": "🟢",
+    "titulo": "Base para liquidar aportes a seguridad social: guía completa"
   },
   "gerencie.com::https://www.gerencie.com/cada-cuanto-se-declara-renta.html": {
     "fecha_detectado": "2026-09-24T16:02:15.481180+00:00",
@@ -694,6 +729,11 @@
     "nivel": "🟢",
     "titulo": "La independencia del auditor: qué es y cómo se pierde"
   },
+  "gerencie.com::https://www.gerencie.com/limites-a-la-base-de-aportes-al-sistema-de-seguridad-social.html": {
+    "fecha_detectado": "2026-09-25T16:02:59.994092+00:00",
+    "nivel": "🟢",
+    "titulo": "Límites a la base de aportes a seguridad social"
+  },
   "gerencie.com::https://www.gerencie.com/liquidacion-privada-de-impuestos.html": {
     "fecha_detectado": "2026-09-23T15:41:22.304396+00:00",
     "nivel": "🟢",
@@ -784,6 +824,11 @@
     "nivel": "🟢",
     "titulo": "IVA generado: qué es, cómo se calcula y en qué cuenta se registra"
   },
+  "gerencie.com::https://www.gerencie.com/que-es-la-seguridad-social-en-una-relacion-laboral.html": {
+    "fecha_detectado": "2026-09-25T16:02:59.994153+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Qué es la seguridad social?"
+  },
   "gerencie.com::https://www.gerencie.com/que-es-la-via-gubernativa.html": {
     "fecha_detectado": "2026-09-25T00:57:13.987531+00:00",
     "nivel": "🟢",
@@ -798,6 +843,11 @@
     "fecha_detectado": "2026-09-19T20:25:56.249152+00:00",
     "nivel": "🟢",
     "titulo": "Responsables y no responsables de IVA: requisitos y topes en 2026"
+  },
+  "gerencie.com::https://www.gerencie.com/retencion-en-la-fuente-en-los-ingresos-recibidos-para-terceros.html": {
+    "fecha_detectado": "2026-09-25T16:02:59.994171+00:00",
+    "nivel": "🟢",
+    "titulo": "Retención en la fuente en los ingresos recibidos para terceros"
   },
   "gerencie.com::https://www.gerencie.com/revocatoria-directa.html": {
     "fecha_detectado": "2026-09-25T00:57:13.987475+00:00",
@@ -873,6 +923,11 @@
     "fecha_detectado": "2026-09-19T20:25:52.386174+00:00",
     "nivel": "🟢",
     "titulo": "Descuento del IVA en fiducia por activos fijos reales productivos"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/09/medidas-del-decreto-1419-de-2026-que-aplican-a-afectados-por-el-sismo-del-10-de-agosto/": {
+    "fecha_detectado": "2026-09-25T16:02:38.474769+00:00",
+    "nivel": "🟡",
+    "titulo": "Medidas del Decreto 1419 de 2026 que aplican a afectados por el sismo del 10 de agosto"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/09/patrimonio-liquido-es-la-base-para-calcular-sanciones-relacionadas-con-la-declaracion-de-ingresos-y-patrimonio/": {
     "fecha_detectado": "2026-09-21T17:18:25.151672+00:00",
