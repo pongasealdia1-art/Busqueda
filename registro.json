@@ -444,6 +444,11 @@
     "nivel": "🟢",
     "titulo": "Denuncias tributarias, aduaneras y cambiarias"
   },
+  "gerencie.com::https://www.gerencie.com/actos-administrativos-ejecutoriados-en-materia-tributaria.html": {
+    "fecha_detectado": "2026-09-25T00:57:13.987458+00:00",
+    "nivel": "🟢",
+    "titulo": "Actos administrativos ejecutoriados en materia tributaria"
+  },
   "gerencie.com::https://www.gerencie.com/ajustes-por-diferencia-en-cambio-en-las-niif.html": {
     "fecha_detectado": "2026-09-24T00:56:21.635732+00:00",
     "nivel": "🟢",
@@ -594,6 +599,11 @@
     "nivel": "🟢",
     "titulo": "Cómo sacar el IVA de un valor: calculadora de IVA incluido"
   },
+  "gerencie.com::https://www.gerencie.com/como-saber-si-soy-responsable-del-iva.html": {
+    "fecha_detectado": "2026-09-25T00:57:13.987595+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Cómo saber si soy responsable del Iva?"
+  },
   "gerencie.com::https://www.gerencie.com/computadores-excluidos-de-iva.html": {
     "fecha_detectado": "2026-09-20T15:00:11.251347+00:00",
     "nivel": "🟢",
@@ -618,6 +628,11 @@
     "fecha_detectado": "2026-09-24T00:56:21.635775+00:00",
     "nivel": "🟢",
     "titulo": "Descuentos comerciales y condicionados: cuentas y contabilización bajo NIIF"
+  },
+  "gerencie.com::https://www.gerencie.com/devolucion-o-compensacion-de-saldos-a-favor-en-impuestos.html": {
+    "fecha_detectado": "2026-09-25T00:57:13.987421+00:00",
+    "nivel": "🟠",
+    "titulo": "Devolución de saldos a favor de la Dian: plazos para pedirla y para devolver"
   },
   "gerencie.com::https://www.gerencie.com/diferencia-entre-bienes-excluidos-y-exentos-en-el-impuesto-a-las-ventas.html": {
     "fecha_detectado": "2026-09-19T20:25:56.249106+00:00",
@@ -714,6 +729,11 @@
     "nivel": "🟢",
     "titulo": "Liquidador de contrato de trabajo por días"
   },
+  "gerencie.com::https://www.gerencie.com/liquidador-responsabilidad-solidaria-de-socios-por-deudas-tributarias.html": {
+    "fecha_detectado": "2026-09-25T00:57:13.987625+00:00",
+    "nivel": "🟢",
+    "titulo": "Liquidador responsabilidad solidaria de socios por deudas tributarias"
+  },
   "gerencie.com::https://www.gerencie.com/liquidadores-laborales": {
     "fecha_detectado": "2026-09-19T20:25:56.249287+00:00",
     "nivel": "🟢",
@@ -729,6 +749,11 @@
     "nivel": "🟢",
     "titulo": "Medición en las NIIF: qué es y cuáles son las bases de medición"
   },
+  "gerencie.com::https://www.gerencie.com/nulidad-y-restablecimiento-del-derecho-dian.html": {
+    "fecha_detectado": "2026-09-25T00:57:13.987493+00:00",
+    "nivel": "🟠",
+    "titulo": "Nulidad y restablecimiento del derecho contra actos de la Dian"
+  },
   "gerencie.com::https://www.gerencie.com/oficio-persuasivo.html": {
     "fecha_detectado": "2026-09-24T20:53:24.503934+00:00",
     "nivel": "🟠",
@@ -738,6 +763,11 @@
     "fecha_detectado": "2026-09-20T15:00:11.251395+00:00",
     "nivel": "🟢",
     "titulo": "Retenciones de IVA: cuándo se pueden descontar en la declaración"
+  },
+  "gerencie.com::https://www.gerencie.com/principio-per-saltum-en-materia-tributaria.html": {
+    "fecha_detectado": "2026-09-25T00:57:13.987512+00:00",
+    "nivel": "🟢",
+    "titulo": "Per saltum en materia tributaria: demanda sin recurso de reconsideración"
   },
   "gerencie.com::https://www.gerencie.com/prorrateo-del-iva.html": {
     "fecha_detectado": "2026-09-20T00:28:15.507940+00:00",
@@ -754,6 +784,11 @@
     "nivel": "🟢",
     "titulo": "IVA generado: qué es, cómo se calcula y en qué cuenta se registra"
   },
+  "gerencie.com::https://www.gerencie.com/que-es-la-via-gubernativa.html": {
+    "fecha_detectado": "2026-09-25T00:57:13.987531+00:00",
+    "nivel": "🟢",
+    "titulo": "Vía gubernativa y su agotamiento: qué es y por qué importa"
+  },
   "gerencie.com::https://www.gerencie.com/que-son-las-niif.html": {
     "fecha_detectado": "2026-09-22T20:37:10.761607+00:00",
     "nivel": "🟢",
@@ -763,6 +798,11 @@
     "fecha_detectado": "2026-09-19T20:25:56.249152+00:00",
     "nivel": "🟢",
     "titulo": "Responsables y no responsables de IVA: requisitos y topes en 2026"
+  },
+  "gerencie.com::https://www.gerencie.com/revocatoria-directa.html": {
+    "fecha_detectado": "2026-09-25T00:57:13.987475+00:00",
+    "nivel": "🟠",
+    "titulo": "Revocatoria directa de los actos de la Dian"
   },
   "gerencie.com::https://www.gerencie.com/rut.html": {
     "fecha_detectado": "2026-09-23T15:41:22.304380+00:00",
