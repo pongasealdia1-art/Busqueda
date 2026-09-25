@@ -479,6 +479,16 @@
     "nivel": "🟢",
     "titulo": "Diferencia en cambio en las NIIF: cómo se reconoce y se ajusta"
   },
+  "gerencie.com::https://www.gerencie.com/aportes-a-seguridad-social-de-un-trabajador-que-tiene-varios-contratos.html": {
+    "fecha_detectado": "2026-09-25T20:50:09.364480+00:00",
+    "nivel": "🟢",
+    "titulo": "Seguridad social cuando hay varios contratos"
+  },
+  "gerencie.com::https://www.gerencie.com/aportes-a-seguridad-social-en-los-trabajadores-que-trabajan-por-dias.html": {
+    "fecha_detectado": "2026-09-25T20:50:09.364463+00:00",
+    "nivel": "🟢",
+    "titulo": "Seguridad social en trabajadores contratados por días"
+  },
   "gerencie.com::https://www.gerencie.com/aportes-a-seguridad-social.html": {
     "fecha_detectado": "2026-09-25T16:02:59.994139+00:00",
     "nivel": "🟢",
@@ -803,6 +813,16 @@
     "fecha_detectado": "2026-09-20T15:00:11.251395+00:00",
     "nivel": "🟢",
     "titulo": "Retenciones de IVA: cuándo se pueden descontar en la declaración"
+  },
+  "gerencie.com::https://www.gerencie.com/periodo-de-prueba-en-el-contrato-de-trabajo-verbal.html": {
+    "fecha_detectado": "2026-09-25T20:50:09.364406+00:00",
+    "nivel": "🟢",
+    "titulo": "Periodo de prueba en el contrato de trabajo verbal"
+  },
+  "gerencie.com::https://www.gerencie.com/periodo-de-prueba-en-el-contrato-de-trabajo.html": {
+    "fecha_detectado": "2026-09-25T20:50:09.364441+00:00",
+    "nivel": "🟢",
+    "titulo": "Periodo de prueba en el contrato de trabajo"
   },
   "gerencie.com::https://www.gerencie.com/principio-per-saltum-en-materia-tributaria.html": {
     "fecha_detectado": "2026-09-25T00:57:13.987512+00:00",
