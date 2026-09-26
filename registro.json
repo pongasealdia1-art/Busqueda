@@ -199,6 +199,11 @@
     "nivel": "🟢",
     "titulo": "INFOGRAFÍA: ¿Lo pueden despedir por no justificar el retiro de cesantías?"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/infografia-quienes-tienen-derecho-la-dotacion-de-trabajo": {
+    "fecha_detectado": "2026-09-26T00:58:54.928419+00:00",
+    "nivel": "🟢",
+    "titulo": "INFOGRAFÍA: ¿Quiénes tienen derecho a la dotación de trabajo?"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/juez-no-define-gravedad-de-faltas-previstas-en-el-reglamento-interno-de-trabajo": {
     "fecha_detectado": "2026-09-19T20:25:53.114433+00:00",
     "nivel": "🟢",
@@ -394,6 +399,11 @@
     "nivel": "🟢",
     "titulo": "Revolcón tributario"
   },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/texto-del-fallo-que-declaro-exequible-sobretasa-al-impuesto-de-renta-para": {
+    "fecha_detectado": "2026-09-26T00:58:54.928286+00:00",
+    "nivel": "🟢",
+    "titulo": "Texto del fallo que declaró exequible sobretasa al impuesto de renta para sectores asegurador y bursátil"
+  },
   "cijuf.org.co::https://cijuf.org.co/normatividad/Decreto": {
     "fecha_detectado": "2026-09-19T20:26:00.041888+00:00",
     "nivel": "🟡",
@@ -479,10 +489,25 @@
     "nivel": "🟢",
     "titulo": "Diferencia en cambio en las NIIF: cómo se reconoce y se ajusta"
   },
+  "gerencie.com::https://www.gerencie.com/aportes-a-seguridad-social-de-colombianos-en-el-exterior-con-ingresos-en-colombia.html": {
+    "fecha_detectado": "2026-09-26T00:58:57.537000+00:00",
+    "nivel": "🟢",
+    "titulo": "Seguridad social de colombianos en el exterior"
+  },
   "gerencie.com::https://www.gerencie.com/aportes-a-seguridad-social-de-un-trabajador-que-tiene-varios-contratos.html": {
     "fecha_detectado": "2026-09-25T20:50:09.364480+00:00",
     "nivel": "🟢",
     "titulo": "Seguridad social cuando hay varios contratos"
+  },
+  "gerencie.com::https://www.gerencie.com/aportes-a-seguridad-social-en-el-contrato-de-servicios.html": {
+    "fecha_detectado": "2026-09-26T00:58:57.536967+00:00",
+    "nivel": "🟢",
+    "titulo": "Aportes a seguridad social en el contrato de servicios"
+  },
+  "gerencie.com::https://www.gerencie.com/aportes-a-seguridad-social-en-los-profesores-o-docentes.html": {
+    "fecha_detectado": "2026-09-26T00:58:57.537056+00:00",
+    "nivel": "🟢",
+    "titulo": "Aportes a seguridad social en los profesores o docentes"
   },
   "gerencie.com::https://www.gerencie.com/aportes-a-seguridad-social-en-los-trabajadores-que-trabajan-por-dias.html": {
     "fecha_detectado": "2026-09-25T20:50:09.364463+00:00",
@@ -538,6 +563,11 @@
     "fecha_detectado": "2026-09-20T00:28:15.508019+00:00",
     "nivel": "🟢",
     "titulo": "Calculadora de cesantías"
+  },
+  "gerencie.com::https://www.gerencie.com/calculadora-de-costos-laborales.html": {
+    "fecha_detectado": "2026-09-26T00:58:57.537150+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de costos laborales"
   },
   "gerencie.com::https://www.gerencie.com/calculadora-de-imputacion-de-pagos-a-la-dian.html": {
     "fecha_detectado": "2026-09-19T20:25:56.249379+00:00",
@@ -643,6 +673,11 @@
     "fecha_detectado": "2026-09-20T00:28:15.507962+00:00",
     "nivel": "🟢",
     "titulo": "Cómo sacar el IVA de un valor: calculadora de IVA incluido"
+  },
+  "gerencie.com::https://www.gerencie.com/como-debe-pagar-la-seguridad-social-una-persona-natural-comerciante.html": {
+    "fecha_detectado": "2026-09-26T00:58:57.537074+00:00",
+    "nivel": "🟢",
+    "titulo": "Seguridad social en personas naturales que contratan empleados"
   },
   "gerencie.com::https://www.gerencie.com/como-saber-si-soy-responsable-del-iva.html": {
     "fecha_detectado": "2026-09-25T00:57:13.987595+00:00",
@@ -878,6 +913,16 @@
     "fecha_detectado": "2026-09-23T15:41:22.304380+00:00",
     "nivel": "🟢",
     "titulo": "RUT – Registro Único Tributario"
+  },
+  "gerencie.com::https://www.gerencie.com/seguridad-social-de-los-conductores-de-servicio-publico.html": {
+    "fecha_detectado": "2026-09-26T00:58:57.537039+00:00",
+    "nivel": "🟢",
+    "titulo": "Seguridad social en conductores de servicio público"
+  },
+  "gerencie.com::https://www.gerencie.com/seguridad-social-en-los-concejales.html": {
+    "fecha_detectado": "2026-09-26T00:58:57.537017+00:00",
+    "nivel": "🟢",
+    "titulo": "Seguridad social en los concejales"
   },
   "gerencie.com::https://www.gerencie.com/servicios-de-educacion-excluidos-del-iva.html": {
     "fecha_detectado": "2026-09-21T00:35:17.379500+00:00",
