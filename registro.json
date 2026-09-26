@@ -479,10 +479,20 @@
     "nivel": "🟢",
     "titulo": "Denuncias tributarias, aduaneras y cambiarias"
   },
+  "gerencie.com::https://www.gerencie.com/accidente-trabajador-via-al-trabajo.html": {
+    "fecha_detectado": "2026-09-26T15:15:19.079533+00:00",
+    "nivel": "🟢",
+    "titulo": "Accidente cuando el trabajador se traslada al lugar de trabajo"
+  },
   "gerencie.com::https://www.gerencie.com/actos-administrativos-ejecutoriados-en-materia-tributaria.html": {
     "fecha_detectado": "2026-09-25T00:57:13.987458+00:00",
     "nivel": "🟢",
     "titulo": "Actos administrativos ejecutoriados en materia tributaria"
+  },
+  "gerencie.com::https://www.gerencie.com/afiliacion-de-estudiantes-al-sistema-de-riesgos-laborales.html": {
+    "fecha_detectado": "2026-09-26T15:15:19.079449+00:00",
+    "nivel": "🟠",
+    "titulo": "Afiliación de estudiantes a riesgos laborales"
   },
   "gerencie.com::https://www.gerencie.com/ajustes-por-diferencia-en-cambio-en-las-niif.html": {
     "fecha_detectado": "2026-09-24T00:56:21.635732+00:00",
@@ -588,6 +598,11 @@
     "fecha_detectado": "2026-09-20T19:55:10.136351+00:00",
     "nivel": "🟢",
     "titulo": "Calculadora de reducción de sanciones tributarias"
+  },
+  "gerencie.com::https://www.gerencie.com/calculadora-de-retencion-en-la-fuente.html": {
+    "fecha_detectado": "2026-09-26T15:15:19.079616+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de retención en la fuente"
   },
   "gerencie.com::https://www.gerencie.com/calculadora-de-salario-integral.html": {
     "fecha_detectado": "2026-09-21T17:18:28.818558+00:00",
@@ -698,6 +713,16 @@
     "fecha_detectado": "2026-09-22T20:37:10.761542+00:00",
     "nivel": "🟢",
     "titulo": "Costo histórico en las NIIF: qué es y cómo se determina"
+  },
+  "gerencie.com::https://www.gerencie.com/cotizacion-a-riesgos-laborales-segun-nivel-de-riesgo.html": {
+    "fecha_detectado": "2026-09-26T15:15:19.079547+00:00",
+    "nivel": "🟢",
+    "titulo": "Porcentajes ARL según nivel de riesgo"
+  },
+  "gerencie.com::https://www.gerencie.com/cual-es-la-diferencia-entre-accidente-e-incidente-de-trabajo.html": {
+    "fecha_detectado": "2026-09-26T15:15:19.079518+00:00",
+    "nivel": "🟢",
+    "titulo": "Diferencia entre incidente y accidente de trabajo"
   },
   "gerencie.com::https://www.gerencie.com/cuando-pagar-el-iva.html": {
     "fecha_detectado": "2026-09-21T00:35:17.379556+00:00",
@@ -874,6 +899,11 @@
     "nivel": "🟢",
     "titulo": "Proyección y planeación pensional en Colpensiones"
   },
+  "gerencie.com::https://www.gerencie.com/que-elementos-de-proteccion-laboral-debo-suministrarles-a-mis-trabajadores.html": {
+    "fecha_detectado": "2026-09-26T15:15:19.079486+00:00",
+    "nivel": "🟢",
+    "titulo": "Elementos de protección laboral en el trabajo"
+  },
   "gerencie.com::https://www.gerencie.com/que-es-el-iva-generado.html": {
     "fecha_detectado": "2026-09-20T00:28:15.507929+00:00",
     "nivel": "🟢",
@@ -933,6 +963,11 @@
     "fecha_detectado": "2026-09-21T00:35:17.379540+00:00",
     "nivel": "🟢",
     "titulo": "Servicios de salud excluidos del IVA: qué incluye y qué no"
+  },
+  "gerencie.com::https://www.gerencie.com/si-no-se-realizo-la-investigacion-de-incidentes-y-accidentes-de-trabajo-me-puede-ocasionar-sanciones.html": {
+    "fecha_detectado": "2026-09-26T15:15:19.079503+00:00",
+    "nivel": "🟢",
+    "titulo": "Investigación de incidentes y accidentes de trabajo"
   },
   "gerencie.com::https://www.gerencie.com/simule-la-mejor-pension-que-puede-obtener-con-su-salario.html": {
     "fecha_detectado": "2026-09-20T15:00:11.251550+00:00",
