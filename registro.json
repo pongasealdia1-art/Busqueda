@@ -709,6 +709,16 @@
     "nivel": "🟢",
     "titulo": "Computadores, celulares y tabletas sin IVA en 2026"
   },
+  "gerencie.com::https://www.gerencie.com/contrato-de-trabajo-con-pensionados.html": {
+    "fecha_detectado": "2026-09-27T15:55:20.449595+00:00",
+    "nivel": "🟢",
+    "titulo": "Contrato de trabajo con pensionados"
+  },
+  "gerencie.com::https://www.gerencie.com/contrato-de-trabajo-con-profesores-o-docentes-privados.html": {
+    "fecha_detectado": "2026-09-27T15:55:20.449562+00:00",
+    "nivel": "🟢",
+    "titulo": "Contrato de trabajo con docentes de colegios privados"
+  },
   "gerencie.com::https://www.gerencie.com/contrato-de-trabajo.html": {
     "fecha_detectado": "2026-09-27T00:59:09.975234+00:00",
     "nivel": "🟢",
@@ -768,6 +778,11 @@
     "fecha_detectado": "2026-09-24T20:53:24.503924+00:00",
     "nivel": "🟢",
     "titulo": "Emplazamiento para corregir: artículo 685 del Estatuto Tributario"
+  },
+  "gerencie.com::https://www.gerencie.com/existe-sancion-por-no-pagar-oportunamente-el-sueldo-al-trabajador.html": {
+    "fecha_detectado": "2026-09-27T15:55:20.449619+00:00",
+    "nivel": "🟢",
+    "titulo": "Qué hacer si el empleador no paga el salario oportunamente"
   },
   "gerencie.com::https://www.gerencie.com/firma-digital-dian.html": {
     "fecha_detectado": "2026-09-24T16:02:15.481229+00:00",
