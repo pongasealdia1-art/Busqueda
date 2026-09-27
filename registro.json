@@ -584,6 +584,11 @@
     "nivel": "🟠",
     "titulo": "Calculadora de imputación de pagos a la Dian"
   },
+  "gerencie.com::https://www.gerencie.com/calculadora-de-iva-incuido.html": {
+    "fecha_detectado": "2026-09-27T00:59:09.975287+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de Iva incuido"
+  },
   "gerencie.com::https://www.gerencie.com/calculadora-de-limites-al-salario-en-especie.html": {
     "fecha_detectado": "2026-09-20T19:55:10.136336+00:00",
     "nivel": "🟢",
@@ -704,6 +709,11 @@
     "nivel": "🟢",
     "titulo": "Computadores, celulares y tabletas sin IVA en 2026"
   },
+  "gerencie.com::https://www.gerencie.com/contrato-de-trabajo.html": {
+    "fecha_detectado": "2026-09-27T00:59:09.975234+00:00",
+    "nivel": "🟢",
+    "titulo": "Contrato de trabajo"
+  },
   "gerencie.com::https://www.gerencie.com/conversor-de-tasas-efectivas-a-nominales-y-viceversa.html": {
     "fecha_detectado": "2026-09-22T01:18:00.572906+00:00",
     "nivel": "🟢",
@@ -748,6 +758,11 @@
     "fecha_detectado": "2026-09-24T16:02:15.481245+00:00",
     "nivel": "🟢",
     "titulo": "Menor adulto: desde qué edad un menor puede cumplir sus obligaciones tributarias"
+  },
+  "gerencie.com::https://www.gerencie.com/elementos-del-contrato-de-trabajo.html": {
+    "fecha_detectado": "2026-09-27T00:59:09.975211+00:00",
+    "nivel": "🟢",
+    "titulo": "Elementos del contrato de trabajo"
   },
   "gerencie.com::https://www.gerencie.com/emplazamiento-para-corregir.html": {
     "fecha_detectado": "2026-09-24T20:53:24.503924+00:00",
