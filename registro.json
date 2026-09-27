@@ -674,6 +674,11 @@
     "nivel": "🟢",
     "titulo": "Causación del IVA: cuándo se causa el impuesto a las ventas"
   },
+  "gerencie.com::https://www.gerencie.com/causas-y-efectos-de-la-suspension-del-contrato-de-aprendizaje.html": {
+    "fecha_detectado": "2026-09-27T20:33:18.740527+00:00",
+    "nivel": "🟢",
+    "titulo": "Suspensión y terminación del contrato de aprendizaje"
+  },
   "gerencie.com::https://www.gerencie.com/codigos-de-actividades-economicas.html": {
     "fecha_detectado": "2026-09-23T15:41:22.304343+00:00",
     "nivel": "🟠",
@@ -763,6 +768,11 @@
     "fecha_detectado": "2026-09-19T20:25:56.249106+00:00",
     "nivel": "🟢",
     "titulo": "Diferencia entre bienes exentos, excluidos y no gravados en el IVA"
+  },
+  "gerencie.com::https://www.gerencie.com/diferencias-entre-el-contrato-de-trabajo-y-el-contrato-de-servicios.html": {
+    "fecha_detectado": "2026-09-27T20:33:18.740467+00:00",
+    "nivel": "🟢",
+    "titulo": "Diferencias entre el contrato de trabajo y el contrato de prestación de servicios"
   },
   "gerencie.com::https://www.gerencie.com/edad-minima-para-que-un-menor-cumpla-obligaciones-tributarias-directamente.html": {
     "fecha_detectado": "2026-09-24T16:02:15.481245+00:00",
@@ -903,6 +913,11 @@
     "fecha_detectado": "2026-09-20T15:00:11.251395+00:00",
     "nivel": "🟢",
     "titulo": "Retenciones de IVA: cuándo se pueden descontar en la declaración"
+  },
+  "gerencie.com::https://www.gerencie.com/pasantias.html": {
+    "fecha_detectado": "2026-09-27T20:33:18.740507+00:00",
+    "nivel": "🟢",
+    "titulo": "Pasantías: qué son, si se pagan y si generan relación laboral"
   },
   "gerencie.com::https://www.gerencie.com/periodo-de-prueba-en-el-contrato-de-trabajo-verbal.html": {
     "fecha_detectado": "2026-09-25T20:50:09.364406+00:00",
