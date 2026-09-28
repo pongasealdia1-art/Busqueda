@@ -29,10 +29,20 @@
     "nivel": "🟠",
     "titulo": "Ayudas recibidas por damnificados del terremoto están gravadas como ganancia ocasional. Oficio DIAN 100192467-2764 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/certificacion-de-hechos-contables-en-propiedad-horizontal-concepto-ctcp-216-de-2026": {
+    "fecha_detectado": "2026-09-28T18:51:52.342001+00:00",
+    "nivel": "🟠",
+    "titulo": "Certificación de hechos contables en propiedad horizontal — Concepto CTCP 216 de 2026."
+  },
   "accounter.co::https://accounter.co/normatividad/conversion-de-estados-financieros-comparativos-cada-periodo-conserva-su-tasa-de-cierre-concepto-ctcp-215-de-2026": {
     "fecha_detectado": "2026-09-24T20:53:24.330526+00:00",
     "nivel": "🟠",
     "titulo": "Conversión de estados financieros comparativos: cada período conserva su tasa de cierre — Concepto CTCP 215 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/diferencias-de-conversion-acumuladas-en-el-ori-y-pago-de-partidas-monetarias-concepto-ctcp-211-de-2026": {
+    "fecha_detectado": "2026-09-28T18:51:52.341977+00:00",
+    "nivel": "🟠",
+    "titulo": "Diferencias de conversión acumuladas en el ORI y pago de partidas monetarias — Concepto CTCP 211 de 2026."
   },
   "accounter.co::https://accounter.co/normatividad/estados-financieros-base-para-la-transformacion-de-una-s-a-en-s-a-s-oficio-supersociedades-115-323554-de-2026": {
     "fecha_detectado": "2026-09-25T16:02:59.444208+00:00",
@@ -78,6 +88,11 @@
     "fecha_detectado": "2026-09-19T20:25:56.024098+00:00",
     "nivel": "🟠",
     "titulo": "Parentesco dentro del equipo de Revisoría Fiscal. Concepto CTCP 2026-225"
+  },
+  "accounter.co::https://accounter.co/normatividad/participaciones-en-patrimonios-autonomos-bajo-la-niif-18-concepto-ctcp-220-de-2026": {
+    "fecha_detectado": "2026-09-28T18:51:52.341935+00:00",
+    "nivel": "🟠",
+    "titulo": "Participaciones en patrimonios autónomos bajo la NIIF 18 — Concepto CTCP 220 de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/reconocimiento-y-correccion-de-pasivos-en-propiedad-horizontal-concepto-ctcp-2026-204": {
     "fecha_detectado": "2026-09-19T20:25:56.024130+00:00",
@@ -714,6 +729,11 @@
     "nivel": "🟢",
     "titulo": "Computadores, celulares y tabletas sin IVA en 2026"
   },
+  "gerencie.com::https://www.gerencie.com/con-que-salario-se-liquidan-las-prestaciones-sociales-de-anos-anteriores.html": {
+    "fecha_detectado": "2026-09-28T18:51:52.896575+00:00",
+    "nivel": "🟢",
+    "titulo": "Prestaciones sociales de años anteriores: con qué salario se liquidan"
+  },
   "gerencie.com::https://www.gerencie.com/contrato-de-trabajo-con-pensionados.html": {
     "fecha_detectado": "2026-09-27T15:55:20.449595+00:00",
     "nivel": "🟢",
@@ -843,6 +863,11 @@
     "fecha_detectado": "2026-09-24T16:02:15.481261+00:00",
     "nivel": "🟢",
     "titulo": "La independencia del auditor: qué es y cómo se pierde"
+  },
+  "gerencie.com::https://www.gerencie.com/las-cesantias-se-pueden-embargar.html": {
+    "fecha_detectado": "2026-09-28T18:51:52.896531+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Las cesantías y las prestaciones sociales son embargables?"
   },
   "gerencie.com::https://www.gerencie.com/limites-a-la-base-de-aportes-al-sistema-de-seguridad-social.html": {
     "fecha_detectado": "2026-09-25T16:02:59.994092+00:00",
@@ -994,6 +1019,11 @@
     "nivel": "🟢",
     "titulo": "RUT – Registro Único Tributario"
   },
+  "gerencie.com::https://www.gerencie.com/salario-promedio-para-liquidar-prestaciones-sociales.html": {
+    "fecha_detectado": "2026-09-28T18:51:52.896601+00:00",
+    "nivel": "🟢",
+    "titulo": "Salario promedio para liquidar prestaciones sociales"
+  },
   "gerencie.com::https://www.gerencie.com/seguridad-social-de-los-conductores-de-servicio-publico.html": {
     "fecha_detectado": "2026-09-26T00:58:57.537039+00:00",
     "nivel": "🟢",
@@ -1114,6 +1144,11 @@
     "nivel": "🔴",
     "titulo": "El 15 de septiembre vence el plazo para pagar la contribución 2026 a Supersociedades"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/09/ey-publico-guia-con-novedades-de-las-normas-niif-de-contabilidad/": {
+    "fecha_detectado": "2026-09-28T18:51:48.660489+00:00",
+    "nivel": "🟢",
+    "titulo": "EY publicó guía con novedades de las Normas NIIF de Contabilidad"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/09/funcion-publica-actualizo-guia-de-auditoria-interna-para-entidades-publicas/": {
     "fecha_detectado": "2026-09-19T20:25:52.386108+00:00",
     "nivel": "🟢",
@@ -1123,6 +1158,11 @@
     "fecha_detectado": "2026-09-23T15:41:16.859950+00:00",
     "nivel": "🟡",
     "titulo": "Gobierno expidió paquetes de decretos para atender los efectos del sismo de 10 de agosto"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/09/las-inhabilidades-por-parentesco-del-revisor-fiscal-se-extienden-a-su-equipo-de-trabajo/": {
+    "fecha_detectado": "2026-09-28T18:51:48.660548+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Las inhabilidades por parentesco del revisor fiscal se extienden a su equipo de trabajo?"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/09/puede-la-dian-exigir-el-certificado-de-representacion-legal-en-un-recurso/": {
     "fecha_detectado": "2026-09-19T20:25:52.386084+00:00",
