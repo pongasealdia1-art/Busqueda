@@ -759,6 +759,11 @@
     "nivel": "🟢",
     "titulo": "Descuentos comerciales y condicionados: cuentas y contabilización bajo NIIF"
   },
+  "gerencie.com::https://www.gerencie.com/despido-ilegal-y-despido-injusto-distincion.html": {
+    "fecha_detectado": "2026-09-28T01:15:05.830916+00:00",
+    "nivel": "🟢",
+    "titulo": "Despido ilegal, despido injusto y despido ineficaz"
+  },
   "gerencie.com::https://www.gerencie.com/devolucion-o-compensacion-de-saldos-a-favor-en-impuestos.html": {
     "fecha_detectado": "2026-09-25T00:57:13.987421+00:00",
     "nivel": "🟠",
@@ -1023,6 +1028,26 @@
     "fecha_detectado": "2026-09-24T16:02:15.481214+00:00",
     "nivel": "🟢",
     "titulo": "Obligaciones tributarias de las sucesiones ilíquidas"
+  },
+  "gerencie.com::https://www.gerencie.com/terminacion-del-contrato-de-trabajo-a-termino-fijo.html": {
+    "fecha_detectado": "2026-09-28T01:15:05.830880+00:00",
+    "nivel": "🟢",
+    "titulo": "Terminación del contrato de trabajo a término fijo"
+  },
+  "gerencie.com::https://www.gerencie.com/terminacion-del-contrato-de-trabajo-por-justa-causa.html": {
+    "fecha_detectado": "2026-09-28T01:15:05.830945+00:00",
+    "nivel": "🟢",
+    "titulo": "Terminación del contrato de trabajo con justa causa"
+  },
+  "gerencie.com::https://www.gerencie.com/terminacion-del-contrato-de-trabajo-sin-justa-causa.html": {
+    "fecha_detectado": "2026-09-28T01:15:05.830929+00:00",
+    "nivel": "🟢",
+    "titulo": "Despido sin justa causa"
+  },
+  "gerencie.com::https://www.gerencie.com/terminacion-del-contrato-de-trabajo.html": {
+    "fecha_detectado": "2026-09-28T01:15:05.830957+00:00",
+    "nivel": "🟢",
+    "titulo": "Terminación del contrato de trabajo"
   },
   "gerencie.com::https://www.gerencie.com/tratamiento-del-iva-en-la-compra-de-activos-fijos.html": {
     "fecha_detectado": "2026-09-20T15:00:11.251464+00:00",
