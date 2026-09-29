@@ -564,6 +564,11 @@
     "nivel": "🟢",
     "titulo": "Base gravable del Iva"
   },
+  "gerencie.com::https://www.gerencie.com/base-para-la-liquidacion-de-la-prima-de-servicios.html": {
+    "fecha_detectado": "2026-09-29T02:21:04.767268+00:00",
+    "nivel": "🟢",
+    "titulo": "Salario base para liquidar la prima de servicios: horas extras, auxilio y comisiones"
+  },
   "gerencie.com::https://www.gerencie.com/base-para-liquidar-aportes-a-seguridad-social.html": {
     "fecha_detectado": "2026-09-25T16:02:59.994125+00:00",
     "nivel": "🟢",
@@ -603,6 +608,11 @@
     "fecha_detectado": "2026-09-19T20:25:56.249379+00:00",
     "nivel": "🟠",
     "titulo": "Calculadora de imputación de pagos a la Dian"
+  },
+  "gerencie.com::https://www.gerencie.com/calculadora-de-indemnizacion-por-accidente-laboral.html": {
+    "fecha_detectado": "2026-09-29T02:21:04.767369+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de la indemnización por pérdida de capacidad laboral"
   },
   "gerencie.com::https://www.gerencie.com/calculadora-de-iva-incuido.html": {
     "fecha_detectado": "2026-09-27T00:59:09.975287+00:00",
@@ -673,6 +683,11 @@
     "fecha_detectado": "2026-09-21T21:20:05.350610+00:00",
     "nivel": "🟢",
     "titulo": "Calcular el valor de la hora de trabajo en Colombia"
+  },
+  "gerencie.com::https://www.gerencie.com/calcular-limite-de-rentas-exentas-y-deducciones-en-las-personas-naturales.html": {
+    "fecha_detectado": "2026-09-29T02:21:04.767410+00:00",
+    "nivel": "🟢",
+    "titulo": "Calcular límite de rentas exentas y deducciones imputables"
   },
   "gerencie.com::https://www.gerencie.com/calendario-dian": {
     "fecha_detectado": "2026-09-20T19:55:10.136166+00:00",
@@ -784,6 +799,11 @@
     "nivel": "🟢",
     "titulo": "Diferencia entre incidente y accidente de trabajo"
   },
+  "gerencie.com::https://www.gerencie.com/cuando-me-deben-pagar-la-prima-de-servicios.html": {
+    "fecha_detectado": "2026-09-29T02:21:04.767230+00:00",
+    "nivel": "🟢",
+    "titulo": "Fecha de pago de la prima de servicios"
+  },
   "gerencie.com::https://www.gerencie.com/cuando-pagar-el-iva.html": {
     "fecha_detectado": "2026-09-21T00:35:17.379556+00:00",
     "nivel": "🟢",
@@ -843,6 +863,11 @@
     "fecha_detectado": "2026-09-24T16:02:15.481229+00:00",
     "nivel": "🟠",
     "titulo": "Firma electrónica de la Dian: cómo obtenerla, renovarla y recuperarla"
+  },
+  "gerencie.com::https://www.gerencie.com/formula-para-calcular-la-prima-de-servicios.html": {
+    "fecha_detectado": "2026-09-29T02:21:04.767288+00:00",
+    "nivel": "🟢",
+    "titulo": "Cómo liquidar la prima de servicios: fórmula y ejemplos"
   },
   "gerencie.com::https://www.gerencie.com/formulario-210-en-excel-sistema-cedular.html": {
     "fecha_detectado": "2026-09-24T00:56:21.635875+00:00",
@@ -919,6 +944,11 @@
     "nivel": "🟢",
     "titulo": "Liquidador de retención en la fuente por salarios (procedimiento 1)"
   },
+  "gerencie.com::https://www.gerencie.com/liquidador-de-retenciones-asumidas-por-honorarios-y-servicios.html": {
+    "fecha_detectado": "2026-09-29T02:21:04.767389+00:00",
+    "nivel": "🟢",
+    "titulo": "Liquidador de retenciones asumidas por honorarios y servicios"
+  },
   "gerencie.com::https://www.gerencie.com/liquidador-dian-pro": {
     "fecha_detectado": "2026-09-19T20:25:56.249247+00:00",
     "nivel": "🟠",
@@ -983,6 +1013,11 @@
     "fecha_detectado": "2026-09-25T20:50:09.364441+00:00",
     "nivel": "🟢",
     "titulo": "Periodo de prueba en el contrato de trabajo"
+  },
+  "gerencie.com::https://www.gerencie.com/prima-de-servicios.html": {
+    "fecha_detectado": "2026-09-29T02:21:04.767301+00:00",
+    "nivel": "🟢",
+    "titulo": "Prima de servicios"
   },
   "gerencie.com::https://www.gerencie.com/principio-per-saltum-en-materia-tributaria.html": {
     "fecha_detectado": "2026-09-25T00:57:13.987512+00:00",
@@ -1373,6 +1408,11 @@
     "fecha_detectado": "2026-09-19T20:25:50.411542+00:00",
     "nivel": "🟢",
     "titulo": "Retenciones en el régimen simple de tributación: ¿Cómo se aplican?"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/sancion-por-inexactitud-dian/": {
+    "fecha_detectado": "2026-09-29T02:20:57.928071+00:00",
+    "nivel": "🟠",
+    "titulo": "Sanción por inexactitud DIAN: Cálculo, reducciones y Decreto 1419"
   },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/sanciones-en-la-declaracion-de-renta-de-personas-naturales/": {
     "fecha_detectado": "2026-09-19T20:25:50.411322+00:00",
