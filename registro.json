@@ -39,6 +39,11 @@
     "nivel": "🟠",
     "titulo": "Conversión de estados financieros comparativos: cada período conserva su tasa de cierre — Concepto CTCP 215 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/deduccion-por-inversiones-en-energias-no-convencionales-y-requisito-de-certificacion-oficio-dian-15297-de-2026": {
+    "fecha_detectado": "2026-09-29T17:09:29.625403+00:00",
+    "nivel": "🟠",
+    "titulo": "Deducción por inversiones en energías no convencionales y requisito de certificación — Oficio DIAN 15297 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/diferencias-de-conversion-acumuladas-en-el-ori-y-pago-de-partidas-monetarias-concepto-ctcp-211-de-2026": {
     "fecha_detectado": "2026-09-28T18:51:52.341977+00:00",
     "nivel": "🟠",
@@ -54,6 +59,11 @@
     "nivel": "🟠",
     "titulo": "Estados financieros en propiedades horizontales por etapas. Concepto CTCP 2026-210"
   },
+  "accounter.co::https://accounter.co/normatividad/fecha-de-comision-de-la-conducta-para-reducir-la-sancion-por-correccion-concepto-dian-15658-de-2026": {
+    "fecha_detectado": "2026-09-29T17:09:29.625423+00:00",
+    "nivel": "🟠",
+    "titulo": "Fecha de comisión de la conducta para reducir la sanción por corrección — Concepto DIAN 15658 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/incentivos-tributarios-para-inversiones-en-territorios-afectados-por-el-terremoto-decreto-legislativo-1413-de-2026": {
     "fecha_detectado": "2026-09-21T17:18:28.285164+00:00",
     "nivel": "🔴",
@@ -63,6 +73,11 @@
     "fecha_detectado": "2026-09-21T17:18:28.285244+00:00",
     "nivel": "🟢",
     "titulo": "Inexistencia de obligación general de reportar estados financieros intermedios ante Supersociedades – Oficio 115-001292 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/instrumentos-sin-vencimiento-fijo-y-reconocimiento-fiscal-de-deudas-concepto-dian-15520-de-2026": {
+    "fecha_detectado": "2026-09-29T17:09:29.625369+00:00",
+    "nivel": "🟠",
+    "titulo": "Instrumentos sin vencimiento fijo y reconocimiento fiscal de deudas — Concepto DIAN 15520 de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/intereses-moratorios-por-ajustes-a-los-anticipos-del-simple-oficio-dian-017190-int-1635-de-2026": {
     "fecha_detectado": "2026-09-25T16:02:59.444162+00:00",
@@ -103,6 +118,11 @@
     "fecha_detectado": "2026-09-23T15:41:22.067128+00:00",
     "nivel": "🟠",
     "titulo": "Asunto Legales - Retención en servicios con AIU: la DIAN cambia su criterio"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/asuntos-legales-reforma-al-marco-de-compliance-expedida-por-la-supersociedades": {
+    "fecha_detectado": "2026-09-29T17:09:29.625444+00:00",
+    "nivel": "🟢",
+    "titulo": "Asuntos Legales - Reforma al marco de compliance expedida por la SuperSociedades"
   },
   "accounter.co::https://accounter.co/noticias/actualidad/decreto-1419-no-todos-los-alivios-del-sismo-se-quedan-en-la-zona-afectada": {
     "fecha_detectado": "2026-09-23T15:41:22.067050+00:00",
@@ -574,6 +594,11 @@
     "nivel": "🟢",
     "titulo": "Base para liquidar aportes a seguridad social: guía completa"
   },
+  "gerencie.com::https://www.gerencie.com/bonificaciones-pagadas-al-trabajador.html": {
+    "fecha_detectado": "2026-09-29T17:09:30.690019+00:00",
+    "nivel": "🟢",
+    "titulo": "Bonificaciones al trabajador: cuándo son salario y cuándo son de mera liberalidad"
+  },
   "gerencie.com::https://www.gerencie.com/cada-cuanto-se-declara-renta.html": {
     "fecha_detectado": "2026-09-24T16:02:15.481180+00:00",
     "nivel": "🟢",
@@ -884,6 +909,11 @@
     "nivel": "🟢",
     "titulo": "Guía Laboral Gerencie.com 2026"
   },
+  "gerencie.com::https://www.gerencie.com/guia-pensiones/requisitos-para-pensionarse-por-vejez-en-colpensiones": {
+    "fecha_detectado": "2026-09-29T17:09:30.689987+00:00",
+    "nivel": "🟢",
+    "titulo": "Requisitos para pensionarse por vejez en Colombia"
+  },
   "gerencie.com::https://www.gerencie.com/guia-renta/conceptos/como-se-declaran-las-cesantias": {
     "fecha_detectado": "2026-09-19T20:25:56.249173+00:00",
     "nivel": "🟢",
@@ -1054,10 +1084,20 @@
     "nivel": "🟢",
     "titulo": "Vía gubernativa y su agotamiento: qué es y por qué importa"
   },
+  "gerencie.com::https://www.gerencie.com/que-se-entiende-por-sueldo-basico.html": {
+    "fecha_detectado": "2026-09-29T17:09:30.690069+00:00",
+    "nivel": "🟢",
+    "titulo": "Qué es el salario básico"
+  },
   "gerencie.com::https://www.gerencie.com/que-son-las-niif.html": {
     "fecha_detectado": "2026-09-22T20:37:10.761607+00:00",
     "nivel": "🟢",
     "titulo": "Qué son las NIIF y en qué se diferencian de las NIC"
+  },
+  "gerencie.com::https://www.gerencie.com/que-sucede-con-el-incremento-de-los-salarios-superiores-al-minimo.html": {
+    "fecha_detectado": "2026-09-29T17:09:30.690039+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Es obligatorio subir el sueldo cada año? Incremento de salarios superiores al mínimo"
   },
   "gerencie.com::https://www.gerencie.com/responsables-y-no-responsables-del-iva.html": {
     "fecha_detectado": "2026-09-19T20:25:56.249152+00:00",
@@ -1093,6 +1133,16 @@
     "fecha_detectado": "2026-09-28T18:51:52.896601+00:00",
     "nivel": "🟢",
     "titulo": "Salario promedio para liquidar prestaciones sociales"
+  },
+  "gerencie.com::https://www.gerencie.com/salario-variable-es-diferente-a-variacion-del-salario.html": {
+    "fecha_detectado": "2026-09-29T17:09:30.690057+00:00",
+    "nivel": "🟢",
+    "titulo": "Salario variable: qué es y en qué se diferencia de la variación del salario"
+  },
+  "gerencie.com::https://www.gerencie.com/salario.html": {
+    "fecha_detectado": "2026-09-29T17:09:30.690082+00:00",
+    "nivel": "🟢",
+    "titulo": "Salario: qué es y qué pagos lo constituyen"
   },
   "gerencie.com::https://www.gerencie.com/sancion-moratoria-por-no-consignar-cesantias.html": {
     "fecha_detectado": "2026-09-28T22:42:56.405208+00:00",
@@ -1174,10 +1224,20 @@
     "nivel": "🟢",
     "titulo": "¿La venta de inmuebles tiene IVA?"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/2026/09/accountancy-europe-explica-la-aplicacion-de-la-ia-generativa-en-auditoria/": {
+    "fecha_detectado": "2026-09-29T17:09:22.365396+00:00",
+    "nivel": "🟢",
+    "titulo": "Accountancy Europe explica la aplicación de la IA generativa en auditoría"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/2026/09/cuatro-ajustes-necesarios-al-organo-que-orienta-la-normatividad-contable-tecnica-en-colombia/": {
     "fecha_detectado": "2026-09-24T16:02:11.468833+00:00",
     "nivel": "🟢",
     "titulo": "Cuatro ajustes necesarios al órgano que orienta la normatividad contable técnica en Colombia"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/2026/09/decreto-0701-de-2026-cambios-en-las-normas-niif-del-grupo-1-y-2/": {
+    "fecha_detectado": "2026-09-29T17:09:22.365438+00:00",
+    "nivel": "🟡",
+    "titulo": "Decreto 0701 de 2026: cambios en las Normas NIIF del Grupo 1 y 2"
   },
   "incp.org.co::https://incp.org.co/publicaciones/2026/09/iaasb-explico-su-propuesta-de-modificaciones-a-las-normas-sobre-evidencia-y-respuesta-a-los-riesgos-de-auditoria/": {
     "fecha_detectado": "2026-09-22T15:51:42.910388+00:00",
