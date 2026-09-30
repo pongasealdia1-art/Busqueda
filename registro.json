@@ -64,6 +64,11 @@
     "nivel": "🟠",
     "titulo": "Estados financieros en propiedades horizontales por etapas. Concepto CTCP 2026-210"
   },
+  "accounter.co::https://accounter.co/normatividad/exportacion-de-servicios-a-vinculados-economicos-del-exterior-y-exencion-de-iva-oficio-dian-15981-de-2026": {
+    "fecha_detectado": "2026-09-30T21:37:31.672727+00:00",
+    "nivel": "🟠",
+    "titulo": "Exportación de servicios a vinculados económicos del exterior y exención de IVA. Oficio DIAN 15981 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/fecha-de-comision-de-la-conducta-para-reducir-la-sancion-por-correccion-concepto-dian-15658-de-2026": {
     "fecha_detectado": "2026-09-29T17:09:29.625423+00:00",
     "nivel": "🟠",
@@ -114,6 +119,11 @@
     "nivel": "🟠",
     "titulo": "Participaciones en patrimonios autónomos bajo la NIIF 18 — Concepto CTCP 220 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/readmision-de-entidades-del-sector-cooperativo-al-regimen-tributario-especial-computo-del-plazo-de-tres-anos-concepto-dian-16169-de-2026": {
+    "fecha_detectado": "2026-09-30T21:37:31.672782+00:00",
+    "nivel": "🟠",
+    "titulo": "Readmisión de entidades del sector cooperativo al Régimen Tributario Especial: cómputo del plazo de tres años. Concepto DIAN 16169 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/reconocimiento-y-correccion-de-pasivos-en-propiedad-horizontal-concepto-ctcp-2026-204": {
     "fecha_detectado": "2026-09-19T20:25:56.024130+00:00",
     "nivel": "🟠",
@@ -143,6 +153,11 @@
     "fecha_detectado": "2026-09-19T20:25:56.024176+00:00",
     "nivel": "🟠",
     "titulo": "DIAN intensifica acciones para recuperar más de $1,28 billones en retenciones en la fuente"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/dian-ya-reviso-su-reporte-de-facturacion-electronica-conozca-la-informacion-que-la-dian-tiene-sobre-sus-operaciones": {
+    "fecha_detectado": "2026-09-30T21:37:31.672811+00:00",
+    "nivel": "🟠",
+    "titulo": "DIAN - ¿Ya revisó su Reporte de facturación electrónica? Conozca la información que la DIAN tiene sobre sus operaciones"
   },
   "accounter.co::https://accounter.co/noticias/actualidad/editorial-tributar-asesores-sas-alcance-de-la-informacion-contable-exigida-a-grandes-contribuyentes-de-ica-en-bogota-documento-tributar-io-1022-de-2026": {
     "fecha_detectado": "2026-09-25T16:02:59.444249+00:00",
@@ -644,6 +659,11 @@
     "nivel": "🟢",
     "titulo": "Calculadora de aportes a seguridad social"
   },
+  "gerencie.com::https://www.gerencie.com/calculadora-de-aportes-al-fondo-de-solidaridad-pensional.html": {
+    "fecha_detectado": "2026-09-30T21:37:31.865199+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de aportes al fondo de solidaridad pensional"
+  },
   "gerencie.com::https://www.gerencie.com/calculadora-de-cesantias-exentas.html": {
     "fecha_detectado": "2026-09-23T00:59:33.230837+00:00",
     "nivel": "🟢",
@@ -744,6 +764,11 @@
     "nivel": "🟢",
     "titulo": "Calcular el valor de la hora de trabajo en Colombia"
   },
+  "gerencie.com::https://www.gerencie.com/calcular-el-valor-del-dia-de-trabajo-segun-el-salario-mensual-del-trabajador.html": {
+    "fecha_detectado": "2026-09-30T21:37:31.865230+00:00",
+    "nivel": "🟢",
+    "titulo": "Calcular el valor del día de trabajo según el salario mensual del trabajador"
+  },
   "gerencie.com::https://www.gerencie.com/calcular-limite-de-rentas-exentas-y-deducciones-en-las-personas-naturales.html": {
     "fecha_detectado": "2026-09-29T02:21:04.767410+00:00",
     "nivel": "🟢",
@@ -814,6 +839,11 @@
     "nivel": "🟢",
     "titulo": "¿Cómo saber si soy responsable del Iva?"
   },
+  "gerencie.com::https://www.gerencie.com/compartibilidad-pensional.html": {
+    "fecha_detectado": "2026-09-30T21:37:31.865010+00:00",
+    "nivel": "🟢",
+    "titulo": "Compartibilidad pensional"
+  },
   "gerencie.com::https://www.gerencie.com/computadores-excluidos-de-iva.html": {
     "fecha_detectado": "2026-09-20T15:00:11.251347+00:00",
     "nivel": "🟢",
@@ -878,6 +908,11 @@
     "fecha_detectado": "2026-09-21T00:35:17.379556+00:00",
     "nivel": "🟢",
     "titulo": "¿Cuándo se paga el IVA?"
+  },
+  "gerencie.com::https://www.gerencie.com/dependencia-economica-en-la-pension-de-sobrevivientes.html": {
+    "fecha_detectado": "2026-09-30T21:37:31.865113+00:00",
+    "nivel": "🟢",
+    "titulo": "Dependencia económica en la pensión de sobrevivientes"
   },
   "gerencie.com::https://www.gerencie.com/descuentos-comerciales-y-condicionados-en-niif-para-pymes.html": {
     "fecha_detectado": "2026-09-24T00:56:21.635775+00:00",
@@ -1029,6 +1064,11 @@
     "nivel": "🟢",
     "titulo": "IVA descontable: qué es, requisitos y oportunidad"
   },
+  "gerencie.com::https://www.gerencie.com/incompatibilidad-de-pensiones-en-colombia.html": {
+    "fecha_detectado": "2026-09-30T21:37:31.865047+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Cuántas pensiones puede tener una persona en Colombia?"
+  },
   "gerencie.com::https://www.gerencie.com/la-independencia-del-auditor.html": {
     "fecha_detectado": "2026-09-24T16:02:15.481261+00:00",
     "nivel": "🟢",
@@ -1109,6 +1149,11 @@
     "nivel": "🟢",
     "titulo": "Medición en las NIIF: qué es y cuáles son las bases de medición"
   },
+  "gerencie.com::https://www.gerencie.com/mesadas-pendientes-de-pago-al-fallecimiento-del-pensionado.html": {
+    "fecha_detectado": "2026-09-30T21:37:31.865068+00:00",
+    "nivel": "🟢",
+    "titulo": "Mesadas pendientes de pago cuando fallece el pensionado"
+  },
   "gerencie.com::https://www.gerencie.com/monto-de-la-pension-de-sobrevivientes.html": {
     "fecha_detectado": "2026-09-30T17:07:44.830828+00:00",
     "nivel": "🟢",
@@ -1138,6 +1183,11 @@
     "fecha_detectado": "2026-09-30T17:07:44.830764+00:00",
     "nivel": "🟢",
     "titulo": "Pensión de sobrevivientes compartida entre cónyuge y compañera permanente"
+  },
+  "gerencie.com::https://www.gerencie.com/pension-de-sobrevivientes-para-hermanos.html": {
+    "fecha_detectado": "2026-09-30T21:37:31.865129+00:00",
+    "nivel": "🟢",
+    "titulo": "Pensión de sobrevivientes para padres y hermanos"
   },
   "gerencie.com::https://www.gerencie.com/perdida-y-retencion-de-las-cesantias-al-trabajador.html": {
     "fecha_detectado": "2026-09-28T22:42:56.405181+00:00",
@@ -1268,6 +1318,11 @@
     "fecha_detectado": "2026-09-28T22:42:56.405208+00:00",
     "nivel": "🟢",
     "titulo": "Sanción moratoria por no pago de cesantías"
+  },
+  "gerencie.com::https://www.gerencie.com/se-pierde-la-pension-de-sobrevivientes-por-casarse-de-nuevo.html": {
+    "fecha_detectado": "2026-09-30T21:37:31.865094+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Se pierde la pensión de sobrevivientes por casarse de nuevo?"
   },
   "gerencie.com::https://www.gerencie.com/seguridad-social-de-los-conductores-de-servicio-publico.html": {
     "fecha_detectado": "2026-09-26T00:58:57.537039+00:00",
