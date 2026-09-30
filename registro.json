@@ -189,6 +189,11 @@
     "nivel": "🟢",
     "titulo": "Reactivan requisitos de meritocracia para cargos de libre nombramiento"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/agenda-laboral-regulatoria-del-gobierno-2026-2030": {
+    "fecha_detectado": "2026-09-30T01:40:38.581454+00:00",
+    "nivel": "🟢",
+    "titulo": "Agenda laboral (regulatoria) del Gobierno 2026-2030"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/analisis-inversion-de-la-carga-de-la-prueba-en-discriminacion-laboral": {
     "fecha_detectado": "2026-09-23T20:47:38.518939+00:00",
     "nivel": "🟢",
@@ -299,6 +304,16 @@
     "nivel": "🟢",
     "titulo": "VIDEOCOLUMNA: ¿Qué herramientas ofrece el derecho laboral para las empresas afectadas por el terremoto?"
   },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/comercial/colombia-prohibe-importar-bienes-elaborados-con-trabajo-forzoso": {
+    "fecha_detectado": "2026-09-30T01:40:38.581356+00:00",
+    "nivel": "🟢",
+    "titulo": "Colombia prohíbe importar bienes elaborados con trabajo forzoso"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/comercial/supersociedades-delega-funciones": {
+    "fecha_detectado": "2026-09-30T01:40:38.581312+00:00",
+    "nivel": "🟢",
+    "titulo": "Supersociedades delega funciones"
+  },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/penal/dian-reporta-aumento-del-507-en-aprehensiones-por-contrabando": {
     "fecha_detectado": "2026-09-19T20:25:53.113791+00:00",
     "nivel": "🟠",
@@ -323,6 +338,11 @@
     "fecha_detectado": "2026-09-19T20:25:53.113725+00:00",
     "nivel": "🟢",
     "titulo": "Definen incentivos tributarios para atraer inversión a zonas afectadas por terremoto"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/detalles-de-la-reforma-tributaria-de-bogota": {
+    "fecha_detectado": "2026-09-30T01:40:38.581333+00:00",
+    "nivel": "🔴",
+    "titulo": "Detalles de la reforma tributaria de Bogotá"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/dian-aclara-alcance-nacional-de-algunas-medidas-tributarias-de-la-emergencia": {
     "fecha_detectado": "2026-09-24T20:53:21.201631+00:00",
@@ -789,6 +809,11 @@
     "nivel": "🟢",
     "titulo": "Computadores, celulares y tabletas sin IVA en 2026"
   },
+  "gerencie.com::https://www.gerencie.com/con-cuantas-semanas-se-pensiona-una-mujer-en-colombia.html": {
+    "fecha_detectado": "2026-09-30T01:40:41.100366+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Con cuántas semanas se pensiona una mujer en Colombia?"
+  },
   "gerencie.com::https://www.gerencie.com/con-que-salario-se-liquidan-las-prestaciones-sociales-de-anos-anteriores.html": {
     "fecha_detectado": "2026-09-28T18:51:52.896575+00:00",
     "nivel": "🟢",
@@ -929,6 +954,11 @@
     "nivel": "🟢",
     "titulo": "¿Cuándo me pensiono?"
   },
+  "gerencie.com::https://www.gerencie.com/guia-pensiones/cuanto-vale-una-semana-cotizada-en-colpensiones": {
+    "fecha_detectado": "2026-09-30T01:40:41.100462+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Cuánto vale una semana cotizada en Colpensiones?"
+  },
   "gerencie.com::https://www.gerencie.com/guia-pensiones/historia-laboral-de-colpensiones": {
     "fecha_detectado": "2026-09-29T21:36:52.193342+00:00",
     "nivel": "🟢",
@@ -939,10 +969,30 @@
     "nivel": "🟢",
     "titulo": "IBL en Colpensiones: qué es y cómo se calcula"
   },
+  "gerencie.com::https://www.gerencie.com/guia-pensiones/pagar-las-semanas-que-me-faltan-para-pensionarme": {
+    "fecha_detectado": "2026-09-30T01:40:41.100418+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Puedo pagar las semanas que me faltan para pensionarme?"
+  },
+  "gerencie.com::https://www.gerencie.com/guia-pensiones/que-hago-si-no-cumplo-los-requisitos-para-pensionarme-en-colpensiones": {
+    "fecha_detectado": "2026-09-30T01:40:41.100440+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Qué hago si no cumplo los requisitos para pensionarme en Colpensiones?"
+  },
   "gerencie.com::https://www.gerencie.com/guia-pensiones/requisitos-para-pensionarse-por-vejez-en-colpensiones": {
     "fecha_detectado": "2026-09-29T17:09:30.689987+00:00",
     "nivel": "🟢",
     "titulo": "Requisitos para pensionarse por vejez en Colombia"
+  },
+  "gerencie.com::https://www.gerencie.com/guia-pensiones/se-justifica-cotizar-mas-de-1300-semanas": {
+    "fecha_detectado": "2026-09-30T01:40:41.100482+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Se justifica cotizar más de 1.300 semanas en Colpensiones?"
+  },
+  "gerencie.com::https://www.gerencie.com/guia-pensiones/vale-la-pena-retirar-los-aportes-a-pension": {
+    "fecha_detectado": "2026-09-30T01:40:41.100398+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Vale la pena retirar los aportes a pensión?"
   },
   "gerencie.com::https://www.gerencie.com/guia-renta/conceptos/como-se-declaran-las-cesantias": {
     "fecha_detectado": "2026-09-19T20:25:56.249173+00:00",
@@ -1214,6 +1264,11 @@
     "nivel": "🟢",
     "titulo": "Obligaciones tributarias de las sucesiones ilíquidas"
   },
+  "gerencie.com::https://www.gerencie.com/tabla-de-retencion-entre-regimenes-del-iva.html": {
+    "fecha_detectado": "2026-09-30T01:40:41.100596+00:00",
+    "nivel": "🟢",
+    "titulo": "Tabla de retención entre regímenes del Iva"
+  },
   "gerencie.com::https://www.gerencie.com/terminacion-del-contrato-de-trabajo-a-termino-fijo.html": {
     "fecha_detectado": "2026-09-28T01:15:05.830880+00:00",
     "nivel": "🟢",
@@ -1463,6 +1518,11 @@
     "fecha_detectado": "2026-09-19T20:25:50.411294+00:00",
     "nivel": "🟢",
     "titulo": "Índices de coherencia tributaria para personas jurídicas: Guía técnica y autoauditoría"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/liquidacion-oficial-de-revision-dian/": {
+    "fecha_detectado": "2026-09-30T01:40:36.186991+00:00",
+    "nivel": "🟠",
+    "titulo": "Liquidación oficial de revisión DIAN: Plazos, artículo 713 del ET, recurso y cómo auditar el acto"
   },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/listado-conceptos-del-formato-1001/": {
     "fecha_detectado": "2026-09-19T20:25:50.411501+00:00",
