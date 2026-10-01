@@ -1,4 +1,9 @@
 {
+  "accounter.co::https://accounter.co/exclusivo-afiliados/gratuitos-exclusivo-afiliados/tributario-gratuitos-exclusivo-afiliados/seminario-online-193-oportunidades-de-eficiencia-tributaria": {
+    "fecha_detectado": "2026-10-01T01:38:05.656094+00:00",
+    "nivel": "🟢",
+    "titulo": "Seminario Online #193 - Oportunidades de Eficiencia Tributaria"
+  },
   "accounter.co::https://accounter.co/herramientas/151180": {
     "fecha_detectado": "2026-09-23T20:47:40.970245+00:00",
     "nivel": "🟢",
@@ -774,6 +779,11 @@
     "nivel": "🟢",
     "titulo": "Calcular límite de rentas exentas y deducciones imputables"
   },
+  "gerencie.com::https://www.gerencie.com/calculo-actuarial.html": {
+    "fecha_detectado": "2026-10-01T01:38:05.845315+00:00",
+    "nivel": "🟢",
+    "titulo": "Cálculo actuarial para pensión: qué es, quién lo paga y cómo se liquida"
+  },
   "gerencie.com::https://www.gerencie.com/calendario-dian": {
     "fecha_detectado": "2026-09-20T19:55:10.136166+00:00",
     "nivel": "🔴",
@@ -1144,6 +1154,11 @@
     "nivel": "🟢",
     "titulo": "¿El descuento se aplica antes o después del IVA?"
   },
+  "gerencie.com::https://www.gerencie.com/materia-prima.html": {
+    "fecha_detectado": "2026-10-01T01:38:05.845290+00:00",
+    "nivel": "🟢",
+    "titulo": "Materia prima: qué es, cómo se clasifica y cómo se contabiliza"
+  },
   "gerencie.com::https://www.gerencie.com/medicion-en-las-niif.html": {
     "fecha_detectado": "2026-09-22T20:37:10.761587+00:00",
     "nivel": "🟢",
@@ -1189,6 +1204,11 @@
     "nivel": "🟢",
     "titulo": "Pensión de sobrevivientes para padres y hermanos"
   },
+  "gerencie.com::https://www.gerencie.com/pension-sancion.html": {
+    "fecha_detectado": "2026-10-01T01:38:05.845301+00:00",
+    "nivel": "🟢",
+    "titulo": "Pensión sanción: requisitos, edad y monto"
+  },
   "gerencie.com::https://www.gerencie.com/perdida-y-retencion-de-las-cesantias-al-trabajador.html": {
     "fecha_detectado": "2026-09-28T22:42:56.405181+00:00",
     "nivel": "🟢",
@@ -1233,6 +1253,11 @@
     "fecha_detectado": "2026-09-20T00:28:15.507929+00:00",
     "nivel": "🟢",
     "titulo": "IVA generado: qué es, cómo se calcula y en qué cuenta se registra"
+  },
+  "gerencie.com::https://www.gerencie.com/que-es-el-retroactivo-pensional.html": {
+    "fecha_detectado": "2026-10-01T01:38:05.845257+00:00",
+    "nivel": "🟢",
+    "titulo": "Retroactivo pensional: qué es, cuándo prescribe y qué descuentos tiene"
   },
   "gerencie.com::https://www.gerencie.com/que-es-la-seguridad-social-en-una-relacion-laboral.html": {
     "fecha_detectado": "2026-09-25T16:02:59.994153+00:00",
@@ -1678,6 +1703,11 @@
     "fecha_detectado": "2026-09-19T20:25:50.411542+00:00",
     "nivel": "🟢",
     "titulo": "Retenciones en el régimen simple de tributación: ¿Cómo se aplican?"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/sancion-por-declaracion-de-ingresos-y-patrimonio/": {
+    "fecha_detectado": "2026-10-01T01:37:59.210533+00:00",
+    "nivel": "🟢",
+    "titulo": "Sanción por declaración de ingresos y patrimonio: ¿Cómo se calcula según el artículo 645 ET?"
   },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/sancion-por-inexactitud-dian/": {
     "fecha_detectado": "2026-09-29T02:20:57.928071+00:00",
