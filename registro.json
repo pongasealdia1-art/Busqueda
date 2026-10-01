@@ -24,6 +24,11 @@
     "nivel": "🟡",
     "titulo": "Alivios tributarios para afectados por el terremoto: facilidades de pago, reducción de sanciones e intereses y beneficios sobre donaciones – Decreto 1419 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/aplicacion-de-las-bases-minimas-de-retencion-en-la-fuente-a-la-autorretencion-especial-de-renta-sentencia-30246-de-2026": {
+    "fecha_detectado": "2026-10-01T17:37:57.634276+00:00",
+    "nivel": "🟠",
+    "titulo": "Aplicación de las bases mínimas de retención en la fuente a la autorretención especial de renta — Sentencia 30246 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/apoyo-extraordinario-a-la-nomina-y-proteccion-economica-de-trabajadores-damnificados-decreto-1417-de-2026": {
     "fecha_detectado": "2026-09-23T15:41:22.067112+00:00",
     "nivel": "🟡",
@@ -144,6 +149,11 @@
     "nivel": "🟢",
     "titulo": "Asuntos Legales - Reforma al marco de compliance expedida por la SuperSociedades"
   },
+  "accounter.co::https://accounter.co/noticias/actualidad/autorretencion-especial-los-topes-minimos-de-renta-tambien-cuentan": {
+    "fecha_detectado": "2026-10-01T17:37:57.634237+00:00",
+    "nivel": "🟢",
+    "titulo": "Editorial Accounter | Autorretención especial: los topes mínimos de renta también cuentan"
+  },
   "accounter.co::https://accounter.co/noticias/actualidad/decreto-1419-no-todos-los-alivios-del-sismo-se-quedan-en-la-zona-afectada": {
     "fecha_detectado": "2026-09-23T15:41:22.067050+00:00",
     "nivel": "🟡",
@@ -173,6 +183,11 @@
     "fecha_detectado": "2026-09-22T15:51:46.190283+00:00",
     "nivel": "🟢",
     "titulo": "Editorial Tributar Asesores SAS - Alivios tributarios: ¿solo en los territorios afectados?"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/editorial-tributar-asesores-sas-bases-de-autorretencion-especial-sentencia-del-consejo-de-estado-endereza-el-rumbo": {
+    "fecha_detectado": "2026-10-01T17:37:57.634298+00:00",
+    "nivel": "🟠",
+    "titulo": "Editorial Tributar Asesores SAS -  Bases de autorretención especial: sentencia del Consejo de Estado endereza el rumbo"
   },
   "accounter.co::https://accounter.co/noticias/actualidad/la-republica-la-dian-aclaro-que-morosos-de-todo-el-pais-podran-pagar-solo-15-de-sus-sanciones": {
     "fecha_detectado": "2026-09-24T16:02:15.073677+00:00",
@@ -214,6 +229,11 @@
     "nivel": "🟢",
     "titulo": "Agenda laboral (regulatoria) del Gobierno 2026-2030"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/amplian-suspension-de-listas-para-juntas-de-calificacion-de-invalidez": {
+    "fecha_detectado": "2026-10-01T17:37:54.870110+00:00",
+    "nivel": "🟢",
+    "titulo": "Amplían suspensión de listas para juntas de calificación de invalidez"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/analisis-inversion-de-la-carga-de-la-prueba-en-discriminacion-laboral": {
     "fecha_detectado": "2026-09-23T20:47:38.518939+00:00",
     "nivel": "🟢",
@@ -243,6 +263,11 @@
     "fecha_detectado": "2026-09-22T01:17:57.683794+00:00",
     "nivel": "🟢",
     "titulo": "El nuevo proceso laboral: una reforma con desafíos pendientes"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/esta-es-la-nueva-directora-de-la-ugpp": {
+    "fecha_detectado": "2026-10-01T17:37:54.870128+00:00",
+    "nivel": "🟢",
+    "titulo": "Esta es la nueva Directora de la UGPP"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/expresion-permitia-al-empleador-indagar-sobre-rasgos-identitarios-bajo-pretexto-de": {
     "fecha_detectado": "2026-09-24T20:53:21.201753+00:00",
@@ -339,10 +364,25 @@
     "nivel": "🟠",
     "titulo": "DIAN reporta aumento del 50,7 % en aprehensiones por contrabando"
   },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/2-de-octubre-vence-plazo-para-tercer-pago-del-impuesto-predial-por-cuotas-en": {
+    "fecha_detectado": "2026-10-01T17:37:54.870026+00:00",
+    "nivel": "🔴",
+    "titulo": "2 de octubre vence plazo para tercer pago del impuesto predial por cuotas en Bogotá"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/analisis-autorretencion-especial-la-doctrina-no-puede-crear-lo-que-la-ley-no": {
+    "fecha_detectado": "2026-10-01T17:37:54.869964+00:00",
+    "nivel": "🟢",
+    "titulo": "ANÁLISIS: Autorretención especial: la doctrina no puede crear lo que la ley no dice"
+  },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/analisis-cuanto-vale-firmar-la-responsabilidad-tributaria-del-representante-0": {
     "fecha_detectado": "2026-09-19T20:25:53.113918+00:00",
     "nivel": "🟢",
     "titulo": "ANÁLISIS: ¿Cuánto vale firmar?: la responsabilidad tributaria del representante legal en Colombia: naturaleza y alcance (II)"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/auditoria-fortalece-estructura-cientifica-de-revista-control-visible": {
+    "fecha_detectado": "2026-10-01T17:37:54.870008+00:00",
+    "nivel": "🟢",
+    "titulo": "Auditoría fortalece estructura científica de revista Control Visible"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/declaracion-de-renta-2026-quienes-deben-declarar-fechas-clave-y-como-evitar": {
     "fecha_detectado": "2026-09-19T20:25:53.114130+00:00",
@@ -699,6 +739,11 @@
     "nivel": "🟢",
     "titulo": "Calculadora de Iva incuido"
   },
+  "gerencie.com::https://www.gerencie.com/calculadora-de-limite-de-embargos-salariales.html": {
+    "fecha_detectado": "2026-10-01T17:37:57.955340+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de embargo de salario 2026"
+  },
   "gerencie.com::https://www.gerencie.com/calculadora-de-limites-al-salario-en-especie.html": {
     "fecha_detectado": "2026-09-20T19:55:10.136336+00:00",
     "nivel": "🟢",
@@ -958,6 +1003,16 @@
     "fecha_detectado": "2026-09-27T00:59:09.975211+00:00",
     "nivel": "🟢",
     "titulo": "Elementos del contrato de trabajo"
+  },
+  "gerencie.com::https://www.gerencie.com/embargabilidad-del-salario-minimo.html": {
+    "fecha_detectado": "2026-10-01T17:37:57.955267+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Se puede embargar el salario mínimo?"
+  },
+  "gerencie.com::https://www.gerencie.com/embargo-de-salarios-y-prestaciones-sociales.html": {
+    "fecha_detectado": "2026-10-01T17:37:57.955298+00:00",
+    "nivel": "🟢",
+    "titulo": "Embargo de salario: cuánto se puede embargar y cómo funciona"
   },
   "gerencie.com::https://www.gerencie.com/emplazamiento-para-corregir.html": {
     "fecha_detectado": "2026-09-24T20:53:24.503924+00:00",
@@ -1224,6 +1279,11 @@
     "nivel": "🟢",
     "titulo": "Periodo de prueba en el contrato de trabajo"
   },
+  "gerencie.com::https://www.gerencie.com/prestamos-a-trabajadores.html": {
+    "fecha_detectado": "2026-10-01T17:37:57.955327+00:00",
+    "nivel": "🟢",
+    "titulo": "Préstamos a trabajadores: cómo otorgarlos, descontarlos y registrarlos"
+  },
   "gerencie.com::https://www.gerencie.com/prima-de-servicios.html": {
     "fecha_detectado": "2026-09-29T02:21:04.767301+00:00",
     "nivel": "🟢",
@@ -1484,6 +1544,11 @@
     "nivel": "🟢",
     "titulo": "Patrimonio líquido es la base para calcular sanciones relacionadas con la declaración de ingresos y patrimonio"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/10/dian-la-propiedad-horizontal-que-genera-rentas-puede-estar-sujeta-al-impuesto-al-patrimonio/": {
+    "fecha_detectado": "2026-10-01T17:37:49.032455+00:00",
+    "nivel": "🟠",
+    "titulo": "DIAN: la propiedad horizontal que genera rentas puede estar sujeta al impuesto al patrimonio"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/09/concejo-de-bogota-aprobo-reforma-tributaria-que-recaudara-108-billones/": {
     "fecha_detectado": "2026-09-30T17:07:20.060196+00:00",
     "nivel": "🔴",
@@ -1533,6 +1598,11 @@
     "fecha_detectado": "2026-09-19T20:25:52.386052+00:00",
     "nivel": "🟢",
     "titulo": "Supersociedades aclaró que no existe obligación general de reportar estados financieros intermedios"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/10/clasificacion-contable-de-los-intereses-sobre-cesantias-bajo-la-niif-18/": {
+    "fecha_detectado": "2026-10-01T17:37:49.032418+00:00",
+    "nivel": "🟢",
+    "titulo": "Clasificación contable de los intereses sobre cesantías bajo la NIIF 18"
   },
   "nexiamya.com.co::https://nexiamya.com.co/liquidacion-de-impuestos": {
     "fecha_detectado": "2026-09-19T20:25:55.897045+00:00",
