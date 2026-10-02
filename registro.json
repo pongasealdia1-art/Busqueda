@@ -259,6 +259,11 @@
     "nivel": "🟢",
     "titulo": "ANÁLISIS: Inversión de la carga de la prueba en discriminación laboral"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/analisis-la-ia-en-el-contexto-de-las-relaciones-laborales-una-regulacion-que-no-da": {
+    "fecha_detectado": "2026-10-02T21:32:22.165637+00:00",
+    "nivel": "🟢",
+    "titulo": "ANÁLISIS: La IA en el contexto de las relaciones laborales, una regulación que no da espera"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/condicionan-facultad-de-supersalud-para-disenar-procedimiento-sancionatorio-por": {
     "fecha_detectado": "2026-09-19T20:25:53.114244+00:00",
     "nivel": "🟢",
@@ -399,6 +404,11 @@
     "nivel": "🟢",
     "titulo": "ANÁLISIS: ¿Cuánto vale firmar?: la responsabilidad tributaria del representante legal en Colombia: naturaleza y alcance (II)"
   },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/anulan-doctrina-de-la-dian-y-aclaran-aplicacion-de-umbrales-en-autorretencion": {
+    "fecha_detectado": "2026-10-02T21:32:22.165486+00:00",
+    "nivel": "🟠",
+    "titulo": "Anulan doctrina de la Dian y aclaran aplicación de umbrales en autorretención especial"
+  },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/auditoria-fortalece-estructura-cientifica-de-revista-control-visible": {
     "fecha_detectado": "2026-10-01T17:37:54.870008+00:00",
     "nivel": "🟢",
@@ -463,6 +473,11 @@
     "fecha_detectado": "2026-09-19T20:25:53.113893+00:00",
     "nivel": "🟢",
     "titulo": "Fallo que declaró inexequible tipificación de incumplimientos laborales como infracción aduanera"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/fogacoop-instruye-cooperativas-sobre-mejores-practicas-de-gobierno": {
+    "fecha_detectado": "2026-10-02T21:32:22.165442+00:00",
+    "nivel": "🟢",
+    "titulo": "Fogacoop instruye a cooperativas sobre mejores prácticas de gobierno"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/gobierno-adopta-alivios-tributarios-para-afectados-por-el-terremoto": {
     "fecha_detectado": "2026-09-19T20:25:53.113691+00:00",
@@ -548,6 +563,11 @@
     "fecha_detectado": "2026-09-28T22:42:53.711645+00:00",
     "nivel": "🟠",
     "titulo": "¿Tiene fuerza de ley el comunicado de prensa 122 de la Dian?"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/unificacion-de-jurisprudencia-radicacion-tardia-de-tornaguia-no-elimina": {
+    "fecha_detectado": "2026-10-02T21:32:22.165511+00:00",
+    "nivel": "🟢",
+    "titulo": "UNIFICACIÓN DE JURISPRUDENCIA: Radicación tardía de tornaguía no elimina infracción tributaria"
   },
   "cijuf.org.co::https://cijuf.org.co/normatividad/Decreto": {
     "fecha_detectado": "2026-09-19T20:26:00.041888+00:00",
@@ -889,6 +909,11 @@
     "nivel": "🟢",
     "titulo": "Cesantías en el reintegro del trabajador"
   },
+  "gerencie.com::https://www.gerencie.com/clasificacion-de-los-impuestos.html": {
+    "fecha_detectado": "2026-10-02T21:32:22.630376+00:00",
+    "nivel": "🟢",
+    "titulo": "Clasificación de los impuestos en Colombia"
+  },
   "gerencie.com::https://www.gerencie.com/codigos-de-actividades-economicas.html": {
     "fecha_detectado": "2026-09-23T15:41:22.304343+00:00",
     "nivel": "🟠",
@@ -1164,6 +1189,11 @@
     "nivel": "🟢",
     "titulo": "IVA descontable: qué es, requisitos y oportunidad"
   },
+  "gerencie.com::https://www.gerencie.com/impuestos-directos.html": {
+    "fecha_detectado": "2026-10-02T21:32:22.630358+00:00",
+    "nivel": "🟢",
+    "titulo": "Impuestos directos e impuestos indirectos"
+  },
   "gerencie.com::https://www.gerencie.com/incompatibilidad-de-pensiones-en-colombia.html": {
     "fecha_detectado": "2026-09-30T21:37:31.865047+00:00",
     "nivel": "🟢",
@@ -1268,6 +1298,11 @@
     "fecha_detectado": "2026-09-25T00:57:13.987493+00:00",
     "nivel": "🟠",
     "titulo": "Nulidad y restablecimiento del derecho contra actos de la Dian"
+  },
+  "gerencie.com::https://www.gerencie.com/obligaciones-tributarias-formales.html": {
+    "fecha_detectado": "2026-10-02T21:32:22.630333+00:00",
+    "nivel": "🟢",
+    "titulo": "Obligaciones tributarias formales y sustanciales"
   },
   "gerencie.com::https://www.gerencie.com/oficio-persuasivo.html": {
     "fecha_detectado": "2026-09-24T20:53:24.503934+00:00",
@@ -1488,6 +1523,11 @@
     "fecha_detectado": "2026-09-24T16:02:15.481214+00:00",
     "nivel": "🟢",
     "titulo": "Obligaciones tributarias de las sucesiones ilíquidas"
+  },
+  "gerencie.com::https://www.gerencie.com/sujeto-pasivo-en-los-impuestos.html": {
+    "fecha_detectado": "2026-10-02T21:32:22.630389+00:00",
+    "nivel": "🟢",
+    "titulo": "Sujeto pasivo del impuesto"
   },
   "gerencie.com::https://www.gerencie.com/suspension-del-trabajador-como-sancion-disciplinaria.html": {
     "fecha_detectado": "2026-10-02T01:51:04.113982+00:00",
