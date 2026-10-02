@@ -44,6 +44,11 @@
     "nivel": "🟠",
     "titulo": "Ayudas recibidas por damnificados del terremoto están gravadas como ganancia ocasional. Oficio DIAN 100192467-2764 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/beneficio-de-auditoria-en-declaraciones-con-compensacion-de-perdidas-fiscales-concepto-15291-de-2026": {
+    "fecha_detectado": "2026-10-02T16:56:31.644524+00:00",
+    "nivel": "🟠",
+    "titulo": "Beneficio de auditoría en declaraciones con compensación de pérdidas fiscales — Concepto 15291 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/certificacion-de-hechos-contables-en-propiedad-horizontal-concepto-ctcp-216-de-2026": {
     "fecha_detectado": "2026-09-28T18:51:52.342001+00:00",
     "nivel": "🟠",
@@ -139,6 +144,16 @@
     "nivel": "🟠",
     "titulo": "Reconocimiento y corrección de pasivos en propiedad horizontal. Concepto CTCP 2026-204"
   },
+  "accounter.co::https://accounter.co/normatividad/sancion-por-extemporaneidad-e-ineficacia-de-la-declaracion-de-retencion-en-la-fuente-concepto-15978-de-2026": {
+    "fecha_detectado": "2026-10-02T16:56:31.644461+00:00",
+    "nivel": "🟠",
+    "titulo": "Sanción por extemporaneidad e ineficacia de la declaración de retención en la fuente — Concepto 15978 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/tratamiento-tributario-de-los-anticipos-a-proveedores-del-exterior-concepto-15294-de-2026": {
+    "fecha_detectado": "2026-10-02T16:56:31.644498+00:00",
+    "nivel": "🟠",
+    "titulo": "Tratamiento tributario de los anticipos a proveedores del exterior — Concepto 15294 de 2026"
+  },
   "accounter.co::https://accounter.co/noticias/actualidad/asunto-legales-retencion-en-servicios-con-aiu-la-dian-cambia-su-criterio": {
     "fecha_detectado": "2026-09-23T15:41:22.067128+00:00",
     "nivel": "🟠",
@@ -158,6 +173,11 @@
     "fecha_detectado": "2026-09-23T15:41:22.067050+00:00",
     "nivel": "🟡",
     "titulo": "Accounter | Decreto 1419: No todos los alivios del sismo se quedan en la zona afectada"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/dian-adapta-su-capacidad-operativa-ante-el-aumento-de-solicitudes-de-devolucion-de-iva-de-vehiculos-hibridos-y-electricos": {
+    "fecha_detectado": "2026-10-02T16:56:31.644551+00:00",
+    "nivel": "🟠",
+    "titulo": "DIAN adapta su capacidad operativa ante el aumento de solicitudes de devolución de IVA de vehículos híbridos y eléctricos"
   },
   "accounter.co::https://accounter.co/noticias/actualidad/dian-gobierno-nacional-expide-paquete-de-medidas-tributarias-para-la-reconstruccion-de-las-zonas-afectadas-por-el-terremoto": {
     "fecha_detectado": "2026-09-22T15:51:46.190333+00:00",
@@ -974,6 +994,11 @@
     "nivel": "🟢",
     "titulo": "¿Cuándo se paga el IVA?"
   },
+  "gerencie.com::https://www.gerencie.com/deducciones-de-nomina-por-aportes-a-salud-y-pension-cuando-las-vacaciones-son-disfrutadas-y-pagadas.html": {
+    "fecha_detectado": "2026-10-02T16:56:31.877090+00:00",
+    "nivel": "🟢",
+    "titulo": "¿A las vacaciones se les descuenta salud y pensión?"
+  },
   "gerencie.com::https://www.gerencie.com/dependencia-economica-en-la-pension-de-sobrevivientes.html": {
     "fecha_detectado": "2026-09-30T21:37:31.865113+00:00",
     "nivel": "🟢",
@@ -1568,6 +1593,11 @@
     "fecha_detectado": "2026-09-21T17:18:25.151672+00:00",
     "nivel": "🟢",
     "titulo": "Patrimonio líquido es la base para calcular sanciones relacionadas con la declaración de ingresos y patrimonio"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/10/dian-amplio-capacidad-para-atender-devoluciones-del-iva-de-vehiculos-hibridos-y-electricos/": {
+    "fecha_detectado": "2026-10-02T16:56:28.510685+00:00",
+    "nivel": "🟠",
+    "titulo": "DIAN amplió capacidad para atender devoluciones del IVA de vehículos híbridos y eléctricos"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/10/dian-la-propiedad-horizontal-que-genera-rentas-puede-estar-sujeta-al-impuesto-al-patrimonio/": {
     "fecha_detectado": "2026-10-01T17:37:49.032455+00:00",
