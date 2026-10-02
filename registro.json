@@ -774,6 +774,11 @@
     "nivel": "🟢",
     "titulo": "Calculadora de seguridad social por días"
   },
+  "gerencie.com::https://www.gerencie.com/calculadora-del-anticipo-del-impuesto-a-la-renta.html": {
+    "fecha_detectado": "2026-10-02T01:51:04.114114+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora del anticipo del impuesto a la renta"
+  },
   "gerencie.com::https://www.gerencie.com/calculadora-en-linea-del-impuesto-a-la-renta-de-personas-naturales.html": {
     "fecha_detectado": "2026-09-20T00:28:15.508030+00:00",
     "nivel": "🟢",
@@ -878,6 +883,11 @@
     "fecha_detectado": "2026-09-23T20:47:41.202040+00:00",
     "nivel": "🟠",
     "titulo": "Códigos de las direcciones seccionales de la Dian"
+  },
+  "gerencie.com::https://www.gerencie.com/comisiones-en-el-contrato-de-trabajo.html": {
+    "fecha_detectado": "2026-10-02T01:51:04.113938+00:00",
+    "nivel": "🟢",
+    "titulo": "Comisiones en el contrato de trabajo"
   },
   "gerencie.com::https://www.gerencie.com/como-calcular-el-valor-del-iva-cuando-no-se-discrimina.html": {
     "fecha_detectado": "2026-09-20T00:28:15.507962+00:00",
@@ -1294,6 +1304,11 @@
     "nivel": "🟢",
     "titulo": "Per saltum en materia tributaria: demanda sin recurso de reconsideración"
   },
+  "gerencie.com::https://www.gerencie.com/procedimiento-para-imponer-sanciones-disciplinarias-al-trabajador.html": {
+    "fecha_detectado": "2026-10-02T01:51:04.114010+00:00",
+    "nivel": "🟢",
+    "titulo": "Proceso disciplinario laboral: procedimiento para sancionar al trabajador y modelo de citación a descargos"
+  },
   "gerencie.com::https://www.gerencie.com/prorrateo-del-iva.html": {
     "fecha_detectado": "2026-09-20T00:28:15.507940+00:00",
     "nivel": "🟢",
@@ -1404,6 +1419,11 @@
     "nivel": "🟢",
     "titulo": "Sanción moratoria por no pago de cesantías"
   },
+  "gerencie.com::https://www.gerencie.com/sanciones-disciplinarias-al-trabajador.html": {
+    "fecha_detectado": "2026-10-02T01:51:04.114032+00:00",
+    "nivel": "🟢",
+    "titulo": "Sanciones disciplinarias al trabajador: tipos, límites y qué es una amonestación"
+  },
   "gerencie.com::https://www.gerencie.com/se-pierde-la-pension-de-sobrevivientes-por-casarse-de-nuevo.html": {
     "fecha_detectado": "2026-09-30T21:37:31.865094+00:00",
     "nivel": "🟢",
@@ -1443,6 +1463,11 @@
     "fecha_detectado": "2026-09-24T16:02:15.481214+00:00",
     "nivel": "🟢",
     "titulo": "Obligaciones tributarias de las sucesiones ilíquidas"
+  },
+  "gerencie.com::https://www.gerencie.com/suspension-del-trabajador-como-sancion-disciplinaria.html": {
+    "fecha_detectado": "2026-10-02T01:51:04.113982+00:00",
+    "nivel": "🟢",
+    "titulo": "Suspensión del trabajador como sanción disciplinaria: cuántos días y cómo se liquida"
   },
   "gerencie.com::https://www.gerencie.com/tabla-de-retencion-entre-regimenes-del-iva.html": {
     "fecha_detectado": "2026-09-30T01:40:41.100596+00:00",
