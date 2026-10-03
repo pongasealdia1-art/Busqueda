@@ -1194,6 +1194,21 @@
     "nivel": "🟢",
     "titulo": "¿Qué es el IVA? Impuesto a las ventas en Colombia"
   },
+  "gerencie.com::https://www.gerencie.com/impuesto-a-productos-plasticos-de-un-solo-uso.html": {
+    "fecha_detectado": "2026-10-03T20:18:32.731965+00:00",
+    "nivel": "🟢",
+    "titulo": "Impuesto a los plásticos de un solo uso"
+  },
+  "gerencie.com::https://www.gerencie.com/impuesto-al-patrimonio.html": {
+    "fecha_detectado": "2026-10-03T20:18:32.731987+00:00",
+    "nivel": "🟢",
+    "titulo": "Impuesto al patrimonio para personas naturales y jurídicas"
+  },
+  "gerencie.com::https://www.gerencie.com/impuesto-de-timbre.html": {
+    "fecha_detectado": "2026-10-03T20:18:32.731999+00:00",
+    "nivel": "🟢",
+    "titulo": "Impuesto de timbre: qué es, cuándo se paga y cómo se contabiliza"
+  },
   "gerencie.com::https://www.gerencie.com/impuestos-descontables.html": {
     "fecha_detectado": "2026-09-20T00:28:15.507950+00:00",
     "nivel": "🟢",
@@ -1203,6 +1218,11 @@
     "fecha_detectado": "2026-10-02T21:32:22.630358+00:00",
     "nivel": "🟢",
     "titulo": "Impuestos directos e impuestos indirectos"
+  },
+  "gerencie.com::https://www.gerencie.com/impuestos-saludables.html": {
+    "fecha_detectado": "2026-10-03T20:18:32.731976+00:00",
+    "nivel": "🟢",
+    "titulo": "Impuestos saludables: IBUA e ICUI en 2026"
   },
   "gerencie.com::https://www.gerencie.com/incompatibilidad-de-pensiones-en-colombia.html": {
     "fecha_detectado": "2026-09-30T21:37:31.865047+00:00",
@@ -1523,6 +1543,11 @@
     "fecha_detectado": "2026-09-26T00:58:57.537017+00:00",
     "nivel": "🟢",
     "titulo": "Seguridad social en los concejales"
+  },
+  "gerencie.com::https://www.gerencie.com/servicio-de-restaurante-frente-al-iva.html": {
+    "fecha_detectado": "2026-10-03T20:18:32.731932+00:00",
+    "nivel": "🟢",
+    "titulo": "Impuesto al consumo en restaurantes: ¿los restaurantes cobran IVA?"
   },
   "gerencie.com::https://www.gerencie.com/servicios-de-educacion-excluidos-del-iva.html": {
     "fecha_detectado": "2026-09-21T00:35:17.379500+00:00",
