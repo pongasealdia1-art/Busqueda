@@ -1184,6 +1184,11 @@
     "nivel": "🟢",
     "titulo": "Trabajador independiente: ¿declarar renta exenta o costos y deducciones?"
   },
+  "gerencie.com::https://www.gerencie.com/impuesto-a-la-renta-en-contratos-de-cuentas-en-participacion.html": {
+    "fecha_detectado": "2026-10-03T15:19:49.764219+00:00",
+    "nivel": "🟢",
+    "titulo": "Impuesto de renta en el contrato de cuentas en participación"
+  },
   "gerencie.com::https://www.gerencie.com/impuesto-a-las-ventas.html": {
     "fecha_detectado": "2026-09-19T20:25:56.249133+00:00",
     "nivel": "🟢",
@@ -1303,6 +1308,16 @@
     "fecha_detectado": "2026-09-25T00:57:13.987493+00:00",
     "nivel": "🟠",
     "titulo": "Nulidad y restablecimiento del derecho contra actos de la Dian"
+  },
+  "gerencie.com::https://www.gerencie.com/obligaciones-tributarias-de-las-personas-naturales.html": {
+    "fecha_detectado": "2026-10-03T15:19:49.764276+00:00",
+    "nivel": "🟢",
+    "titulo": "Obligaciones tributarias de las personas naturales"
+  },
+  "gerencie.com::https://www.gerencie.com/obligaciones-tributarias-de-los-menores-de-edad.html": {
+    "fecha_detectado": "2026-10-03T15:19:49.764264+00:00",
+    "nivel": "🟢",
+    "titulo": "Obligaciones tributarias de los menores de edad"
   },
   "gerencie.com::https://www.gerencie.com/obligaciones-tributarias-formales.html": {
     "fecha_detectado": "2026-10-02T21:32:22.630333+00:00",
@@ -1433,6 +1448,11 @@
     "fecha_detectado": "2026-09-30T17:07:44.830808+00:00",
     "nivel": "🟢",
     "titulo": "Reducción de 50 semanas por hijo para la pensión de las mujeres"
+  },
+  "gerencie.com::https://www.gerencie.com/responsabilidades-de-los-consorcios-y-uniones-temporales-frente-a-los-impuestos.html": {
+    "fecha_detectado": "2026-10-03T15:19:49.764251+00:00",
+    "nivel": "🟢",
+    "titulo": "Impuestos en consorcios y uniones temporales"
   },
   "gerencie.com::https://www.gerencie.com/responsables-y-no-responsables-del-iva.html": {
     "fecha_detectado": "2026-09-19T20:25:56.249152+00:00",
