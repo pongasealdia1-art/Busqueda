@@ -1034,6 +1034,16 @@
     "nivel": "🟢",
     "titulo": "¿A las vacaciones se les descuenta salud y pensión?"
   },
+  "gerencie.com::https://www.gerencie.com/demanda-laboral.html": {
+    "fecha_detectado": "2026-10-04T16:04:48.228119+00:00",
+    "nivel": "🟢",
+    "titulo": "Demanda laboral"
+  },
+  "gerencie.com::https://www.gerencie.com/demanda-o-proceso-laboral-de-unica-instancia.html": {
+    "fecha_detectado": "2026-10-04T16:04:48.228109+00:00",
+    "nivel": "🟢",
+    "titulo": "Cuantías en los procesos laborales y el fin de la única instancia"
+  },
   "gerencie.com::https://www.gerencie.com/dependencia-economica-en-la-pension-de-sobrevivientes.html": {
     "fecha_detectado": "2026-09-30T21:37:31.865113+00:00",
     "nivel": "🟢",
@@ -1103,6 +1113,16 @@
     "fecha_detectado": "2026-09-27T15:55:20.449619+00:00",
     "nivel": "🟢",
     "titulo": "Qué hacer si el empleador no paga el salario oportunamente"
+  },
+  "gerencie.com::https://www.gerencie.com/facultades-ultra-y-extra-petita-en-el-derecho-laboral.html": {
+    "fecha_detectado": "2026-10-04T16:04:48.228047+00:00",
+    "nivel": "🟢",
+    "titulo": "Facultades ultra y extra petita en el derecho laboral"
+  },
+  "gerencie.com::https://www.gerencie.com/finalidad-del-recurso-de-casacion-en-materia-laboral.html": {
+    "fecha_detectado": "2026-10-04T16:04:48.228078+00:00",
+    "nivel": "🟢",
+    "titulo": "Recurso de casación laboral"
   },
   "gerencie.com::https://www.gerencie.com/firma-digital-dian.html": {
     "fecha_detectado": "2026-09-24T16:02:15.481229+00:00",
@@ -1333,6 +1353,11 @@
     "fecha_detectado": "2026-09-30T21:37:31.865068+00:00",
     "nivel": "🟢",
     "titulo": "Mesadas pendientes de pago cuando fallece el pensionado"
+  },
+  "gerencie.com::https://www.gerencie.com/modelo-de-escrito-para-el-agotamiento-de-la-reclamacion-administrativa.html": {
+    "fecha_detectado": "2026-10-04T16:04:48.228093+00:00",
+    "nivel": "🟢",
+    "titulo": "Reclamación administrativa en demandas laborales"
   },
   "gerencie.com::https://www.gerencie.com/monto-de-la-pension-de-sobrevivientes.html": {
     "fecha_detectado": "2026-09-30T17:07:44.830828+00:00",
