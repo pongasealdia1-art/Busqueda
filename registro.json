@@ -674,6 +674,11 @@
     "nivel": "🟢",
     "titulo": "Diferencia en cambio en las NIIF: cómo se reconoce y se ajusta"
   },
+  "gerencie.com::https://www.gerencie.com/anticipos-pagados-por-el-cliente-y-su-tratamiento-tributario.html": {
+    "fecha_detectado": "2026-10-04T02:12:09.587758+00:00",
+    "nivel": "🟢",
+    "titulo": "Anticipos: ¿se facturan, llevan IVA y retención en la fuente?"
+  },
   "gerencie.com::https://www.gerencie.com/aportes-a-seguridad-social-de-colombianos-en-el-exterior-con-ingresos-en-colombia.html": {
     "fecha_detectado": "2026-09-26T00:58:57.537000+00:00",
     "nivel": "🟢",
@@ -1059,6 +1064,11 @@
     "nivel": "🟢",
     "titulo": "Diferencias entre el contrato de trabajo y el contrato de prestación de servicios"
   },
+  "gerencie.com::https://www.gerencie.com/distribucion-de-la-jornada-laboral-semanal-en-linea.html": {
+    "fecha_detectado": "2026-10-04T02:12:09.587868+00:00",
+    "nivel": "🟢",
+    "titulo": "Distribución de la jornada laboral semanal – Calculadora"
+  },
   "gerencie.com::https://www.gerencie.com/edad-minima-para-que-un-menor-cumpla-obligaciones-tributarias-directamente.html": {
     "fecha_detectado": "2026-09-24T16:02:15.481245+00:00",
     "nivel": "🟢",
@@ -1218,6 +1228,11 @@
     "fecha_detectado": "2026-10-02T21:32:22.630358+00:00",
     "nivel": "🟢",
     "titulo": "Impuestos directos e impuestos indirectos"
+  },
+  "gerencie.com::https://www.gerencie.com/impuestos-en-las-incapacidades-laborales.html": {
+    "fecha_detectado": "2026-10-04T02:12:09.587680+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Las incapacidades laborales son gravadas en renta?"
   },
   "gerencie.com::https://www.gerencie.com/impuestos-saludables.html": {
     "fecha_detectado": "2026-10-03T20:18:32.731976+00:00",
@@ -1529,6 +1544,11 @@
     "nivel": "🟢",
     "titulo": "Sanciones disciplinarias al trabajador: tipos, límites y qué es una amonestación"
   },
+  "gerencie.com::https://www.gerencie.com/se-debe-pagar-impuesto-por-las-donaciones-recibidas.html": {
+    "fecha_detectado": "2026-10-04T02:12:09.587716+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Las donaciones pagan impuestos en Colombia?"
+  },
   "gerencie.com::https://www.gerencie.com/se-pierde-la-pension-de-sobrevivientes-por-casarse-de-nuevo.html": {
     "fecha_detectado": "2026-09-30T21:37:31.865094+00:00",
     "nivel": "🟢",
@@ -1614,10 +1634,20 @@
     "nivel": "🟢",
     "titulo": "Tiempo de convivencia para la pensión de sobrevivientes"
   },
+  "gerencie.com::https://www.gerencie.com/tratamiento-de-los-descuentos-comerciales-y-condicionados.html": {
+    "fecha_detectado": "2026-10-04T02:12:09.587775+00:00",
+    "nivel": "🟢",
+    "titulo": "Tratamiento tributario de los descuentos comerciales y condicionados"
+  },
   "gerencie.com::https://www.gerencie.com/tratamiento-del-iva-en-la-compra-de-activos-fijos.html": {
     "fecha_detectado": "2026-09-20T15:00:11.251464+00:00",
     "nivel": "🟢",
     "titulo": "IVA en la compra de activos fijos: ¿es descontable?"
+  },
+  "gerencie.com::https://www.gerencie.com/tratamiento-tributario-en-los-aportes-en-especie-a-sociedades.html": {
+    "fecha_detectado": "2026-10-04T02:12:09.587736+00:00",
+    "nivel": "🟢",
+    "titulo": "Tratamiento tributario de los aportes en especie a sociedades"
   },
   "gerencie.com::https://www.gerencie.com/valor-razonable-en-las-niif.html": {
     "fecha_detectado": "2026-09-22T20:37:10.761509+00:00",
