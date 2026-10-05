@@ -69,6 +69,11 @@
     "nivel": "🟠",
     "titulo": "Diferencias de conversión acumuladas en el ORI y pago de partidas monetarias — Concepto CTCP 211 de 2026."
   },
+  "accounter.co::https://accounter.co/normatividad/el-costo-del-inventario-puede-diferir-del-valor-registrado-en-la-escritura-concepto-ctcp-2026-0176": {
+    "fecha_detectado": "2026-10-05T19:51:31.547325+00:00",
+    "nivel": "🟠",
+    "titulo": "El costo del inventario puede diferir del valor registrado en la escritura — Concepto CTCP 2026-0176"
+  },
   "accounter.co::https://accounter.co/normatividad/estados-financieros-base-para-la-transformacion-de-una-s-a-en-s-a-s-oficio-supersociedades-115-323554-de-2026": {
     "fecha_detectado": "2026-09-25T16:02:59.444208+00:00",
     "nivel": "🟢",
@@ -114,6 +119,11 @@
     "nivel": "🟠",
     "titulo": "Intereses sobre cesantías: su nombre legal no determina una clasificación financiera — Concepto CTCP 226 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/la-depreciacion-no-integra-el-presupuesto-de-la-propiedad-horizontal-concepto-ctcp-2026-0195": {
+    "fecha_detectado": "2026-10-05T19:51:31.547297+00:00",
+    "nivel": "🟠",
+    "titulo": "La depreciación no integra el presupuesto de la propiedad horizontal — Concepto CTCP 2026-0195"
+  },
   "accounter.co::https://accounter.co/normatividad/medidas-especiales-para-la-recuperacion-y-reactivacion-empresarial-decreto-1418-de-2026": {
     "fecha_detectado": "2026-09-22T15:51:46.190309+00:00",
     "nivel": "🟡",
@@ -148,6 +158,11 @@
     "fecha_detectado": "2026-10-02T16:56:31.644461+00:00",
     "nivel": "🟠",
     "titulo": "Sanción por extemporaneidad e ineficacia de la declaración de retención en la fuente — Concepto 15978 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/tratamiento-contable-del-fraude-y-cuotas-extraordinarias-en-propiedad-horizontal-concepto-ctcp-2026-0213": {
+    "fecha_detectado": "2026-10-05T19:51:31.547240+00:00",
+    "nivel": "🟠",
+    "titulo": "Tratamiento contable del fraude y cuotas extraordinarias en propiedad horizontal — Concepto CTCP 2026-0213"
   },
   "accounter.co::https://accounter.co/normatividad/tratamiento-tributario-de-los-anticipos-a-proveedores-del-exterior-concepto-15294-de-2026": {
     "fecha_detectado": "2026-10-02T16:56:31.644498+00:00",
@@ -208,6 +223,11 @@
     "fecha_detectado": "2026-10-01T17:37:57.634298+00:00",
     "nivel": "🟠",
     "titulo": "Editorial Tributar Asesores SAS -  Bases de autorretención especial: sentencia del Consejo de Estado endereza el rumbo"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/hacienda-bogota-un-salvavidas-para-ponerse-al-dia-con-bogota-alivios-del-60-para-impuestos-y-otras-deudas-con-el-distrito": {
+    "fecha_detectado": "2026-10-05T19:51:31.547357+00:00",
+    "nivel": "🟢",
+    "titulo": "Hacienda Bogota - Un salvavidas para ponerse al día con Bogotá: alivios del 60 % para impuestos y otras deudas con el Distrito"
   },
   "accounter.co::https://accounter.co/noticias/actualidad/la-republica-la-dian-aclaro-que-morosos-de-todo-el-pais-podran-pagar-solo-15-de-sus-sanciones": {
     "fecha_detectado": "2026-09-24T16:02:15.073677+00:00",
@@ -914,6 +934,11 @@
     "nivel": "🟢",
     "titulo": "Suspensión y terminación del contrato de aprendizaje"
   },
+  "gerencie.com::https://www.gerencie.com/certificacion-laboral-por-parte-del-empleador.html": {
+    "fecha_detectado": "2026-10-05T19:51:31.923806+00:00",
+    "nivel": "🟢",
+    "titulo": "Certificación laboral: qué debe contener, cómo pedirla y qué vale como prueba"
+  },
   "gerencie.com::https://www.gerencie.com/cesantias-en-el-reintegro-del-trabajador.html": {
     "fecha_detectado": "2026-09-28T22:42:56.405194+00:00",
     "nivel": "🟢",
@@ -1274,6 +1299,11 @@
     "nivel": "🟢",
     "titulo": "¿Cuántas pensiones puede tener una persona en Colombia?"
   },
+  "gerencie.com::https://www.gerencie.com/indexacion-de-salarios.html": {
+    "fecha_detectado": "2026-10-05T19:51:31.923767+00:00",
+    "nivel": "🟢",
+    "titulo": "Indexación de salarios y prestaciones: cuándo procede y cómo se calcula"
+  },
   "gerencie.com::https://www.gerencie.com/la-independencia-del-auditor.html": {
     "fecha_detectado": "2026-09-24T16:02:15.481261+00:00",
     "nivel": "🟢",
@@ -1414,6 +1444,11 @@
     "nivel": "🟢",
     "titulo": "Retenciones de IVA: cuándo se pueden descontar en la declaración"
   },
+  "gerencie.com::https://www.gerencie.com/outsourcing-o-tercerizacion-laboral.html": {
+    "fecha_detectado": "2026-10-05T19:51:31.923737+00:00",
+    "nivel": "🟢",
+    "titulo": "Tercerización laboral: qué es, cuándo es legal y en qué se diferencia de la intermediación"
+  },
   "gerencie.com::https://www.gerencie.com/pasantias.html": {
     "fecha_detectado": "2026-09-27T20:33:18.740507+00:00",
     "nivel": "🟢",
@@ -1533,6 +1568,11 @@
     "fecha_detectado": "2026-09-30T17:07:44.830808+00:00",
     "nivel": "🟢",
     "titulo": "Reducción de 50 semanas por hijo para la pensión de las mujeres"
+  },
+  "gerencie.com::https://www.gerencie.com/reglamento-interno-de-trabajo.html": {
+    "fecha_detectado": "2026-10-05T19:51:31.923783+00:00",
+    "nivel": "🟢",
+    "titulo": "Reglamento interno de trabajo"
   },
   "gerencie.com::https://www.gerencie.com/responsabilidades-de-los-consorcios-y-uniones-temporales-frente-a-los-impuestos.html": {
     "fecha_detectado": "2026-10-03T15:19:49.764251+00:00",
@@ -1829,6 +1869,11 @@
     "nivel": "🟢",
     "titulo": "Clasificación contable de los intereses sobre cesantías bajo la NIIF 18"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/10/tratamiento-contable-y-clasificacion-de-arrendamientos-intragrupo-bajo-la-nueva-niif-18/": {
+    "fecha_detectado": "2026-10-05T19:51:28.389617+00:00",
+    "nivel": "🟢",
+    "titulo": "Tratamiento contable y clasificación de arrendamientos intragrupo bajo la nueva NIIF 18"
+  },
   "nexiamya.com.co::https://nexiamya.com.co/liquidacion-de-impuestos": {
     "fecha_detectado": "2026-09-19T20:25:55.897045+00:00",
     "nivel": "🟢",
@@ -1919,6 +1964,16 @@
     "nivel": "🟠",
     "titulo": "Calendario de nómina electrónica 2026: Fechas límite de transmisión a la DIAN y controles para el contador"
   },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/cesantias-y-cuentas-afc/": {
+    "fecha_detectado": "2026-10-05T19:51:26.412176+00:00",
+    "nivel": "🟢",
+    "titulo": "Cesantías y cuentas AFC: Tratamiento tributario, retiros y requisitos para conservar el beneficio"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/como-conciliar-la-retencion-en-la-fuente/": {
+    "fecha_detectado": "2026-10-05T19:51:26.412215+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Cómo conciliar la retención en la fuente antes de presentar el Formulario 350?"
+  },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/corte-contable/": {
     "fecha_detectado": "2026-09-22T15:51:40.780037+00:00",
     "nivel": "🟢",
@@ -1998,6 +2053,11 @@
     "fecha_detectado": "2026-09-19T20:25:50.411542+00:00",
     "nivel": "🟢",
     "titulo": "Retenciones en el régimen simple de tributación: ¿Cómo se aplican?"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/salario-minimo-2027/": {
+    "fecha_detectado": "2026-10-05T19:51:26.412242+00:00",
+    "nivel": "🟢",
+    "titulo": "Salario mínimo 2027 en Colombia: Proceso de concertación y cómo preparar la nómina"
   },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/sancion-por-declaracion-de-ingresos-y-patrimonio/": {
     "fecha_detectado": "2026-10-01T01:37:59.210533+00:00",
