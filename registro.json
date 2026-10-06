@@ -9,6 +9,11 @@
     "nivel": "🟢",
     "titulo": "Protegido: Pack descargable: 10 prompts de IA para auditoría y Revisoría Fiscal"
   },
+  "accounter.co::https://accounter.co/herramientas/liquidacion-de-intereses-moratorios-octubre-de-2026": {
+    "fecha_detectado": "2026-10-06T17:31:03.480417+00:00",
+    "nivel": "🟡",
+    "titulo": "NUEVO - Liquidador intereses moratorios interactivo con aplicación beneficio tasa Decreto 1419 de 2026"
+  },
   "accounter.co::https://accounter.co/herramientas/memorias/online-memorias-beneficios-tributarios-para-vehiculos-electricos-e-hibridos-de-la-norma-a-la-practica-dr-felipe-arias-jueves-01-de-octubre-2026": {
     "fecha_detectado": "2026-10-06T02:33:52.102049+00:00",
     "nivel": "🟢",
@@ -78,6 +83,11 @@
     "fecha_detectado": "2026-10-05T19:51:31.547325+00:00",
     "nivel": "🟠",
     "titulo": "El costo del inventario puede diferir del valor registrado en la escritura — Concepto CTCP 2026-0176"
+  },
+  "accounter.co::https://accounter.co/normatividad/en-el-simple-prevalece-la-actividad-realmente-desarrollada-sobre-el-codigo-ciiu-concepto-dian-016144-int-1653-de-2026": {
+    "fecha_detectado": "2026-10-06T17:31:03.480464+00:00",
+    "nivel": "🟠",
+    "titulo": "En el SIMPLE prevalece la actividad realmente desarrollada sobre el código CIIU – Concepto DIAN 016144 int. 1653 de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/estados-financieros-base-para-la-transformacion-de-una-s-a-en-s-a-s-oficio-supersociedades-115-323554-de-2026": {
     "fecha_detectado": "2026-09-25T16:02:59.444208+00:00",
@@ -173,6 +183,11 @@
     "fecha_detectado": "2026-10-02T16:56:31.644498+00:00",
     "nivel": "🟠",
     "titulo": "Tratamiento tributario de los anticipos a proveedores del exterior — Concepto 15294 de 2026"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/asunto-legales-alivios-tributarios-tras-el-sismo-claves-del-decreto-1419-de-2026": {
+    "fecha_detectado": "2026-10-06T17:31:03.480486+00:00",
+    "nivel": "🟡",
+    "titulo": "Asunto Legales - Alivios tributarios tras el sismo: claves del Decreto 1419 de 2026"
   },
   "accounter.co::https://accounter.co/noticias/actualidad/asunto-legales-retencion-en-servicios-con-aiu-la-dian-cambia-su-criterio": {
     "fecha_detectado": "2026-09-23T15:41:22.067128+00:00",
@@ -323,6 +338,11 @@
     "fecha_detectado": "2026-10-01T17:37:54.870128+00:00",
     "nivel": "🟢",
     "titulo": "Esta es la nueva Directora de la UGPP"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/exequible-redencion-de-la-pena-por-trabajo-establecida-en-la-reforma-laboral": {
+    "fecha_detectado": "2026-10-06T17:31:03.160803+00:00",
+    "nivel": "🟢",
+    "titulo": "Exequible redención de la pena por trabajo establecida en la reforma laboral"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/expresion-permitia-al-empleador-indagar-sobre-rasgos-identitarios-bajo-pretexto-de": {
     "fecha_detectado": "2026-09-24T20:53:21.201753+00:00",
@@ -483,6 +503,11 @@
     "fecha_detectado": "2026-09-22T20:37:07.279443+00:00",
     "nivel": "🟠",
     "titulo": "Dian prorroga suspensión de términos en Pereira"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/dian-toma-medidas-por-aumento-de-solicitudes-de-devolucion-de-iva-de-vehiculos": {
+    "fecha_detectado": "2026-10-06T17:31:03.160676+00:00",
+    "nivel": "🟠",
+    "titulo": "Dian toma medidas por aumento de solicitudes de devolución de IVA de vehículos híbridos y eléctricos"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/el-impuesto-de-alumbrado-publico-y-los-estratos-residenciales-en-bogota": {
     "fecha_detectado": "2026-09-19T20:25:53.114153+00:00",
@@ -1034,6 +1059,11 @@
     "nivel": "🟢",
     "titulo": "Contrato de trabajo"
   },
+  "gerencie.com::https://www.gerencie.com/convencion-colectiva-de-trabajo.html": {
+    "fecha_detectado": "2026-10-06T17:31:03.639837+00:00",
+    "nivel": "🟢",
+    "titulo": "Convención colectiva de trabajo y pacto colectivo"
+  },
   "gerencie.com::https://www.gerencie.com/conversor-de-tasas-efectivas-a-nominales-y-viceversa.html": {
     "fecha_detectado": "2026-09-22T01:18:00.572906+00:00",
     "nivel": "🟢",
@@ -1088,6 +1118,11 @@
     "fecha_detectado": "2026-09-30T21:37:31.865113+00:00",
     "nivel": "🟢",
     "titulo": "Dependencia económica en la pensión de sobrevivientes"
+  },
+  "gerencie.com::https://www.gerencie.com/desconexion-laboral.html": {
+    "fecha_detectado": "2026-10-06T17:31:03.639814+00:00",
+    "nivel": "🟢",
+    "titulo": "Desconexión laboral"
   },
   "gerencie.com::https://www.gerencie.com/descuentos-comerciales-y-condicionados-en-niif-para-pymes.html": {
     "fecha_detectado": "2026-09-24T00:56:21.635775+00:00",
@@ -1183,6 +1218,11 @@
     "fecha_detectado": "2026-09-24T00:56:21.635875+00:00",
     "nivel": "🟠",
     "titulo": "Formulario 210 de la Dian en Excel"
+  },
+  "gerencie.com::https://www.gerencie.com/generador-de-contratos-de-trabajo-en-linea-con-ia.html": {
+    "fecha_detectado": "2026-10-06T17:31:03.639909+00:00",
+    "nivel": "🟢",
+    "titulo": "Generador de contratos de trabajo en línea con IA"
   },
   "gerencie.com::https://www.gerencie.com/grupos-en-contabilidad.html": {
     "fecha_detectado": "2026-09-22T20:37:10.761565+00:00",
@@ -1414,6 +1454,11 @@
     "nivel": "🟢",
     "titulo": "Reclamación administrativa en demandas laborales"
   },
+  "gerencie.com::https://www.gerencie.com/modelo-diligencia-de-descargos-administrativos-laborales.html": {
+    "fecha_detectado": "2026-10-06T17:31:03.639740+00:00",
+    "nivel": "🟢",
+    "titulo": "Modelo de acta de descargos laborales"
+  },
   "gerencie.com::https://www.gerencie.com/monto-de-la-pension-de-sobrevivientes.html": {
     "fecha_detectado": "2026-09-30T17:07:44.830828+00:00",
     "nivel": "🟢",
@@ -1518,6 +1563,11 @@
     "fecha_detectado": "2026-09-20T00:28:15.507940+00:00",
     "nivel": "🟢",
     "titulo": "Prorrateo del IVA: cómo se calcula y se contabiliza"
+  },
+  "gerencie.com::https://www.gerencie.com/proteccion-al-cesante.html": {
+    "fecha_detectado": "2026-10-06T17:31:03.639778+00:00",
+    "nivel": "🟢",
+    "titulo": "Protección al cesante: requisitos, beneficios y cómo solicitarla"
   },
   "gerencie.com::https://www.gerencie.com/proyeccion-pensional": {
     "fecha_detectado": "2026-09-19T20:25:56.249225+00:00",
@@ -1733,6 +1783,11 @@
     "fecha_detectado": "2026-09-30T17:07:44.830819+00:00",
     "nivel": "🟢",
     "titulo": "Tiempo de convivencia para la pensión de sobrevivientes"
+  },
+  "gerencie.com::https://www.gerencie.com/trabajo-en-casa.html": {
+    "fecha_detectado": "2026-10-06T17:31:03.639800+00:00",
+    "nivel": "🟢",
+    "titulo": "Trabajo en casa: regulación, derechos y auxilio de conectividad"
   },
   "gerencie.com::https://www.gerencie.com/tratamiento-de-los-descuentos-comerciales-y-condicionados.html": {
     "fecha_detectado": "2026-10-04T02:12:09.587775+00:00",
@@ -1989,6 +2044,11 @@
     "nivel": "🟢",
     "titulo": "Corte contable 2026: ¿Cómo evitar que ingresos, costos y gastos queden en el período equivocado?"
   },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/cuantias-minimas-en-la-autorretencion-especial/": {
+    "fecha_detectado": "2026-10-06T17:31:01.026851+00:00",
+    "nivel": "🟠",
+    "titulo": "Cuantías mínimas en la autorretención especial: ¿Qué cambió con la Sentencia 30246 de 2026?"
+  },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/declaracion-de-renta-por-fraccion-de-ano/": {
     "fecha_detectado": "2026-09-23T15:41:14.603707+00:00",
     "nivel": "🟢",
@@ -2024,6 +2084,11 @@
     "nivel": "🟢",
     "titulo": "Índices de coherencia tributaria para personas jurídicas: Guía técnica y autoauditoría"
   },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/intereses-por-ajustes-en-anticipos-del-simple/": {
+    "fecha_detectado": "2026-10-06T17:31:01.026791+00:00",
+    "nivel": "🟠",
+    "titulo": "Intereses por ajustes en los anticipos del SIMPLE: ¿Cómo se calculan según la DIAN?"
+  },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/liquidacion-oficial-de-revision-dian/": {
     "fecha_detectado": "2026-09-30T01:40:36.186991+00:00",
     "nivel": "🟠",
@@ -2048,6 +2113,11 @@
     "fecha_detectado": "2026-09-21T17:18:23.147933+00:00",
     "nivel": "🟠",
     "titulo": "Reducción de sanciones DIAN 2026: ¿Cómo pagar el 15 % y aplicar los alivios vigentes del Decreto 1419 de 2026?"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/reforma-tributaria-de-bogota/": {
+    "fecha_detectado": "2026-10-06T17:31:01.026824+00:00",
+    "nivel": "🔴",
+    "titulo": "Reforma tributaria de Bogotá 2027: ¿Qué cambia en el ICA y cómo aprovechar el alivio del 60%?"
   },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/requerimientos-de-la-dian/": {
     "fecha_detectado": "2026-09-21T17:18:23.147886+00:00",
