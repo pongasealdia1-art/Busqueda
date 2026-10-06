@@ -1099,6 +1099,11 @@
     "nivel": "🟢",
     "titulo": "¿Cuándo se paga el IVA?"
   },
+  "gerencie.com::https://www.gerencie.com/cuando-un-servidor-publico-puede-recibir-sueldo-y-pension.html": {
+    "fecha_detectado": "2026-10-06T21:58:40.590576+00:00",
+    "nivel": "🟢",
+    "titulo": "¿El servidor público puede recibir sueldo y pensión?"
+  },
   "gerencie.com::https://www.gerencie.com/deducciones-de-nomina-por-aportes-a-salud-y-pension-cuando-las-vacaciones-son-disfrutadas-y-pagadas.html": {
     "fecha_detectado": "2026-10-02T16:56:31.877090+00:00",
     "nivel": "🟢",
@@ -1553,6 +1558,11 @@
     "fecha_detectado": "2026-09-25T00:57:13.987512+00:00",
     "nivel": "🟢",
     "titulo": "Per saltum en materia tributaria: demanda sin recurso de reconsideración"
+  },
+  "gerencie.com::https://www.gerencie.com/procede-la-accion-de-tutela-para-conseguir-el-pago-de-salarios.html": {
+    "fecha_detectado": "2026-10-06T21:58:40.590622+00:00",
+    "nivel": "🟢",
+    "titulo": "Acción de tutela para conseguir el pago de salarios"
   },
   "gerencie.com::https://www.gerencie.com/procedimiento-para-imponer-sanciones-disciplinarias-al-trabajador.html": {
     "fecha_detectado": "2026-10-02T01:51:04.114010+00:00",
