@@ -699,6 +699,11 @@
     "nivel": "🟢",
     "titulo": "UNIFICACIÓN DE JURISPRUDENCIA: Radicación tardía de tornaguía no elimina infracción tributaria"
   },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/usuarios-del-mercado-cambiario-pueden-acogerse-reduccion-del-15-en-sanciones": {
+    "fecha_detectado": "2026-10-08T22:36:33.511420+00:00",
+    "nivel": "🟢",
+    "titulo": "Usuarios del mercado cambiario pueden acogerse a reducción del 15 % en sanciones"
+  },
   "cijuf.org.co::https://cijuf.org.co/normatividad/Decreto": {
     "fecha_detectado": "2026-09-19T20:26:00.041888+00:00",
     "nivel": "🟡",
@@ -904,6 +909,11 @@
     "nivel": "🟢",
     "titulo": "Calculadora de costos laborales"
   },
+  "gerencie.com::https://www.gerencie.com/calculadora-de-horas-laborales-por-semana-en-colombia.html": {
+    "fecha_detectado": "2026-10-08T22:36:36.884472+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de horas laborales por semana en Colombia"
+  },
   "gerencie.com::https://www.gerencie.com/calculadora-de-imputacion-de-pagos-a-la-dian.html": {
     "fecha_detectado": "2026-09-19T20:25:56.249379+00:00",
     "nivel": "🟠",
@@ -918,6 +928,11 @@
     "fecha_detectado": "2026-09-27T00:59:09.975287+00:00",
     "nivel": "🟢",
     "titulo": "Calculadora de Iva incuido"
+  },
+  "gerencie.com::https://www.gerencie.com/calculadora-de-iva.html": {
+    "fecha_detectado": "2026-10-08T22:36:36.884441+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de Iva"
   },
   "gerencie.com::https://www.gerencie.com/calculadora-de-limite-de-embargos-salariales.html": {
     "fecha_detectado": "2026-10-01T17:37:57.955340+00:00",
