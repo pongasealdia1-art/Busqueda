@@ -39,6 +39,11 @@
     "nivel": "🟡",
     "titulo": "NUEVO - Liquidador interactivo de sanción por corrección con beneficio de tasa del Decreto 1419 de 2026 (Exclusivo para afiliados)"
   },
+  "accounter.co::https://accounter.co/herramientas/nuevo-liquidador-interactivo-de-sancion-por-informacion-exogena-con-aplicacion-beneficio-tasa-del-decreto-1419-de-2026-exclusivo-afiliados": {
+    "fecha_detectado": "2026-10-08T18:05:07.775739+00:00",
+    "nivel": "🟡",
+    "titulo": "NUEVO - Liquidador interactivo de sanción por información exógena con aplicación beneficio tasa del Decreto 1419 de 2026 (Exclusivo afiliados)"
+  },
   "accounter.co::https://accounter.co/normatividad/alcance-territorial-de-las-medidas-tributarias-adoptadas-por-el-decreto-1419-de-2026-concepto-dian-100208192-1737-de-2026": {
     "fecha_detectado": "2026-09-23T15:41:22.067088+00:00",
     "nivel": "🟠",
@@ -88,6 +93,11 @@
     "fecha_detectado": "2026-09-29T17:09:29.625403+00:00",
     "nivel": "🟠",
     "titulo": "Deducción por inversiones en energías no convencionales y requisito de certificación — Oficio DIAN 15297 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/dian-precisa-el-tratamiento-fiscal-de-la-cesion-onerosa-de-derechos-herenciales-concepto-16364-de-2026": {
+    "fecha_detectado": "2026-10-08T18:05:07.775801+00:00",
+    "nivel": "🟠",
+    "titulo": "DIAN precisa el tratamiento fiscal de la cesión onerosa de derechos herenciales — Concepto 16364 de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/diferencias-de-conversion-acumuladas-en-el-ori-y-pago-de-partidas-monetarias-concepto-ctcp-211-de-2026": {
     "fecha_detectado": "2026-09-28T18:51:52.341977+00:00",
@@ -158,6 +168,11 @@
     "fecha_detectado": "2026-10-07T18:03:02.159221+00:00",
     "nivel": "🟠",
     "titulo": "La liquidación de una sociedad no extingue sus obligaciones tributarias – Concepto DIAN 16289 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/la-sancion-cambiaria-por-no-declarar-dinero-o-titulos-se-calcula-sobre-el-valor-total-de-la-operacion-concepto-16941-de-2026": {
+    "fecha_detectado": "2026-10-08T18:05:07.775781+00:00",
+    "nivel": "🟠",
+    "titulo": "La sanción cambiaria por no declarar dinero o títulos se calcula sobre el valor total de la operación — Concepto 16941 de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/medidas-especiales-para-la-recuperacion-y-reactivacion-empresarial-decreto-1418-de-2026": {
     "fecha_detectado": "2026-09-22T15:51:46.190309+00:00",
@@ -243,6 +258,11 @@
     "fecha_detectado": "2026-09-19T20:25:56.024176+00:00",
     "nivel": "🟠",
     "titulo": "DIAN intensifica acciones para recuperar más de $1,28 billones en retenciones en la fuente"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/dian-usuarios-del-mercado-cambiario-pueden-acogerse-a-una-reduccion-del-15-en-sanciones-por-pago-extemporaneo-hasta-el-19-de-noviembre": {
+    "fecha_detectado": "2026-10-08T18:05:07.775823+00:00",
+    "nivel": "🟠",
+    "titulo": "DIAN - Usuarios del mercado cambiario pueden acogerse a una reducción del 15% en sanciones por pago extemporáneo hasta el 19 de noviembre"
   },
   "accounter.co::https://accounter.co/noticias/actualidad/dian-ya-reviso-su-reporte-de-facturacion-electronica-conozca-la-informacion-que-la-dian-tiene-sobre-sus-operaciones": {
     "fecha_detectado": "2026-09-30T21:37:31.672811+00:00",
@@ -453,6 +473,11 @@
     "fecha_detectado": "2026-09-19T20:25:53.114604+00:00",
     "nivel": "🟢",
     "titulo": "Reforma pensional: cuidar no es lo mismo que ser madre"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/suspenden-norma-que-regulaba-negociacion-colectiva-mas-alla-del-ambito-de-la": {
+    "fecha_detectado": "2026-10-08T18:05:04.344450+00:00",
+    "nivel": "🟢",
+    "titulo": "Suspenden norma que regulaba negociación colectiva más allá del ámbito de la empresa"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/videocolumna-el-fallo-de-la-corte-constitucional-sobre-la-reforma-pensional": {
     "fecha_detectado": "2026-09-19T20:25:53.114453+00:00",
@@ -713,6 +738,11 @@
     "fecha_detectado": "2026-09-23T20:47:44.160832+00:00",
     "nivel": "🟠",
     "titulo": "Concepto 1635(017190)"
+  },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-1654016289.html": {
+    "fecha_detectado": "2026-10-08T18:05:10.590756+00:00",
+    "nivel": "🟠",
+    "titulo": "Concepto 1654(016289)"
   },
   "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-1737017734.html": {
     "fecha_detectado": "2026-09-23T15:41:26.142816+00:00",
@@ -1018,6 +1048,11 @@
     "fecha_detectado": "2026-10-05T19:51:31.923806+00:00",
     "nivel": "🟢",
     "titulo": "Certificación laboral: qué debe contener, cómo pedirla y qué vale como prueba"
+  },
+  "gerencie.com::https://www.gerencie.com/cesantia-comercial.html": {
+    "fecha_detectado": "2026-10-08T18:05:07.966159+00:00",
+    "nivel": "🟢",
+    "titulo": "Cesantía comercial"
   },
   "gerencie.com::https://www.gerencie.com/cesantias-en-el-reintegro-del-trabajador.html": {
     "fecha_detectado": "2026-09-28T22:42:56.405194+00:00",
@@ -2064,6 +2099,11 @@
     "nivel": "🟢",
     "titulo": "Clasificación contable de los intereses sobre cesantías bajo la NIIF 18"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/10/resultados-contabilizados-por-metodo-de-participacion-se-clasifican-como-inversion-bajo-la-niif-18/": {
+    "fecha_detectado": "2026-10-08T18:05:03.921464+00:00",
+    "nivel": "🟢",
+    "titulo": "Resultados contabilizados por método de participación se clasifican como inversión bajo la NIIF 18"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/10/tratamiento-contable-y-clasificacion-de-arrendamientos-intragrupo-bajo-la-nueva-niif-18/": {
     "fecha_detectado": "2026-10-05T19:51:28.389617+00:00",
     "nivel": "🟢",
@@ -2254,6 +2294,11 @@
     "nivel": "🔴",
     "titulo": "Reforma tributaria de Bogotá 2027: ¿Qué cambia en el ICA y cómo aprovechar el alivio del 60%?"
   },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/reporte-de-facturacion-electronica-dian/": {
+    "fecha_detectado": "2026-10-08T18:05:01.961595+00:00",
+    "nivel": "🟠",
+    "titulo": "Reporte de facturación electrónica DIAN: ¿Cómo interpretarlo y conciliarlo?"
+  },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/requerimientos-de-la-dian/": {
     "fecha_detectado": "2026-09-21T17:18:23.147886+00:00",
     "nivel": "🟠",
@@ -2298,6 +2343,11 @@
     "fecha_detectado": "2026-09-19T20:25:50.411478+00:00",
     "nivel": "🟢",
     "titulo": "Tabla de retención en la fuente por IVA 2024"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/uvt-2027/": {
+    "fecha_detectado": "2026-10-08T18:05:01.961559+00:00",
+    "nivel": "🟢",
+    "titulo": "UVT 2027 en Colombia: Valor estimado, cálculo y topes tributarios"
   },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/vencimientos-de-obligaciones-fiscales-en-octubre/": {
     "fecha_detectado": "2026-09-29T21:36:46.369997+00:00",
