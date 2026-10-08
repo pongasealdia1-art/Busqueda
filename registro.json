@@ -314,6 +314,11 @@
     "nivel": "🟢",
     "titulo": "Amplían suspensión de listas para juntas de calificación de invalidez"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/analisis-el-proceso-de-levantamiento-de-fuero-sindical-y-su-aplicacion-extensiva": {
+    "fecha_detectado": "2026-10-08T02:19:09.930683+00:00",
+    "nivel": "🟢",
+    "titulo": "ANÁLISIS: El proceso de levantamiento de fuero sindical y su aplicación extensiva a los demás tipos de fuero"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/analisis-inversion-de-la-carga-de-la-prueba-en-discriminacion-laboral": {
     "fecha_detectado": "2026-09-23T20:47:38.518939+00:00",
     "nivel": "🟢",
@@ -343,6 +348,11 @@
     "fecha_detectado": "2026-09-19T20:25:53.114357+00:00",
     "nivel": "🟡",
     "titulo": "Derogan resolución que cambió requisitos para prestadores de salud"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/el-derecho-laboral-frente-un-nuevo-mundo-del-trabajo-el-reto-de-formar": {
+    "fecha_detectado": "2026-10-08T02:19:09.930731+00:00",
+    "nivel": "🟢",
+    "titulo": "El Derecho Laboral frente a un nuevo mundo del trabajo: el reto de formar profesionales para una realidad en transformación"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/el-ministerio-del-trabajo-se-despidio-con-otro-decreto-ilegal": {
     "fecha_detectado": "2026-09-19T20:25:53.114656+00:00",
@@ -378,6 +388,11 @@
     "fecha_detectado": "2026-09-22T01:17:57.683744+00:00",
     "nivel": "🟢",
     "titulo": "Fijan criterios para resolver controversias donde hay dos reclamantes de sustitución pensional"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/gobierno-elimina-limite-de-inversion-en-el-exterior-de-fondos-pensionales": {
+    "fecha_detectado": "2026-10-08T02:19:09.930754+00:00",
+    "nivel": "🟢",
+    "titulo": "Gobierno elimina límite de inversión en el exterior de fondos pensionales"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/ineficacia-de-traslado-de-un-regimen-pensional-otro-no-procede-cuando-quien": {
     "fecha_detectado": "2026-09-23T20:47:38.519061+00:00",
@@ -1009,6 +1024,11 @@
     "nivel": "🟢",
     "titulo": "Cesantías en el reintegro del trabajador"
   },
+  "gerencie.com::https://www.gerencie.com/cierre-contable.html": {
+    "fecha_detectado": "2026-10-08T02:19:12.919550+00:00",
+    "nivel": "🟢",
+    "titulo": "Cierre contable y asientos de cierre"
+  },
   "gerencie.com::https://www.gerencie.com/clasificacion-de-los-impuestos.html": {
     "fecha_detectado": "2026-10-02T21:32:22.630376+00:00",
     "nivel": "🟢",
@@ -1073,6 +1093,16 @@
     "fecha_detectado": "2026-09-28T18:51:52.896575+00:00",
     "nivel": "🟢",
     "titulo": "Prestaciones sociales de años anteriores: con qué salario se liquidan"
+  },
+  "gerencie.com::https://www.gerencie.com/contabilizacion-de-la-autorretencion.html": {
+    "fecha_detectado": "2026-10-08T02:19:12.919605+00:00",
+    "nivel": "🟢",
+    "titulo": "Contabilización de la autorretención"
+  },
+  "gerencie.com::https://www.gerencie.com/contabilizar-recuperacion-de-retenciones-asumidas.html": {
+    "fecha_detectado": "2026-10-08T02:19:12.919589+00:00",
+    "nivel": "🟢",
+    "titulo": "Contabilización de los impuestos y retenciones asumidas"
   },
   "gerencie.com::https://www.gerencie.com/contrato-de-trabajo-con-pensionados.html": {
     "fecha_detectado": "2026-09-27T15:55:20.449595+00:00",
@@ -1868,6 +1898,11 @@
     "fecha_detectado": "2026-10-06T17:31:03.639800+00:00",
     "nivel": "🟢",
     "titulo": "Trabajo en casa: regulación, derechos y auxilio de conectividad"
+  },
+  "gerencie.com::https://www.gerencie.com/tratamiento-contable-de-la-provision-de-impuestos.html": {
+    "fecha_detectado": "2026-10-08T02:19:12.919627+00:00",
+    "nivel": "🟢",
+    "titulo": "Contabilización del impuesto de industria y comercio (ICA) y de la provisión de impuestos"
   },
   "gerencie.com::https://www.gerencie.com/tratamiento-de-los-descuentos-comerciales-y-condicionados.html": {
     "fecha_detectado": "2026-10-04T02:12:09.587775+00:00",
