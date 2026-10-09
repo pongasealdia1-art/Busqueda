@@ -19,6 +19,11 @@
     "nivel": "🟡",
     "titulo": "NUEVO - Liquidador intereses moratorios interactivo con aplicación beneficio tasa Decreto 1419 de 2026"
   },
+  "accounter.co::https://accounter.co/herramientas/liquidacion-de-la-sancion-por-extemporaneidad": {
+    "fecha_detectado": "2026-10-09T17:38:37.321594+00:00",
+    "nivel": "🟡",
+    "titulo": "NUEVO - Liquidador interactivo de sanción por corrección por extemporaneidad con aplicación beneficio tasa del Decreto 1419 de 2026 (Exclusivo afiliados)"
+  },
   "accounter.co::https://accounter.co/herramientas/memorias/online-memorias-beneficios-tributarios-para-vehiculos-electricos-e-hibridos-de-la-norma-a-la-practica-dr-felipe-arias-jueves-01-de-octubre-2026": {
     "fecha_detectado": "2026-10-06T02:33:52.102049+00:00",
     "nivel": "🟢",
@@ -109,6 +114,11 @@
     "nivel": "🟠",
     "titulo": "El costo del inventario puede diferir del valor registrado en la escritura — Concepto CTCP 2026-0176"
   },
+  "accounter.co::https://accounter.co/normatividad/el-uso-temporal-de-parqueaderos-y-salones-sociales-en-propiedad-horizontal-no-siempre-genera-iva-oficio-dian-16143-de-2026": {
+    "fecha_detectado": "2026-10-09T17:38:37.321627+00:00",
+    "nivel": "🟠",
+    "titulo": "El uso temporal de parqueaderos y salones sociales en propiedad horizontal no siempre genera IVA – Oficio DIAN 16143 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/en-el-simple-prevalece-la-actividad-realmente-desarrollada-sobre-el-codigo-ciiu-concepto-dian-016144-int-1653-de-2026": {
     "fecha_detectado": "2026-10-06T17:31:03.480464+00:00",
     "nivel": "🟠",
@@ -173,6 +183,11 @@
     "fecha_detectado": "2026-10-08T18:05:07.775781+00:00",
     "nivel": "🟠",
     "titulo": "La sanción cambiaria por no declarar dinero o títulos se calcula sobre el valor total de la operación — Concepto 16941 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/las-utilidades-transferidas-por-una-sucursal-colombiana-a-su-casa-matriz-en-peru-estan-gravadas-en-colombia-concepto-dian-16345-de-2026": {
+    "fecha_detectado": "2026-10-09T17:38:37.321647+00:00",
+    "nivel": "🟠",
+    "titulo": "Las utilidades transferidas por una sucursal colombiana a su casa matriz en Perú están gravadas en Colombia – Concepto DIAN 16345 de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/medidas-especiales-para-la-recuperacion-y-reactivacion-empresarial-decreto-1418-de-2026": {
     "fecha_detectado": "2026-09-22T15:51:46.190309+00:00",
@@ -258,6 +273,11 @@
     "fecha_detectado": "2026-09-19T20:25:56.024176+00:00",
     "nivel": "🟠",
     "titulo": "DIAN intensifica acciones para recuperar más de $1,28 billones en retenciones en la fuente"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/dian-programese-cuatro-martes-de-capacitacion-para-entender-el-sistema-de-factura-electronica": {
+    "fecha_detectado": "2026-10-09T17:38:37.321661+00:00",
+    "nivel": "🟠",
+    "titulo": "DIAN - Prográmese, cuatro martes de capacitación para entender el Sistema de Factura Electrónica"
   },
   "accounter.co::https://accounter.co/noticias/actualidad/dian-usuarios-del-mercado-cambiario-pueden-acogerse-a-una-reduccion-del-15-en-sanciones-por-pago-extemporaneo-hasta-el-19-de-noviembre": {
     "fecha_detectado": "2026-10-08T18:05:07.775823+00:00",
@@ -2063,6 +2083,11 @@
     "fecha_detectado": "2026-10-01T17:37:49.032455+00:00",
     "nivel": "🟠",
     "titulo": "DIAN: la propiedad horizontal que genera rentas puede estar sujeta al impuesto al patrimonio"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/10/liquidacion-de-una-sociedad-no-extingue-sus-obligaciones-tributarias-ni-impide-su-cobro/": {
+    "fecha_detectado": "2026-10-09T17:38:36.050827+00:00",
+    "nivel": "🟢",
+    "titulo": "Liquidación de una sociedad no extingue sus obligaciones tributarias ni impide su cobro"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/09/concejo-de-bogota-aprobo-reforma-tributaria-que-recaudara-108-billones/": {
     "fecha_detectado": "2026-09-30T17:07:20.060196+00:00",
