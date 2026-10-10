@@ -389,6 +389,11 @@
     "nivel": "🟢",
     "titulo": "Conozca el texto del fallo que declaró exequible mayoría de la reforma pensional"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/cuadro-clinico-complejo-no-desplaza-por-si-solo-acciones-laborales-ordinarias": {
+    "fecha_detectado": "2026-10-10T16:29:28.329688+00:00",
+    "nivel": "🟢",
+    "titulo": "Cuadro clínico complejo no desplaza por sí solo acciones laborales ordinarias, salvo perjuicio irremediable"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/derogan-resolucion-que-cambio-requisitos-para-prestadores-de-salud": {
     "fecha_detectado": "2026-09-19T20:25:53.114357+00:00",
     "nivel": "🟡",
@@ -464,6 +469,11 @@
     "nivel": "🟢",
     "titulo": "La reivindicación pensional de la mujer y la economía del cuidado en Colombia"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/mintrabajo-imparte-instrucciones-inspectores-de-trabajo-sobre-el-ejercicio-de-sus": {
+    "fecha_detectado": "2026-10-10T16:29:28.329640+00:00",
+    "nivel": "🟢",
+    "titulo": "Mintrabajo imparte instrucciones a inspectores de trabajo sobre el ejercicio de sus funciones"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/mintrabajo-reacciona-suspension-del-decreto-sobre-negociacion-colectiva-unificada": {
     "fecha_detectado": "2026-10-06T02:33:49.507846+00:00",
     "nivel": "🟡",
@@ -499,6 +509,11 @@
     "nivel": "🟢",
     "titulo": "Reforma pensional: cuidar no es lo mismo que ser madre"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/silvia-pension-de-sobrevivientes-un-respaldo-economico-tras-la-muerte-del-afiliado": {
+    "fecha_detectado": "2026-10-10T16:29:28.329663+00:00",
+    "nivel": "🟢",
+    "titulo": "SilvIA: Pensión de sobrevivientes, un respaldo económico tras la muerte del afiliado"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/suspenden-norma-que-regulaba-negociacion-colectiva-mas-alla-del-ambito-de-la": {
     "fecha_detectado": "2026-10-08T18:05:04.344450+00:00",
     "nivel": "🟢",
@@ -528,6 +543,11 @@
     "fecha_detectado": "2026-09-30T01:40:38.581312+00:00",
     "nivel": "🟢",
     "titulo": "Supersociedades delega funciones"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/derecho-publico/gobierno-revoca-decreto-973-de-2026-que-regulaba-mercados-de-carbono": {
+    "fecha_detectado": "2026-10-10T16:29:28.329509+00:00",
+    "nivel": "🟡",
+    "titulo": "Gobierno revoca Decreto 973 de 2026, que regulaba mercados de carbono"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/penal/dian-reporta-aumento-del-507-en-aprehensiones-por-contrabando": {
     "fecha_detectado": "2026-09-19T20:25:53.113791+00:00",
@@ -583,6 +603,11 @@
     "fecha_detectado": "2026-09-24T20:53:21.201631+00:00",
     "nivel": "🟠",
     "titulo": "Dian aclara alcance nacional de algunas medidas tributarias de la emergencia por terremoto"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/dian-despliega-estrategia-de-acompanamiento-contribuyentes-afectados-por": {
+    "fecha_detectado": "2026-10-10T16:29:28.329469+00:00",
+    "nivel": "🟠",
+    "titulo": "Dian despliega estrategia de acompañamiento a contribuyentes afectados por terremoto en el Valle"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/dian-pretende-recuperar-128-billones-en-retenciones-en-la-fuente": {
     "fecha_detectado": "2026-09-19T20:25:53.113750+00:00",
