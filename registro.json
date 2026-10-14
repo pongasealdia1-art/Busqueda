@@ -1074,6 +1074,11 @@
     "nivel": "🟢",
     "titulo": "Calculadora para actualizar las sanciones tributarias"
   },
+  "gerencie.com::https://www.gerencie.com/calculadora-prima-de-servicios.html": {
+    "fecha_detectado": "2026-10-14T01:27:22.966927+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de prima de servicios"
+  },
   "gerencie.com::https://www.gerencie.com/calculadora-retencion-en-la-fuente-prima-de-servicios.html": {
     "fecha_detectado": "2026-09-20T19:55:10.136318+00:00",
     "nivel": "🟢",
@@ -1803,6 +1808,11 @@
     "fecha_detectado": "2026-10-06T17:31:03.639778+00:00",
     "nivel": "🟢",
     "titulo": "Protección al cesante: requisitos, beneficios y cómo solicitarla"
+  },
+  "gerencie.com::https://www.gerencie.com/proteja-su-patrimonio-y-dignidad-por-si-pierde-lucidez-mental.html": {
+    "fecha_detectado": "2026-10-14T01:27:22.966865+00:00",
+    "nivel": "🟢",
+    "titulo": "Acuerdos de apoyo y directivas anticipadas: cómo proteger su patrimonio si pierde lucidez"
   },
   "gerencie.com::https://www.gerencie.com/proyeccion-pensional": {
     "fecha_detectado": "2026-09-19T20:25:56.249225+00:00",
