@@ -54,6 +54,11 @@
     "nivel": "🟡",
     "titulo": "NUEVO - Liquidador interactivo de sanción por información exógena con aplicación beneficio tasa del Decreto 1419 de 2026 (Exclusivo afiliados)"
   },
+  "accounter.co::https://accounter.co/herramientas/nuevo-retencion-en-rentas-de-trabajo-procedimiento-1-online": {
+    "fecha_detectado": "2026-10-14T16:04:54.022328+00:00",
+    "nivel": "🟢",
+    "titulo": "NUEVO – Retención en la fuente por rentas de trabajo: Procedimiento1 (Exclusivo afiliados)"
+  },
   "accounter.co::https://accounter.co/normatividad/alcance-territorial-de-las-medidas-tributarias-adoptadas-por-el-decreto-1419-de-2026-concepto-dian-100208192-1737-de-2026": {
     "fecha_detectado": "2026-09-23T15:41:22.067088+00:00",
     "nivel": "🟠",
@@ -88,6 +93,11 @@
     "fecha_detectado": "2026-10-02T16:56:31.644524+00:00",
     "nivel": "🟠",
     "titulo": "Beneficio de auditoría en declaraciones con compensación de pérdidas fiscales — Concepto 15291 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/bogota-ajusta-las-sanciones-por-informacion-tributaria-y-permite-subsanar-con-reduccion-acuerdo-1084-del-concejo-de-bogota-2026": {
+    "fecha_detectado": "2026-10-14T16:04:54.022388+00:00",
+    "nivel": "🟢",
+    "titulo": "Bogotá ajusta las sanciones por información tributaria y permite subsanar con reducción – Acuerdo 1084 del Concejo de Bogotá, 2026"
   },
   "accounter.co::https://accounter.co/normatividad/certificacion-de-hechos-contables-en-propiedad-horizontal-concepto-ctcp-216-de-2026": {
     "fecha_detectado": "2026-09-28T18:51:52.342001+00:00",
@@ -274,6 +284,11 @@
     "nivel": "🟠",
     "titulo": "DIAN adapta su capacidad operativa ante el aumento de solicitudes de devolución de IVA de vehículos híbridos y eléctricos"
   },
+  "accounter.co::https://accounter.co/noticias/actualidad/dian-el-beneficio-rige-a-partir-de-10-de-agosto-y-va-hasta-el-19-de-noviembre-proximo-el-pago-no-podra-ser-inferior-a-la-sancion-minima-aplicable-al-tipo-de-infraccion-cambiaria": {
+    "fecha_detectado": "2026-10-14T16:04:54.022414+00:00",
+    "nivel": "🟠",
+    "titulo": "DIAN - El beneficio rige a partir del 10 de agosto y va hasta el 19 de noviembre próximo. El pago no podrá ser inferior a la sanción mínima aplicable al tipo de infracción cambiaria"
+  },
   "accounter.co::https://accounter.co/noticias/actualidad/dian-gobierno-nacional-expide-paquete-de-medidas-tributarias-para-la-reconstruccion-de-las-zonas-afectadas-por-el-terremoto": {
     "fecha_detectado": "2026-09-22T15:51:46.190333+00:00",
     "nivel": "🟠",
@@ -313,6 +328,11 @@
     "fecha_detectado": "2026-10-01T17:37:57.634298+00:00",
     "nivel": "🟠",
     "titulo": "Editorial Tributar Asesores SAS -  Bases de autorretención especial: sentencia del Consejo de Estado endereza el rumbo"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/editorial-tributar-asesores-sas-bogota-ofrece-reduccion-del-60-en-sanciones-e-intereses-para-ponerse-al-dia": {
+    "fecha_detectado": "2026-10-14T16:04:54.022366+00:00",
+    "nivel": "🟢",
+    "titulo": "Editorial Tributar Asesores SAS - Bogotá ofrece reducción del 60% en sanciones e intereses para ponerse al día"
   },
   "accounter.co::https://accounter.co/noticias/actualidad/hacienda-bogota-un-salvavidas-para-ponerse-al-dia-con-bogota-alivios-del-60-para-impuestos-y-otras-deudas-con-el-distrito": {
     "fecha_detectado": "2026-10-05T19:51:31.547357+00:00",
@@ -538,6 +558,11 @@
     "fecha_detectado": "2026-10-08T18:05:04.344450+00:00",
     "nivel": "🟢",
     "titulo": "Suspenden norma que regulaba negociación colectiva más allá del ámbito de la empresa"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/unifican-criterio-para-pension-de-sobrevivientes-cuando-causante-tenia-26-anos-de": {
+    "fecha_detectado": "2026-10-14T16:04:50.209967+00:00",
+    "nivel": "🟢",
+    "titulo": "Unifican criterio para pensión de sobrevivientes cuando causante tenía 26 años de edad o menos"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/videocolumna-el-fallo-de-la-corte-constitucional-sobre-la-reforma-pensional": {
     "fecha_detectado": "2026-09-19T20:25:53.114453+00:00",
@@ -2154,10 +2179,20 @@
     "nivel": "🟠",
     "titulo": "DIAN: la propiedad horizontal que genera rentas puede estar sujeta al impuesto al patrimonio"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/10/firmada-la-reforma-tributaria-de-bogota-que-introduce-incentivos-tributarios-y-nuevas-tarifas-del-ica/": {
+    "fecha_detectado": "2026-10-14T16:04:49.368742+00:00",
+    "nivel": "🔴",
+    "titulo": "Firmada la reforma tributaria de Bogotá que introduce incentivos tributarios y nuevas tarifas del ICA"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/10/liquidacion-de-una-sociedad-no-extingue-sus-obligaciones-tributarias-ni-impide-su-cobro/": {
     "fecha_detectado": "2026-10-09T17:38:36.050827+00:00",
     "nivel": "🟢",
     "titulo": "Liquidación de una sociedad no extingue sus obligaciones tributarias ni impide su cobro"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/10/manual-para-la-aplicacion-de-obras-por-impuestos-para-la-reconstruccion/": {
+    "fecha_detectado": "2026-10-14T16:04:49.368719+00:00",
+    "nivel": "🟢",
+    "titulo": "Manual para la aplicación de obras por impuestos para la reconstrucción"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/09/concejo-de-bogota-aprobo-reforma-tributaria-que-recaudara-108-billones/": {
     "fecha_detectado": "2026-09-30T17:07:20.060196+00:00",
@@ -2358,6 +2393,11 @@
     "fecha_detectado": "2026-10-07T18:02:59.304565+00:00",
     "nivel": "🟢",
     "titulo": "Diferencias entre la contabilidad y el Formulario 350: ¿Cómo identificarlas y corregirlas?"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/donacion-de-software-y-servicios-gratuitos/": {
+    "fecha_detectado": "2026-10-14T16:04:47.570999+00:00",
+    "nivel": "🟢",
+    "titulo": "Donación de software y servicios gratuitos a entidades sin ánimo de lucro: ¿procede el descuento tributario?"
   },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/donaciones-a-damnificados-del-sismo/": {
     "fecha_detectado": "2026-09-30T17:07:16.192645+00:00",
