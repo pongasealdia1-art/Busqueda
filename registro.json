@@ -124,6 +124,11 @@
     "nivel": "🟠",
     "titulo": "Diferencias de conversión acumuladas en el ORI y pago de partidas monetarias — Concepto CTCP 211 de 2026."
   },
+  "accounter.co::https://accounter.co/normatividad/el-cambio-de-administrador-no-elimina-la-obligacion-de-certificar-los-estados-financieros-en-propiedad-horizontal-concepto-ctcp-2026-214": {
+    "fecha_detectado": "2026-10-15T15:53:19.174468+00:00",
+    "nivel": "🟠",
+    "titulo": "El cambio de administrador no elimina la obligación de certificar los estados financieros en propiedad horizontal – Concepto CTCP 2026-214"
+  },
   "accounter.co::https://accounter.co/normatividad/el-costo-del-inventario-puede-diferir-del-valor-registrado-en-la-escritura-concepto-ctcp-2026-0176": {
     "fecha_detectado": "2026-10-05T19:51:31.547325+00:00",
     "nivel": "🟠",
@@ -203,6 +208,11 @@
     "fecha_detectado": "2026-10-09T17:38:37.321647+00:00",
     "nivel": "🟠",
     "titulo": "Las utilidades transferidas por una sucursal colombiana a su casa matriz en Perú están gravadas en Colombia – Concepto DIAN 16345 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/las-utilidades-transferidas-por-una-sucursal-colombiana-a-su-principal-en-peru-estan-gravadas-concepto-dian-16345-de-2026": {
+    "fecha_detectado": "2026-10-15T15:53:19.174423+00:00",
+    "nivel": "🟠",
+    "titulo": "Las utilidades transferidas por una sucursal colombiana a su principal en Perú están gravadas – Concepto DIAN 16345 de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/medidas-especiales-para-la-recuperacion-y-reactivacion-empresarial-decreto-1418-de-2026": {
     "fecha_detectado": "2026-09-22T15:51:46.190309+00:00",
@@ -598,6 +608,11 @@
     "fecha_detectado": "2026-09-30T01:40:38.581356+00:00",
     "nivel": "🟢",
     "titulo": "Colombia prohíbe importar bienes elaborados con trabajo forzoso"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/comercial/divulgan-dato-de-dtf-aplicable-bonos-pensionales-para-septiembre": {
+    "fecha_detectado": "2026-10-15T15:53:18.613852+00:00",
+    "nivel": "🟢",
+    "titulo": "Divulgan dato de DTF aplicable a bonos pensionales para septiembre"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/comercial/supersociedades-delega-funciones": {
     "fecha_detectado": "2026-09-30T01:40:38.581312+00:00",
@@ -2219,6 +2234,11 @@
     "nivel": "🟢",
     "titulo": "Manual para la aplicación de obras por impuestos para la reconstrucción"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/10/utilidades-transferidas-a-casa-matriz-en-el-exterior-se-grava-con-renta/": {
+    "fecha_detectado": "2026-10-15T15:53:17.699327+00:00",
+    "nivel": "🟢",
+    "titulo": "Utilidades transferidas a casa matriz en el exterior se gravan con renta"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/09/concejo-de-bogota-aprobo-reforma-tributaria-que-recaudara-108-billones/": {
     "fecha_detectado": "2026-09-30T17:07:20.060196+00:00",
     "nivel": "🔴",
@@ -2278,6 +2298,11 @@
     "fecha_detectado": "2026-10-01T17:37:49.032418+00:00",
     "nivel": "🟢",
     "titulo": "Clasificación contable de los intereses sobre cesantías bajo la NIIF 18"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/10/eliminado-el-limite-global-del-30-a-las-inversiones-en-activos-del-exterior-de-los-fondos-de-pensiones-obligatorias/": {
+    "fecha_detectado": "2026-10-15T15:53:17.699383+00:00",
+    "nivel": "🟢",
+    "titulo": "Eliminado el límite global del 30 % a las inversiones en activos del exterior de los fondos de pensiones obligatorias"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/10/resultados-contabilizados-por-metodo-de-participacion-se-clasifican-como-inversion-bajo-la-niif-18/": {
     "fecha_detectado": "2026-10-08T18:05:03.921464+00:00",
