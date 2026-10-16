@@ -204,6 +204,11 @@
     "nivel": "🟠",
     "titulo": "La sanción cambiaria por no declarar dinero o títulos se calcula sobre el valor total de la operación — Concepto 16941 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/las-horas-del-festivo-no-deben-reponerse-al-distribuir-la-jornada-reducida-de-la-ley-2101-de-2021-concepto-mintrabajo-33382-de-2026": {
+    "fecha_detectado": "2026-10-16T15:41:10.019984+00:00",
+    "nivel": "🟠",
+    "titulo": "Las horas del festivo no deben reponerse al distribuir la jornada reducida de la Ley 2101 de 2021 — Concepto MinTrabajo 33382 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/las-utilidades-transferidas-por-una-sucursal-colombiana-a-su-casa-matriz-en-peru-estan-gravadas-en-colombia-concepto-dian-16345-de-2026": {
     "fecha_detectado": "2026-10-09T17:38:37.321647+00:00",
     "nivel": "🟠",
@@ -249,6 +254,11 @@
     "nivel": "🟠",
     "titulo": "Sanción por extemporaneidad e ineficacia de la declaración de retención en la fuente — Concepto 15978 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/suspension-disciplinaria-en-la-semana-y-pago-del-dominical-concepto-mintrabajo-13229-de-2026": {
+    "fecha_detectado": "2026-10-16T15:41:10.020049+00:00",
+    "nivel": "🟠",
+    "titulo": "Suspensión disciplinaria en la semana y pago del dominical — Concepto MinTrabajo 13229 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/tratamiento-contable-del-fraude-y-cuotas-extraordinarias-en-propiedad-horizontal-concepto-ctcp-2026-0213": {
     "fecha_detectado": "2026-10-05T19:51:31.547240+00:00",
     "nivel": "🟠",
@@ -258,6 +268,11 @@
     "fecha_detectado": "2026-10-02T16:56:31.644498+00:00",
     "nivel": "🟠",
     "titulo": "Tratamiento tributario de los anticipos a proveedores del exterior — Concepto 15294 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/uniformes-exigidos-a-trabajadores-sin-derecho-a-dotacion-deben-ser-suministrados-sin-costo-concepto-mintrabajo-42689-de-2026": {
+    "fecha_detectado": "2026-10-16T15:41:10.020023+00:00",
+    "nivel": "🟠",
+    "titulo": "Uniformes exigidos a trabajadores sin derecho a dotación deben ser suministrados sin costo — Concepto MinTrabajo 42689 de 2026"
   },
   "accounter.co::https://accounter.co/noticias/actualidad/asunto-legales-alivios-tributarios-tras-el-sismo-claves-del-decreto-1419-de-2026": {
     "fecha_detectado": "2026-10-06T17:31:03.480486+00:00",
@@ -443,6 +458,11 @@
     "fecha_detectado": "2026-09-19T20:25:53.114220+00:00",
     "nivel": "🟢",
     "titulo": "Conozca el texto del fallo que declaró exequible mayoría de la reforma pensional"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/corte-abre-incidente-de-impacto-fiscal-sobre-fallo-de-reforma-pensional": {
+    "fecha_detectado": "2026-10-16T15:41:06.660836+00:00",
+    "nivel": "🟢",
+    "titulo": "Corte abre incidente de impacto fiscal sobre fallo de reforma pensional"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/cuadro-clinico-complejo-no-desplaza-por-si-solo-acciones-laborales-ordinarias": {
     "fecha_detectado": "2026-10-10T16:29:28.329688+00:00",
@@ -743,6 +763,11 @@
     "fecha_detectado": "2026-09-19T20:25:53.113691+00:00",
     "nivel": "🟢",
     "titulo": "Gobierno adopta alivios tributarios para afectados por el terremoto"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/hacienda-bogota-habilita-alivios-tributarios-con-descuentos-del-60-en-intereses": {
+    "fecha_detectado": "2026-10-16T15:41:06.660708+00:00",
+    "nivel": "🟢",
+    "titulo": "Hacienda Bogotá habilita alivios tributarios con descuentos del 60 % en intereses y sanciones"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/hacienda-bogota-requiere-mas-de-274-mil-contribuyentes-morosos-para-pagar": {
     "fecha_detectado": "2026-09-23T20:47:38.518734+00:00",
@@ -1554,6 +1579,26 @@
     "nivel": "🟢",
     "titulo": "¿Cómo se declaran las cesantías?"
   },
+  "gerencie.com::https://www.gerencie.com/guia-renta/conceptos/comparacion-y-justificacion-patrimonial-en-la-renta": {
+    "fecha_detectado": "2026-10-16T15:41:10.441473+00:00",
+    "nivel": "🟢",
+    "titulo": "Comparación y justificación patrimonial en la renta de personas naturales"
+  },
+  "gerencie.com::https://www.gerencie.com/guia-renta/conceptos/descuento-tributario-por-dividendos-y-participaciones": {
+    "fecha_detectado": "2026-10-16T15:41:10.441413+00:00",
+    "nivel": "🟢",
+    "titulo": "Descuento tributario por dividendos y participaciones"
+  },
+  "gerencie.com::https://www.gerencie.com/guia-renta/conceptos/descuentos-tributarios": {
+    "fecha_detectado": "2026-10-16T15:41:10.441440+00:00",
+    "nivel": "🟢",
+    "titulo": "Descuentos tributarios en las personas naturales"
+  },
+  "gerencie.com::https://www.gerencie.com/guia-renta/conceptos/impuesto-neto-de-renta": {
+    "fecha_detectado": "2026-10-16T15:41:10.441453+00:00",
+    "nivel": "🟢",
+    "titulo": "Impuesto neto de renta"
+  },
   "gerencie.com::https://www.gerencie.com/guia-renta/conceptos/trabajador-independiente-declarar-renta-exenta-o-costos-y-deducciones": {
     "fecha_detectado": "2026-09-19T20:25:56.249193+00:00",
     "nivel": "🟢",
@@ -2014,6 +2059,11 @@
     "nivel": "🟢",
     "titulo": "Sanciones disciplinarias al trabajador: tipos, límites y qué es una amonestación"
   },
+  "gerencie.com::https://www.gerencie.com/sanciones-por-construir-sin-licencia.html": {
+    "fecha_detectado": "2026-10-16T15:41:10.441494+00:00",
+    "nivel": "🟢",
+    "titulo": "Sanciones por construir sin licencia: multa, caducidad y prescripción"
+  },
   "gerencie.com::https://www.gerencie.com/se-debe-pagar-impuesto-por-las-donaciones-recibidas.html": {
     "fecha_detectado": "2026-10-04T02:12:09.587716+00:00",
     "nivel": "🟢",
@@ -2238,6 +2288,11 @@
     "fecha_detectado": "2026-10-14T16:04:49.368719+00:00",
     "nivel": "🟢",
     "titulo": "Manual para la aplicación de obras por impuestos para la reconstrucción"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/10/perdida-de-la-calidad-de-responsable-del-iva-no-obliga-a-reintegrar-impuestos-descontables-solicitados/": {
+    "fecha_detectado": "2026-10-16T15:41:04.811287+00:00",
+    "nivel": "🟢",
+    "titulo": "Pérdida de la calidad de responsable del IVA no obliga a reintegrar impuestos descontables solicitados"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/10/utilidades-transferidas-a-casa-matriz-en-el-exterior-se-grava-con-renta/": {
     "fecha_detectado": "2026-10-15T15:53:17.699327+00:00",
