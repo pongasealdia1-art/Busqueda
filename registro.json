@@ -1609,10 +1609,25 @@
     "nivel": "🟢",
     "titulo": "Comparación y justificación patrimonial en la renta de personas naturales"
   },
+  "gerencie.com::https://www.gerencie.com/guia-renta/conceptos/descuento-tributario-de-becas-deportivas": {
+    "fecha_detectado": "2026-10-17T14:32:59.319915+00:00",
+    "nivel": "🟢",
+    "titulo": "Descuento tributario de becas por impuestos para deportistas"
+  },
   "gerencie.com::https://www.gerencie.com/guia-renta/conceptos/descuento-tributario-por-dividendos-y-participaciones": {
     "fecha_detectado": "2026-10-16T15:41:10.441413+00:00",
     "nivel": "🟢",
     "titulo": "Descuento tributario por dividendos y participaciones"
+  },
+  "gerencie.com::https://www.gerencie.com/guia-renta/conceptos/descuento-tributario-por-donaciones": {
+    "fecha_detectado": "2026-10-17T14:32:59.319954+00:00",
+    "nivel": "🟢",
+    "titulo": "Descuento tributario por donaciones a entidades sin ánimo de lucro"
+  },
+  "gerencie.com::https://www.gerencie.com/guia-renta/conceptos/descuento-tributario-por-inversiones-en-investigacion-y-desarrollo": {
+    "fecha_detectado": "2026-10-17T14:32:59.319936+00:00",
+    "nivel": "🟢",
+    "titulo": "Descuento tributario por inversiones en investigación y desarrollo"
   },
   "gerencie.com::https://www.gerencie.com/guia-renta/conceptos/descuentos-tributarios": {
     "fecha_detectado": "2026-10-16T15:41:10.441440+00:00",
@@ -1623,6 +1638,11 @@
     "fecha_detectado": "2026-10-16T15:41:10.441453+00:00",
     "nivel": "🟢",
     "titulo": "Impuesto neto de renta"
+  },
+  "gerencie.com::https://www.gerencie.com/guia-renta/conceptos/impuestos-pagados-en-el-exterior-a-descontar-por-personas-naturales": {
+    "fecha_detectado": "2026-10-17T14:32:59.319857+00:00",
+    "nivel": "🟢",
+    "titulo": "Impuestos pagados en el exterior a descontar por personas naturales"
   },
   "gerencie.com::https://www.gerencie.com/guia-renta/conceptos/trabajador-independiente-declarar-renta-exenta-o-costos-y-deducciones": {
     "fecha_detectado": "2026-09-19T20:25:56.249193+00:00",
