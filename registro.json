@@ -564,6 +564,11 @@
     "nivel": "🟢",
     "titulo": "Mintrabajo realiza inspección laboral a establecimiento en Bogotá, por denuncia ciudadana"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/mintrabajo-y-corte-suprema-firman-acuerdo-para-fortalecer-proteccion-de-derechos": {
+    "fecha_detectado": "2026-10-17T00:51:10.762353+00:00",
+    "nivel": "🟠",
+    "titulo": "Mintrabajo y Corte Suprema firman acuerdo para fortalecer protección de derechos laborales"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/once-circulares-laborales-que-nadie-va-extranar": {
     "fecha_detectado": "2026-09-19T20:25:53.114621+00:00",
     "nivel": "🟡",
@@ -744,6 +749,11 @@
     "nivel": "🟢",
     "titulo": "Exequible patrimonio líquido para sancionar a no contribuyentes en declaración de ingresos y patrimonio"
   },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/expedirian-decreto-para-reglar-requisitos-para-que-sas-en-emergencia-emitan": {
+    "fecha_detectado": "2026-10-17T00:51:10.762227+00:00",
+    "nivel": "🟡",
+    "titulo": "Expedirían decreto para reglar requisitos para que SAS en emergencia emitan deuda"
+  },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/extienden-exencion-tributaria-del-25-sobre-el-salario-de-los-jueces": {
     "fecha_detectado": "2026-09-19T20:25:53.113825+00:00",
     "nivel": "🟢",
@@ -833,6 +843,11 @@
     "fecha_detectado": "2026-09-19T20:25:53.113978+00:00",
     "nivel": "🟢",
     "titulo": "Podcast Revista Impuestos: Tributación de los activos intangibles"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/proyecto-de-norma-busca-garantizar-continuidad-de-operaciones-aduaneras-por": {
+    "fecha_detectado": "2026-10-17T00:51:10.762261+00:00",
+    "nivel": "🟢",
+    "titulo": "Proyecto de norma busca garantizar continuidad de operaciones aduaneras por Urabá"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/revolcon-tributario": {
     "fecha_detectado": "2026-09-21T17:18:25.555580+00:00",
@@ -1403,6 +1418,11 @@
     "fecha_detectado": "2026-09-30T21:37:31.865113+00:00",
     "nivel": "🟢",
     "titulo": "Dependencia económica en la pensión de sobrevivientes"
+  },
+  "gerencie.com::https://www.gerencie.com/derecho-de-retencion-en-materia-civil.html": {
+    "fecha_detectado": "2026-10-17T00:51:11.605285+00:00",
+    "nivel": "🟢",
+    "titulo": "Derecho de retención en el Código Civil: qué es, casos y cómo se alega"
   },
   "gerencie.com::https://www.gerencie.com/desconexion-laboral.html": {
     "fecha_detectado": "2026-10-06T17:31:03.639814+00:00",
@@ -2013,6 +2033,11 @@
     "fecha_detectado": "2026-09-25T16:02:59.994171+00:00",
     "nivel": "🟢",
     "titulo": "Retención en la fuente en los ingresos recibidos para terceros"
+  },
+  "gerencie.com::https://www.gerencie.com/retencion-en-la-fuente-por-ingresos-laborales.html": {
+    "fecha_detectado": "2026-10-17T00:51:11.605319+00:00",
+    "nivel": "🟢",
+    "titulo": "Retención en la fuente por ingresos laborales"
   },
   "gerencie.com::https://www.gerencie.com/retiro-de-cesantias-para-compra-o-mejora-de-vivienda.html": {
     "fecha_detectado": "2026-09-28T22:42:56.405133+00:00",
