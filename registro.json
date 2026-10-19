@@ -539,6 +539,11 @@
     "nivel": "🟢",
     "titulo": "Gobierno elimina límite de inversión en el exterior de fondos pensionales"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/gobierno-piensa-derogar-decreto-que-regula-la-tercerizacion-e-intermediacion": {
+    "fecha_detectado": "2026-10-19T21:49:09.591798+00:00",
+    "nivel": "🟡",
+    "titulo": "Gobierno piensa derogar decreto que regula la tercerización e intermediación laboral"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/ineficacia-de-traslado-de-un-regimen-pensional-otro-no-procede-cuando-quien": {
     "fecha_detectado": "2026-09-23T20:47:38.519061+00:00",
     "nivel": "🟢",
@@ -588,6 +593,11 @@
     "fecha_detectado": "2026-10-17T00:51:10.762353+00:00",
     "nivel": "🟠",
     "titulo": "Mintrabajo y Corte Suprema firman acuerdo para fortalecer protección de derechos laborales"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/modificaran-criterios-de-multas-por-despidos-retaliatorios-asociados-denuncias-de": {
+    "fecha_detectado": "2026-10-19T21:49:09.591856+00:00",
+    "nivel": "🟢",
+    "titulo": "Modificarán criterios de multas por despidos retaliatorios asociados a denuncias de acoso sexual"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/once-circulares-laborales-que-nadie-va-extranar": {
     "fecha_detectado": "2026-09-19T20:25:53.114621+00:00",
@@ -648,6 +658,11 @@
     "fecha_detectado": "2026-09-19T20:25:53.114489+00:00",
     "nivel": "🟢",
     "titulo": "VIDEOCOLUMNA: ¿Qué herramientas ofrece el derecho laboral para las empresas afectadas por el terremoto?"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/tributario/extienden-personas-naturales-deduccion-en-renta-por-becas-y-creditos-para": {
+    "fecha_detectado": "2026-10-19T21:49:09.591830+00:00",
+    "nivel": "🟢",
+    "titulo": "Extienden a personas naturales deducción en renta por becas y créditos para educación de trabajadores"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/comercial/colombia-prohibe-importar-bienes-elaborados-con-trabajo-forzoso": {
     "fecha_detectado": "2026-09-30T01:40:38.581356+00:00",
@@ -778,6 +793,11 @@
     "fecha_detectado": "2026-09-19T20:25:53.113825+00:00",
     "nivel": "🟢",
     "titulo": "Extienden exención tributaria del 25 % sobre el salario de los jueces a procuradores judiciales I"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/extienden-personas-naturales-deduccion-en-renta-por-becas-y-creditos-para": {
+    "fecha_detectado": "2026-10-19T21:49:09.591653+00:00",
+    "nivel": "🟢",
+    "titulo": "Extienden a personas naturales deducción en renta por becas y créditos para educación de trabajadores"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/fallo-que-declaro-inexequible-tipificacion-de-incumplimientos-laborales-como": {
     "fecha_detectado": "2026-09-19T20:25:53.113893+00:00",
@@ -1863,6 +1883,11 @@
     "fecha_detectado": "2026-09-30T17:07:44.830828+00:00",
     "nivel": "🟢",
     "titulo": "Monto de la pensión de sobrevivientes"
+  },
+  "gerencie.com::https://www.gerencie.com/normas-imperativas-y-supletorias.html": {
+    "fecha_detectado": "2026-10-19T21:49:10.777595+00:00",
+    "nivel": "🟢",
+    "titulo": "Normas imperativas, dispositivas y supletorias: diferencias y ejemplos"
   },
   "gerencie.com::https://www.gerencie.com/nulidad-y-restablecimiento-del-derecho-dian.html": {
     "fecha_detectado": "2026-09-25T00:57:13.987493+00:00",
