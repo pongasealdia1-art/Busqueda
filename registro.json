@@ -104,6 +104,11 @@
     "nivel": "🟠",
     "titulo": "Certificación de hechos contables en propiedad horizontal — Concepto CTCP 216 de 2026."
   },
+  "accounter.co::https://accounter.co/normatividad/contrato-a-termino-fijo-no-puede-superar-cuatro-anos-con-prorrogas-so-pena-de-volverse-indefinido-concepto-mintrabajo-55488-de-2026": {
+    "fecha_detectado": "2026-10-19T17:52:32.902159+00:00",
+    "nivel": "🟠",
+    "titulo": "Contrato a término fijo no puede superar cuatro años con prórrogas so pena de volverse indefinido — Concepto MinTrabajo 55488 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/conversion-de-estados-financieros-comparativos-cada-periodo-conserva-su-tasa-de-cierre-concepto-ctcp-215-de-2026": {
     "fecha_detectado": "2026-09-24T20:53:24.330526+00:00",
     "nivel": "🟠",
@@ -113,6 +118,16 @@
     "fecha_detectado": "2026-09-29T17:09:29.625403+00:00",
     "nivel": "🟠",
     "titulo": "Deducción por inversiones en energías no convencionales y requisito de certificación — Oficio DIAN 15297 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/descuentos-salariales-por-danos-o-perdidas-y-su-relacion-con-el-proceso-disciplinario-concepto-mintrabajo-50032-de-2026": {
+    "fecha_detectado": "2026-10-19T17:52:32.902195+00:00",
+    "nivel": "🟠",
+    "titulo": "Descuentos salariales por daños o pérdidas y su relación con el proceso disciplinario — Concepto MinTrabajo 50032 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/despido-por-bajo-rendimiento-y-exigibilidad-de-indicadores-de-gestion-no-socializados-concepto-mintrabajo-48245-de-2026": {
+    "fecha_detectado": "2026-10-19T17:52:32.902219+00:00",
+    "nivel": "🟠",
+    "titulo": "Despido por bajo rendimiento y exigibilidad de indicadores de gestión no socializados — Concepto MinTrabajo 48245 de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/dian-precisa-el-tratamiento-fiscal-de-la-cesion-onerosa-de-derechos-herenciales-concepto-16364-de-2026": {
     "fecha_detectado": "2026-10-08T18:05:07.775801+00:00",
@@ -283,6 +298,11 @@
     "fecha_detectado": "2026-09-23T15:41:22.067128+00:00",
     "nivel": "🟠",
     "titulo": "Asunto Legales - Retención en servicios con AIU: la DIAN cambia su criterio"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/asuntos-legales-del-arancel-anunciado-al-cumplimiento-exigido-el-decreto-1444-y-la-nueva-frontera-del-comercio-internacional-colombiano": {
+    "fecha_detectado": "2026-10-19T17:52:32.902245+00:00",
+    "nivel": "🟡",
+    "titulo": "Asuntos Legales - Del arancel anunciado al cumplimiento exigido: el Decreto 1444 y la nueva frontera del comercio internacional colombiano"
   },
   "accounter.co::https://accounter.co/noticias/actualidad/asuntos-legales-que-cambia-con-la-derogatoria-de-once-circulares-laborales": {
     "fecha_detectado": "2026-10-13T18:35:58.388309+00:00",
@@ -924,6 +944,11 @@
     "nivel": "🟠",
     "titulo": "Concepto 1737(017734)"
   },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-1829017845.html": {
+    "fecha_detectado": "2026-10-19T17:52:42.335576+00:00",
+    "nivel": "🟠",
+    "titulo": "Concepto 1829(017845)"
+  },
   "cijuf.org.co::https://cijuf.org.co/normatividad/decreto-unico-reglamentario/2015/dur-en-materia-contable.html": {
     "fecha_detectado": "2026-09-19T20:26:00.041874+00:00",
     "nivel": "🟢",
@@ -1333,6 +1358,11 @@
     "fecha_detectado": "2026-09-28T18:51:52.896575+00:00",
     "nivel": "🟢",
     "titulo": "Prestaciones sociales de años anteriores: con qué salario se liquidan"
+  },
+  "gerencie.com::https://www.gerencie.com/consulta-y-expedicion-de-certificados-de-tradicion-y-libertad-en-linea.html": {
+    "fecha_detectado": "2026-10-19T17:52:33.529612+00:00",
+    "nivel": "🟢",
+    "titulo": "Certificado de libertad y tradición en línea: cómo sacarlo y cómo validar el PIN"
   },
   "gerencie.com::https://www.gerencie.com/contabilizacion-de-la-autorretencion.html": {
     "fecha_detectado": "2026-10-08T02:19:12.919605+00:00",
@@ -2349,6 +2379,11 @@
     "nivel": "🟢",
     "titulo": "Manual para la aplicación de obras por impuestos para la reconstrucción"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/10/para-determinar-la-renta-por-comparacion-patrimonial-solo-se-restan-los-impuestos-efectivamente-pagados/": {
+    "fecha_detectado": "2026-10-19T17:52:31.603367+00:00",
+    "nivel": "🟢",
+    "titulo": "Para determinar la renta por comparación patrimonial solo se restan los impuestos efectivamente pagados"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/10/perdida-de-la-calidad-de-responsable-del-iva-no-obliga-a-reintegrar-impuestos-descontables-solicitados/": {
     "fecha_detectado": "2026-10-16T15:41:04.811287+00:00",
     "nivel": "🟢",
@@ -2428,6 +2463,11 @@
     "fecha_detectado": "2026-10-08T18:05:03.921464+00:00",
     "nivel": "🟢",
     "titulo": "Resultados contabilizados por método de participación se clasifican como inversión bajo la NIIF 18"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/10/se-requiere-autorizacion-del-mintrabajo-para-disminuir-capital-social/": {
+    "fecha_detectado": "2026-10-19T17:52:31.603333+00:00",
+    "nivel": "🟢",
+    "titulo": "Se requiere autorización del Mintrabajo para disminuir capital social"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/10/tratamiento-contable-y-clasificacion-de-arrendamientos-intragrupo-bajo-la-nueva-niif-18/": {
     "fecha_detectado": "2026-10-05T19:51:28.389617+00:00",
@@ -2628,6 +2668,11 @@
     "fecha_detectado": "2026-10-06T17:31:01.026824+00:00",
     "nivel": "🔴",
     "titulo": "Reforma tributaria de Bogotá 2027: ¿Qué cambia en el ICA y cómo aprovechar el alivio del 60%?"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/reintegro-de-iva-descontable-no-responsables/": {
+    "fecha_detectado": "2026-10-19T17:52:29.545073+00:00",
+    "nivel": "🟠",
+    "titulo": "¿Se debe reintegrar el IVA descontable al pasar a no responsable? Esto aclaró la DIAN"
   },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/reporte-de-facturacion-electronica-dian/": {
     "fecha_detectado": "2026-10-08T18:05:01.961595+00:00",
