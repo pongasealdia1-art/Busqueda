@@ -1,4 +1,9 @@
 {
+  "accounter.co::https://accounter.co/exclusivo-afiliados/accounterteresponde/accounterteresponde-seguridad-social-lunes-19-de-octubre-244": {
+    "fecha_detectado": "2026-10-20T15:56:34.974757+00:00",
+    "nivel": "🟢",
+    "titulo": "AccounterTeResponde - Seguridad Social - Lunes 19 de octubre #244"
+  },
   "accounter.co::https://accounter.co/exclusivo-afiliados/gratuitos-exclusivo-afiliados/tributario-gratuitos-exclusivo-afiliados/seminario-online-193-oportunidades-de-eficiencia-tributaria": {
     "fecha_detectado": "2026-10-01T01:38:05.656094+00:00",
     "nivel": "🟢",
@@ -13,6 +18,11 @@
     "fecha_detectado": "2026-09-23T20:47:40.970245+00:00",
     "nivel": "🟢",
     "titulo": "Protegido: Pack descargable: 10 prompts de IA para auditoría y Revisoría Fiscal"
+  },
+  "accounter.co::https://accounter.co/herramientas/calculadora-laboral-2026-horas-extras-costo-y-trabajo-por-horas-exclusivo-afiliados": {
+    "fecha_detectado": "2026-10-20T15:56:34.974792+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora Laboral 2026: horas extras, costo y trabajo por horas (Exclusivo afiliados)"
   },
   "accounter.co::https://accounter.co/herramientas/liquidacion-de-intereses-moratorios-octubre-de-2026": {
     "fecha_detectado": "2026-10-06T17:31:03.480417+00:00",
@@ -273,6 +283,11 @@
     "fecha_detectado": "2026-10-16T15:41:10.020049+00:00",
     "nivel": "🟠",
     "titulo": "Suspensión disciplinaria en la semana y pago del dominical — Concepto MinTrabajo 13229 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/trabajadores-de-direccion-confianza-y-manejo-no-tienen-horas-extras-pero-si-dominicales-y-festivos-concepto-mintrabajo-19772-de-2026": {
+    "fecha_detectado": "2026-10-20T15:56:34.974828+00:00",
+    "nivel": "🟠",
+    "titulo": "Trabajadores de dirección, confianza y manejo no tienen horas extras, pero sí dominicales y festivos — Concepto MinTrabajo 19772 de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/tratamiento-contable-del-fraude-y-cuotas-extraordinarias-en-propiedad-horizontal-concepto-ctcp-2026-0213": {
     "fecha_detectado": "2026-10-05T19:51:31.547240+00:00",
@@ -2599,6 +2614,11 @@
     "nivel": "🟢",
     "titulo": "¿Cómo conciliar la retención en la fuente antes de presentar el Formulario 350?"
   },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/compensacion-de-perdidas-fiscales-en-declaracion-de-renta/": {
+    "fecha_detectado": "2026-10-20T15:56:29.276449+00:00",
+    "nivel": "🟢",
+    "titulo": "Compensación de pérdidas fiscales en Colombia: Cómo aplicarla, plazos y ejemplos en 2026"
+  },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/corte-contable/": {
     "fecha_detectado": "2026-09-22T15:51:40.780037+00:00",
     "nivel": "🟢",
@@ -2753,6 +2773,11 @@
     "fecha_detectado": "2026-09-19T20:25:50.411478+00:00",
     "nivel": "🟢",
     "titulo": "Tabla de retención en la fuente por IVA 2024"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/utilidades-de-sucursales-extranjeras-en-colombia/": {
+    "fecha_detectado": "2026-10-20T15:56:29.276487+00:00",
+    "nivel": "🟠",
+    "titulo": "Giro de utilidades de sucursales extranjeras en Colombia: Impuestos, retención y tratamiento DIAN"
   },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/uvt-2027/": {
     "fecha_detectado": "2026-10-08T18:05:01.961559+00:00",
