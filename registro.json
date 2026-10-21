@@ -444,6 +444,11 @@
     "nivel": "🟢",
     "titulo": "Reactivan requisitos de meritocracia para cargos de libre nombramiento"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/accidente-las-afueras-del-trabajo-momentos-antes-de-ingresar-es-de-caracter": {
+    "fecha_detectado": "2026-10-21T01:04:14.330733+00:00",
+    "nivel": "🟢",
+    "titulo": "Accidente a las afueras del trabajo momentos antes de ingresar es de carácter laboral"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/agenda-laboral-regulatoria-del-gobierno-2026-2030": {
     "fecha_detectado": "2026-09-30T01:40:38.581454+00:00",
     "nivel": "🟢",
@@ -633,6 +638,16 @@
     "fecha_detectado": "2026-09-19T20:25:53.114293+00:00",
     "nivel": "🟢",
     "titulo": "Precisiones formales y sustanciales sobre la cuota de inclusión laboral"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/proponen-ajustar-reglas-laborales-para-periodistas-y-comunicadores": {
+    "fecha_detectado": "2026-10-21T01:04:14.330790+00:00",
+    "nivel": "🟢",
+    "titulo": "Proponen ajustar reglas laborales para periodistas y comunicadores"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/redefiniran-medidas-preventivas-en-inspecciones-laborales": {
+    "fecha_detectado": "2026-10-21T01:04:14.330769+00:00",
+    "nivel": "🟢",
+    "titulo": "Redefinirán medidas preventivas en inspecciones laborales"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/reforma-pensional-cuidar-no-es-lo-mismo-que-ser-madre": {
     "fecha_detectado": "2026-09-19T20:25:53.114604+00:00",
@@ -1478,6 +1493,11 @@
     "fecha_detectado": "2026-10-02T16:56:31.877090+00:00",
     "nivel": "🟢",
     "titulo": "¿A las vacaciones se les descuenta salud y pensión?"
+  },
+  "gerencie.com::https://www.gerencie.com/definicion-de-activo-segun-robert-kiyosaki-y-su-importancia-en-el-emprendimiento.html": {
+    "fecha_detectado": "2026-10-21T01:04:20.246673+00:00",
+    "nivel": "🟢",
+    "titulo": "Definición de activo según Robert Kiyosaki y su diferencia con el activo contable"
   },
   "gerencie.com::https://www.gerencie.com/demanda-laboral.html": {
     "fecha_detectado": "2026-10-04T16:04:48.228119+00:00",
