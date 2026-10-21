@@ -1,4 +1,9 @@
 {
+  "accounter.co::https://accounter.co/boletines/seminario-con-pago-planeacion-tributaria-2027-naturales-juridicas-e-ia": {
+    "fecha_detectado": "2026-10-21T16:13:14.243182+00:00",
+    "nivel": "🟢",
+    "titulo": "Seminario con pago: Planeación Tributaria 2027: Naturales, Jurídicas e IA"
+  },
   "accounter.co::https://accounter.co/exclusivo-afiliados/accounterteresponde/accounterteresponde-seguridad-social-lunes-19-de-octubre-244": {
     "fecha_detectado": "2026-10-20T15:56:34.974757+00:00",
     "nivel": "🟢",
@@ -274,6 +279,11 @@
     "nivel": "🟠",
     "titulo": "Reconocimiento y corrección de pasivos en propiedad horizontal. Concepto CTCP 2026-204"
   },
+  "accounter.co::https://accounter.co/normatividad/reduccion-transitoria-de-sanciones-e-intereses-no-constituye-ingreso-gravado-en-renta-ni-en-el-regimen-simple-concepto-dian-11603-de-2026": {
+    "fecha_detectado": "2026-10-21T16:13:14.243238+00:00",
+    "nivel": "🟠",
+    "titulo": "Reducción transitoria de sanciones e intereses no constituye ingreso gravado en renta ni en el Régimen SIMPLE — Concepto DIAN 11603 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/sancion-por-extemporaneidad-e-ineficacia-de-la-declaracion-de-retencion-en-la-fuente-concepto-15978-de-2026": {
     "fecha_detectado": "2026-10-02T16:56:31.644461+00:00",
     "nivel": "🟠",
@@ -304,6 +314,11 @@
     "nivel": "🟠",
     "titulo": "Uniformes exigidos a trabajadores sin derecho a dotación deben ser suministrados sin costo — Concepto MinTrabajo 42689 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/validez-de-la-renuncia-de-trabajadora-con-fuero-de-maternidad-corresponde-definirla-al-juez-concepto-mintrabajo-42666-de-2026": {
+    "fecha_detectado": "2026-10-21T16:13:14.243269+00:00",
+    "nivel": "🟠",
+    "titulo": "Validez de la renuncia de trabajadora con fuero de maternidad corresponde definirla al juez — Concepto MinTrabajo 42666 de 2026"
+  },
   "accounter.co::https://accounter.co/noticias/actualidad/asunto-legales-alivios-tributarios-tras-el-sismo-claves-del-decreto-1419-de-2026": {
     "fecha_detectado": "2026-10-06T17:31:03.480486+00:00",
     "nivel": "🟡",
@@ -318,6 +333,11 @@
     "fecha_detectado": "2026-10-19T17:52:32.902245+00:00",
     "nivel": "🟡",
     "titulo": "Asuntos Legales - Del arancel anunciado al cumplimiento exigido: el Decreto 1444 y la nueva frontera del comercio internacional colombiano"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/asuntos-legales-exogena-en-concesiones-quien-reporta-que-a-la-dian": {
+    "fecha_detectado": "2026-10-21T16:13:14.243289+00:00",
+    "nivel": "🟠",
+    "titulo": "Asuntos Legales - Exógena en concesiones: ¿Quién reporta qué a la DIAN?"
   },
   "accounter.co::https://accounter.co/noticias/actualidad/asuntos-legales-que-cambia-con-la-derogatoria-de-once-circulares-laborales": {
     "fecha_detectado": "2026-10-13T18:35:58.388309+00:00",
@@ -449,6 +469,11 @@
     "nivel": "🟢",
     "titulo": "Accidente a las afueras del trabajo momentos antes de ingresar es de carácter laboral"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/actividades-espirituales-y-altruistas-son-del-ambito-del-trabajo-libre-y-no": {
+    "fecha_detectado": "2026-10-21T16:13:13.889925+00:00",
+    "nivel": "🟢",
+    "titulo": "Actividades espirituales y altruistas son del ámbito del trabajo libre y no implican subordinación laboral"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/agenda-laboral-regulatoria-del-gobierno-2026-2030": {
     "fecha_detectado": "2026-09-30T01:40:38.581454+00:00",
     "nivel": "🟢",
@@ -563,6 +588,11 @@
     "fecha_detectado": "2026-10-19T21:49:09.591798+00:00",
     "nivel": "🟡",
     "titulo": "Gobierno piensa derogar decreto que regula la tercerización e intermediación laboral"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/gobierno-propone-modificar-decreto-sobre-pago-de-seguridad-social-para": {
+    "fecha_detectado": "2026-10-21T16:13:13.889960+00:00",
+    "nivel": "🟡",
+    "titulo": "Gobierno propone modificar decreto sobre pago de seguridad social para trabajadores de plataformas"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/ineficacia-de-traslado-de-un-regimen-pensional-otro-no-procede-cuando-quien": {
     "fecha_detectado": "2026-09-23T20:47:38.519061+00:00",
@@ -2443,6 +2473,11 @@
     "fecha_detectado": "2026-10-14T16:04:49.368719+00:00",
     "nivel": "🟢",
     "titulo": "Manual para la aplicación de obras por impuestos para la reconstrucción"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/10/mascotas-integran-el-patrimonio-bruto-en-el-impuesto-sobre-la-renta/": {
+    "fecha_detectado": "2026-10-21T16:13:11.093443+00:00",
+    "nivel": "🟢",
+    "titulo": "Mascotas integran el patrimonio bruto en el impuesto sobre la renta"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/10/para-determinar-la-renta-por-comparacion-patrimonial-solo-se-restan-los-impuestos-efectivamente-pagados/": {
     "fecha_detectado": "2026-10-19T17:52:31.603367+00:00",
