@@ -534,6 +534,11 @@
     "nivel": "🟢",
     "titulo": "Cuadro clínico complejo no desplaza por sí solo acciones laborales ordinarias, salvo perjuicio irremediable"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/decreto-modificaria-normas-sobre-prevencion-del-acoso-laboral": {
+    "fecha_detectado": "2026-10-21T20:59:07.351188+00:00",
+    "nivel": "🟡",
+    "titulo": "Decreto modificaría normas sobre prevención del acoso laboral"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/derogan-resolucion-que-cambio-requisitos-para-prestadores-de-salud": {
     "fecha_detectado": "2026-09-19T20:25:53.114357+00:00",
     "nivel": "🟡",
@@ -668,6 +673,11 @@
     "fecha_detectado": "2026-09-19T20:25:53.114293+00:00",
     "nivel": "🟢",
     "titulo": "Precisiones formales y sustanciales sobre la cuota de inclusión laboral"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/presidencia-propone-derogar-decreto-que-regulo-pactos-colectivos": {
+    "fecha_detectado": "2026-10-21T20:59:07.351226+00:00",
+    "nivel": "🟡",
+    "titulo": "Presidencia propone derogar decreto que reguló pactos colectivos"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/proponen-ajustar-reglas-laborales-para-periodistas-y-comunicadores": {
     "fecha_detectado": "2026-10-21T01:04:14.330790+00:00",
@@ -1033,6 +1043,11 @@
     "fecha_detectado": "2026-10-19T17:52:42.335576+00:00",
     "nivel": "🟠",
     "titulo": "Concepto 1829(017845)"
+  },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-199708192.html": {
+    "fecha_detectado": "2026-10-21T20:59:12.437541+00:00",
+    "nivel": "🟠",
+    "titulo": "Concepto 1997(08192)"
   },
   "cijuf.org.co::https://cijuf.org.co/normatividad/decreto-unico-reglamentario/2015/dur-en-materia-contable.html": {
     "fecha_detectado": "2026-09-19T20:26:00.041874+00:00",
