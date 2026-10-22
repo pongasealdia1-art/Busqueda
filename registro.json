@@ -249,6 +249,11 @@
     "nivel": "🟠",
     "titulo": "Las utilidades transferidas por una sucursal colombiana a su principal en Perú están gravadas – Concepto DIAN 16345 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/limites-de-las-funciones-del-revisor-fiscal-en-una-copropiedad-frente-a-la-gestion-administrativa-concepto-ctcp-2026-172": {
+    "fecha_detectado": "2026-10-22T16:11:45.533477+00:00",
+    "nivel": "🟠",
+    "titulo": "Límites de las funciones del Revisor Fiscal en una copropiedad frente a la gestión administrativa — Concepto CTCP 2026-172"
+  },
   "accounter.co::https://accounter.co/normatividad/medidas-especiales-para-la-recuperacion-y-reactivacion-empresarial-decreto-1418-de-2026": {
     "fecha_detectado": "2026-09-22T15:51:46.190309+00:00",
     "nivel": "🟡",
@@ -274,6 +279,11 @@
     "nivel": "🟠",
     "titulo": "Readmisión de entidades del sector cooperativo al Régimen Tributario Especial: cómputo del plazo de tres años. Concepto DIAN 16169 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/reconocimiento-de-ingresos-por-retornos-administrativos-en-entidades-sin-animo-de-lucro-concepto-ctcp-2026-175": {
+    "fecha_detectado": "2026-10-22T16:11:45.533517+00:00",
+    "nivel": "🟠",
+    "titulo": "Reconocimiento de ingresos por retornos administrativos en entidades sin ánimo de lucro — Concepto CTCP 2026-175"
+  },
   "accounter.co::https://accounter.co/normatividad/reconocimiento-y-correccion-de-pasivos-en-propiedad-horizontal-concepto-ctcp-2026-204": {
     "fecha_detectado": "2026-09-19T20:25:56.024130+00:00",
     "nivel": "🟠",
@@ -283,6 +293,11 @@
     "fecha_detectado": "2026-10-21T16:13:14.243238+00:00",
     "nivel": "🟠",
     "titulo": "Reducción transitoria de sanciones e intereses no constituye ingreso gravado en renta ni en el Régimen SIMPLE — Concepto DIAN 11603 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/registro-patrimonial-de-las-reservas-con-destinacion-especifica-constituidas-con-excedentes-concepto-ctcp-2026-173": {
+    "fecha_detectado": "2026-10-22T16:11:45.533538+00:00",
+    "nivel": "🟠",
+    "titulo": "Registro patrimonial de las reservas con destinación específica constituidas con excedentes — Concepto CTCP 2026-173"
   },
   "accounter.co::https://accounter.co/normatividad/sancion-por-extemporaneidad-e-ineficacia-de-la-declaracion-de-retencion-en-la-fuente-concepto-15978-de-2026": {
     "fecha_detectado": "2026-10-02T16:56:31.644461+00:00",
@@ -333,6 +348,11 @@
     "fecha_detectado": "2026-10-19T17:52:32.902245+00:00",
     "nivel": "🟡",
     "titulo": "Asuntos Legales - Del arancel anunciado al cumplimiento exigido: el Decreto 1444 y la nueva frontera del comercio internacional colombiano"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/asuntos-legales-del-cripto-a-pesos-que-ve-la-dian-cuando-retira-su-dinero": {
+    "fecha_detectado": "2026-10-22T16:11:45.533553+00:00",
+    "nivel": "🟠",
+    "titulo": "Asuntos Legales - Del cripto a pesos: ¿qué ve la DIAN cuando retira su dinero?"
   },
   "accounter.co::https://accounter.co/noticias/actualidad/asuntos-legales-exogena-en-concesiones-quien-reporta-que-a-la-dian": {
     "fecha_detectado": "2026-10-21T16:13:14.243289+00:00",
@@ -849,6 +869,11 @@
     "nivel": "🟢",
     "titulo": "Esta es la nueva base para liquidar IVA en combustibles importados"
   },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/este-es-el-manual-de-obras-por-impuestos-para-la-reconstruccion-por-el": {
+    "fecha_detectado": "2026-10-22T16:11:45.068232+00:00",
+    "nivel": "🟢",
+    "titulo": "Este es el manual de obras por impuestos para la reconstrucción por el terremoto"
+  },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/esto-dice-la-propuesta-que-redefiniria-aspectos-de-la-profesion-contable": {
     "fecha_detectado": "2026-09-23T20:47:38.518692+00:00",
     "nivel": "🟢",
@@ -1218,6 +1243,11 @@
     "fecha_detectado": "2026-09-19T20:25:56.249379+00:00",
     "nivel": "🟠",
     "titulo": "Calculadora de imputación de pagos a la Dian"
+  },
+  "gerencie.com::https://www.gerencie.com/calculadora-de-incapacidades-laborales.html": {
+    "fecha_detectado": "2026-10-22T16:11:46.105499+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de incapacidades laborales"
   },
   "gerencie.com::https://www.gerencie.com/calculadora-de-indemnizacion-por-accidente-laboral.html": {
     "fecha_detectado": "2026-09-29T02:21:04.767369+00:00",
@@ -2479,6 +2509,11 @@
     "nivel": "🟠",
     "titulo": "DIAN: la propiedad horizontal que genera rentas puede estar sujeta al impuesto al patrimonio"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/10/dian-propone-cambios-en-los-reportes-de-informacion-exogena-para-los-anos-gravables-2026-a-2028/": {
+    "fecha_detectado": "2026-10-22T16:11:42.849842+00:00",
+    "nivel": "🟠",
+    "titulo": "DIAN propone cambios en los reportes de información exógena para los años gravables 2026 a 2028"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/10/firmada-la-reforma-tributaria-de-bogota-que-introduce-incentivos-tributarios-y-nuevas-tarifas-del-ica/": {
     "fecha_detectado": "2026-10-14T16:04:49.368742+00:00",
     "nivel": "🔴",
@@ -2583,6 +2618,11 @@
     "fecha_detectado": "2026-10-08T18:05:03.921464+00:00",
     "nivel": "🟢",
     "titulo": "Resultados contabilizados por método de participación se clasifican como inversión bajo la NIIF 18"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/10/se-modificaria-el-calculo-para-el-aumento-de-las-pensiones-de-smmlv/": {
+    "fecha_detectado": "2026-10-22T16:11:42.849805+00:00",
+    "nivel": "🟢",
+    "titulo": "Se modificaría el cálculo para el aumento de las pensiones de SMMLV"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/10/se-requiere-autorizacion-del-mintrabajo-para-disminuir-capital-social/": {
     "fecha_detectado": "2026-10-19T17:52:31.603333+00:00",
@@ -2784,6 +2824,11 @@
     "nivel": "🟡",
     "titulo": "Obras por impuestos para la reconstrucción: ¿Cómo funciona el Decreto 1389 de 2026?"
   },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/patrimonio-de-una-persona-natural-en-renta/": {
+    "fecha_detectado": "2026-10-22T16:11:40.737407+00:00",
+    "nivel": "🟢",
+    "titulo": "Patrimonio de una persona natural en la declaración de renta: 16 activos que debes revisar"
+  },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/reduccion-de-sanciones/": {
     "fecha_detectado": "2026-09-21T17:18:23.147933+00:00",
     "nivel": "🟠",
@@ -2798,6 +2843,11 @@
     "fecha_detectado": "2026-10-19T17:52:29.545073+00:00",
     "nivel": "🟠",
     "titulo": "¿Se debe reintegrar el IVA descontable al pasar a no responsable? Esto aclaró la DIAN"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/renta-por-comparacion-patrimonial/": {
+    "fecha_detectado": "2026-10-22T16:11:40.737370+00:00",
+    "nivel": "🟢",
+    "titulo": "Renta por comparación patrimonial AG 2025: ¿Cómo calcular y justificar la diferencia?"
   },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/reporte-de-facturacion-electronica-dian/": {
     "fecha_detectado": "2026-10-08T18:05:01.961595+00:00",
