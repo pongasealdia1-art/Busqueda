@@ -684,6 +684,11 @@
     "nivel": "🟢",
     "titulo": "Pantallazos de WhatsApp impresos son prueba documental en procesos laborales"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/plantean-cambios-proteccion-del-trabajo-domestico-remunerado": {
+    "fecha_detectado": "2026-10-22T20:57:21.435087+00:00",
+    "nivel": "🟢",
+    "titulo": "Plantean cambios a protección del trabajo doméstico remunerado"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/podcast-catedra-procesall-xxx-cambiaron-los-fallos-extra-y-ultra-petita-en-el": {
     "fecha_detectado": "2026-09-19T20:25:53.114521+00:00",
     "nivel": "🟢",
@@ -783,6 +788,11 @@
     "fecha_detectado": "2026-10-01T17:37:54.870026+00:00",
     "nivel": "🔴",
     "titulo": "2 de octubre vence plazo para tercer pago del impuesto predial por cuotas en Bogotá"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/200-mil-morosos-tienen-hasta-el-19-de-noviembre-para-acceder-alivios": {
+    "fecha_detectado": "2026-10-22T20:57:21.434956+00:00",
+    "nivel": "🟢",
+    "titulo": "200 mil morosos tienen hasta el 19 de noviembre para acceder a alivios tributarios"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/analisis-autorretencion-especial-la-doctrina-no-puede-crear-lo-que-la-ley-no": {
     "fecha_detectado": "2026-10-01T17:37:54.869964+00:00",
