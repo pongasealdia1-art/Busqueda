@@ -199,6 +199,11 @@
     "nivel": "🟠",
     "titulo": "Fecha de comisión de la conducta para reducir la sanción por corrección — Concepto DIAN 15658 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/fuero-de-paternidad-y-descansos-por-periodo-de-lactancia-concepto-mintrabajo-33525-de-2026": {
+    "fecha_detectado": "2026-10-23T16:01:37.956864+00:00",
+    "nivel": "🟠",
+    "titulo": "Fuero de paternidad y descansos por periodo de lactancia — Concepto MinTrabajo 33525 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/incentivos-tributarios-para-inversiones-en-territorios-afectados-por-el-terremoto-decreto-legislativo-1413-de-2026": {
     "fecha_detectado": "2026-09-21T17:18:28.285164+00:00",
     "nivel": "🔴",
@@ -279,6 +284,11 @@
     "nivel": "🟠",
     "titulo": "Participaciones en patrimonios autónomos bajo la NIIF 18 — Concepto CTCP 220 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/pension-de-invalidez-o-vejez-puede-invocarse-como-justa-causa-de-terminacion-sin-limite-de-inmediatez-concepto-mintrabajo-33344-de-2026": {
+    "fecha_detectado": "2026-10-23T16:01:37.956941+00:00",
+    "nivel": "🟠",
+    "titulo": "Pensión de invalidez o vejez puede invocarse como justa causa de terminación sin límite de inmediatez — Concepto MinTrabajo 33344 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/readmision-de-entidades-del-sector-cooperativo-al-regimen-tributario-especial-computo-del-plazo-de-tres-anos-concepto-dian-16169-de-2026": {
     "fecha_detectado": "2026-09-30T21:37:31.672782+00:00",
     "nivel": "🟠",
@@ -313,6 +323,11 @@
     "fecha_detectado": "2026-10-16T15:41:10.020049+00:00",
     "nivel": "🟠",
     "titulo": "Suspensión disciplinaria en la semana y pago del dominical — Concepto MinTrabajo 13229 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/tiempo-de-desplazamiento-a-una-sede-distinta-a-la-habitual-se-remunera-como-jornada-ordinaria-concepto-mintrabajo-33365-de-2026": {
+    "fecha_detectado": "2026-10-23T16:01:37.956909+00:00",
+    "nivel": "🟠",
+    "titulo": "Tiempo de desplazamiento a una sede distinta a la habitual se remunera como jornada ordinaria — Concepto MinTrabajo 33365 de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/trabajadores-de-direccion-confianza-y-manejo-no-tienen-horas-extras-pero-si-dominicales-y-festivos-concepto-mintrabajo-19772-de-2026": {
     "fecha_detectado": "2026-10-20T15:56:34.974828+00:00",
@@ -1089,6 +1104,11 @@
     "nivel": "🟠",
     "titulo": "Concepto 1829(017845)"
   },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-1855017151.html": {
+    "fecha_detectado": "2026-10-23T16:01:42.489210+00:00",
+    "nivel": "🟠",
+    "titulo": "Concepto 1855(017151)"
+  },
   "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-199708192.html": {
     "fecha_detectado": "2026-10-21T20:59:12.437541+00:00",
     "nivel": "🟠",
@@ -1298,6 +1318,11 @@
     "fecha_detectado": "2026-09-20T19:55:10.136351+00:00",
     "nivel": "🟢",
     "titulo": "Calculadora de reducción de sanciones tributarias"
+  },
+  "gerencie.com::https://www.gerencie.com/calculadora-de-retencion-en-la-fuente-por-dividendos.html": {
+    "fecha_detectado": "2026-10-23T16:01:38.393220+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de retención en la fuente por dividendos"
   },
   "gerencie.com::https://www.gerencie.com/calculadora-de-retencion-en-la-fuente.html": {
     "fecha_detectado": "2026-09-26T15:15:19.079616+00:00",
@@ -1839,6 +1864,11 @@
     "nivel": "🟢",
     "titulo": "Trabajador independiente: ¿declarar renta exenta o costos y deducciones?"
   },
+  "gerencie.com::https://www.gerencie.com/impuesto-a-cargo-que-es-y-como-se-calcula.html": {
+    "fecha_detectado": "2026-10-23T16:01:38.393245+00:00",
+    "nivel": "🟢",
+    "titulo": "Impuesto a cargo: qué es y cómo se calcula"
+  },
   "gerencie.com::https://www.gerencie.com/impuesto-a-la-renta-en-contratos-de-cuentas-en-participacion.html": {
     "fecha_detectado": "2026-10-03T15:19:49.764219+00:00",
     "nivel": "🟢",
@@ -2254,6 +2284,11 @@
     "nivel": "🟢",
     "titulo": "Retención en la fuente en los ingresos recibidos para terceros"
   },
+  "gerencie.com::https://www.gerencie.com/retencion-en-la-fuente-por-dividendos-y-participaciones.html": {
+    "fecha_detectado": "2026-10-23T16:01:38.393187+00:00",
+    "nivel": "🟢",
+    "titulo": "Retención en la fuente por dividendos y participaciones"
+  },
   "gerencie.com::https://www.gerencie.com/retencion-en-la-fuente-por-ingresos-laborales.html": {
     "fecha_detectado": "2026-10-17T00:51:11.605319+00:00",
     "nivel": "🟢",
@@ -2474,6 +2509,11 @@
     "nivel": "🟢",
     "titulo": "IAASB explicó su propuesta de modificaciones a las normas sobre evidencia y respuesta a los riesgos de auditoría"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/2026/10/supersociedades-publico-una-guia-para-incorporar-la-sostenibilidad-en-las-pymes/": {
+    "fecha_detectado": "2026-10-23T16:01:36.393353+00:00",
+    "nivel": "🟢",
+    "titulo": "Supersociedades publicó una guía para incorporar la sostenibilidad en las Pymes"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/estandares-internacionales/2026/09/ocde-reformas-tributarias-de-2025-reflejan-un-giro-hacia-el-fortalecimiento-del-recaudo-y-los-incentivos-a-la-inversion/": {
     "fecha_detectado": "2026-09-19T20:25:52.386151+00:00",
     "nivel": "🟢",
@@ -2628,6 +2668,11 @@
     "fecha_detectado": "2026-10-15T15:53:17.699383+00:00",
     "nivel": "🟢",
     "titulo": "Eliminado el límite global del 30 % a las inversiones en activos del exterior de los fondos de pensiones obligatorias"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/10/mintrabajo-eliminaria-dos-decretos-y-modificaria-otros-seis-expedidos-durante-el-gobierno-anterior-para-ajustar-la-reglamentacion-laboral/": {
+    "fecha_detectado": "2026-10-23T16:01:36.393417+00:00",
+    "nivel": "🟡",
+    "titulo": "Mintrabajo eliminaría dos decretos y modificaría otros seis expedidos durante el Gobierno anterior para ajustar la reglamentación laboral"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/10/resultados-contabilizados-por-metodo-de-participacion-se-clasifican-como-inversion-bajo-la-niif-18/": {
     "fecha_detectado": "2026-10-08T18:05:03.921464+00:00",
