@@ -39,6 +39,11 @@
     "nivel": "🟡",
     "titulo": "NUEVO - Liquidador interactivo de sanción por corrección por extemporaneidad con aplicación beneficio tasa del Decreto 1419 de 2026 (Exclusivo afiliados)"
   },
+  "accounter.co::https://accounter.co/herramientas/memorias/online-memorias-auditoria-al-alcance-de-todos-preparese-de-forma-facil-y-practica-dra-diana-vega-viernes-23-de-octubre-2026": {
+    "fecha_detectado": "2026-10-26T22:01:45.454146+00:00",
+    "nivel": "🟠",
+    "titulo": "ONLINE Memorias - Auditoría al Alcance de Todos: Prepárese de forma fácil y práctica - Dra. Diana Vega -  Viernes 23 de octubre 2026"
+  },
   "accounter.co::https://accounter.co/herramientas/memorias/online-memorias-beneficios-tributarios-para-vehiculos-electricos-e-hibridos-de-la-norma-a-la-practica-dr-felipe-arias-jueves-01-de-octubre-2026": {
     "fecha_detectado": "2026-10-06T02:33:52.102049+00:00",
     "nivel": "🟢",
@@ -1368,6 +1373,11 @@
     "fecha_detectado": "2026-10-16T20:11:50.596656+00:00",
     "nivel": "🟢",
     "titulo": "Calculadora de salario neto: cuánto recibe el trabajador después de los descuentos"
+  },
+  "gerencie.com::https://www.gerencie.com/calculadora-de-sancion-por-no-expedir-certificados.html": {
+    "fecha_detectado": "2026-10-26T22:01:45.818166+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de la sanción por no expedir certificados de retención"
   },
   "gerencie.com::https://www.gerencie.com/calculadora-de-seguridad-social-por-dias.html": {
     "fecha_detectado": "2026-09-24T00:56:21.635902+00:00",
