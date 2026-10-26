@@ -179,6 +179,11 @@
     "nivel": "🟠",
     "titulo": "En el SIMPLE prevalece la actividad realmente desarrollada sobre el código CIIU – Concepto DIAN 016144 int. 1653 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/en-la-renta-por-comparacion-patrimonial-se-resta-el-impuesto-de-renta-efectivamente-pagado-en-el-ano-no-el-solo-causado-concepto-dian-16547-de-2026": {
+    "fecha_detectado": "2026-10-26T17:47:02.207178+00:00",
+    "nivel": "🟠",
+    "titulo": "En la renta por comparación patrimonial se resta el impuesto de renta efectivamente pagado en el año, no el solo causado — Concepto DIAN 16547 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/estados-financieros-base-para-la-transformacion-de-una-s-a-en-s-a-s-oficio-supersociedades-115-323554-de-2026": {
     "fecha_detectado": "2026-09-25T16:02:59.444208+00:00",
     "nivel": "🟢",
@@ -233,6 +238,11 @@
     "fecha_detectado": "2026-10-05T19:51:31.547297+00:00",
     "nivel": "🟠",
     "titulo": "La depreciación no integra el presupuesto de la propiedad horizontal — Concepto CTCP 2026-0195"
+  },
+  "accounter.co::https://accounter.co/normatividad/la-ley-2213-de-2022-solo-complementa-y-no-flexibiliza-el-regimen-de-notificaciones-del-et-concepto-dian-16343-de-2026": {
+    "fecha_detectado": "2026-10-26T17:47:02.207135+00:00",
+    "nivel": "🟠",
+    "titulo": "La Ley 2213 de 2022 solo complementa y no flexibiliza el régimen de notificaciones del ET — Concepto DIAN 16343 de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/la-liquidacion-de-una-sociedad-no-extingue-sus-obligaciones-tributarias-concepto-dian-016289-int-1654-de-2026": {
     "fecha_detectado": "2026-10-07T18:03:02.159221+00:00",
@@ -404,6 +414,11 @@
     "nivel": "🟠",
     "titulo": "DIAN adapta su capacidad operativa ante el aumento de solicitudes de devolución de IVA de vehículos híbridos y eléctricos"
   },
+  "accounter.co::https://accounter.co/noticias/actualidad/dian-controlo-mas-de-610-millones-en-ingresos-durante-bogotaeats-a-cielo-abierto-2026": {
+    "fecha_detectado": "2026-10-26T17:47:02.207200+00:00",
+    "nivel": "🟠",
+    "titulo": "DIAN controló más de $610 millones en ingresos durante BogotáEats a Cielo Abierto 2026"
+  },
   "accounter.co::https://accounter.co/noticias/actualidad/dian-el-beneficio-rige-a-partir-de-10-de-agosto-y-va-hasta-el-19-de-noviembre-proximo-el-pago-no-podra-ser-inferior-a-la-sancion-minima-aplicable-al-tipo-de-infraccion-cambiaria": {
     "fecha_detectado": "2026-10-14T16:04:54.022414+00:00",
     "nivel": "🟠",
@@ -473,6 +488,11 @@
     "fecha_detectado": "2026-09-19T20:25:53.114637+00:00",
     "nivel": "🟡",
     "titulo": "Cuando una circular deja de ser una circular"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/actualidad/defensoria-amplia-delegacion-para-pagar-riesgos-laborales-de-defensores": {
+    "fecha_detectado": "2026-10-26T17:47:01.489948+00:00",
+    "nivel": "🟢",
+    "titulo": "Defensoría amplía delegación para pagar riesgos laborales de defensores públicos"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/civilfamilia/analisis-evolucion-del-concepto-de-familia-en-el-derecho-pensional-colombiano": {
     "fecha_detectado": "2026-09-23T20:47:38.518883+00:00",
@@ -553,6 +573,11 @@
     "fecha_detectado": "2026-10-07T01:52:06.792477+00:00",
     "nivel": "🟢",
     "titulo": "ANÁLISIS: La inspección laboral y el riesgo de cumplir solo en el papel"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/analisis-la-salud-mental-como-dimension-de-la-estabilidad-laboral-reforzada-nuevos": {
+    "fecha_detectado": "2026-10-26T17:47:01.489926+00:00",
+    "nivel": "🟢",
+    "titulo": "ANÁLISIS: La salud mental como dimensión de la estabilidad laboral reforzada: nuevos criterios de protección en la jurisprudencia"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/condicionan-facultad-de-supersalud-para-disenar-procedimiento-sancionatorio-por": {
     "fecha_detectado": "2026-09-19T20:25:53.114244+00:00",
@@ -833,6 +858,11 @@
     "fecha_detectado": "2026-10-02T21:32:22.165486+00:00",
     "nivel": "🟠",
     "titulo": "Anulan doctrina de la Dian y aclaran aplicación de umbrales en autorretención especial"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/asambleas-departamentales-no-pueden-conceder-beneficios-tributarios-en-impuesto": {
+    "fecha_detectado": "2026-10-26T17:47:01.489796+00:00",
+    "nivel": "🟢",
+    "titulo": "Asambleas departamentales no pueden conceder beneficios tributarios en impuesto sobre vehículos automotores"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/auditoria-fortalece-estructura-cientifica-de-revista-control-visible": {
     "fecha_detectado": "2026-10-01T17:37:54.870008+00:00",
@@ -2009,6 +2039,11 @@
     "nivel": "🟢",
     "titulo": "Liquidador de contrato de trabajo por días"
   },
+  "gerencie.com::https://www.gerencie.com/liquidador-indemnizacion-moratoria-por-no-pagar-la-liquidacion.html": {
+    "fecha_detectado": "2026-10-26T17:47:02.865909+00:00",
+    "nivel": "🟢",
+    "titulo": "Liquidador de la indemnización moratoria por no pagar la liquidación o las cesantías"
+  },
   "gerencie.com::https://www.gerencie.com/liquidador-responsabilidad-solidaria-de-socios-por-deudas-tributarias.html": {
     "fecha_detectado": "2026-09-25T00:57:13.987625+00:00",
     "nivel": "🟢",
@@ -2554,6 +2589,11 @@
     "nivel": "🟢",
     "titulo": "Patrimonio líquido es la base para calcular sanciones relacionadas con la declaración de ingresos y patrimonio"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/10/base-para-liquidar-el-iva-en-las-importaciones-de-gasolina-y-acpm/": {
+    "fecha_detectado": "2026-10-26T17:46:57.856533+00:00",
+    "nivel": "🟢",
+    "titulo": "Base para liquidar el IVA en las importaciones de gasolina y ACPM"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/10/consejo-de-estado-cuantias-minimas-de-retencion-en-renta-tambien-aplican-a-autorretenciones-especiales/": {
     "fecha_detectado": "2026-10-07T18:03:00.972542+00:00",
     "nivel": "🟠",
@@ -2563,6 +2603,11 @@
     "fecha_detectado": "2026-10-02T16:56:28.510685+00:00",
     "nivel": "🟠",
     "titulo": "DIAN amplió capacidad para atender devoluciones del IVA de vehículos híbridos y eléctricos"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/10/dian-invito-a-cerca-de-200-000-contribuyentes-en-mora-a-normalizar-su-situacion-fiscal/": {
+    "fecha_detectado": "2026-10-26T17:46:57.856575+00:00",
+    "nivel": "🟠",
+    "titulo": "DIAN invitó a cerca de 200.000 contribuyentes en mora a normalizar su situación fiscal"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/10/dian-la-propiedad-horizontal-que-genera-rentas-puede-estar-sujeta-al-impuesto-al-patrimonio/": {
     "fecha_detectado": "2026-10-01T17:37:49.032455+00:00",
