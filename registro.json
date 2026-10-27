@@ -199,6 +199,11 @@
     "nivel": "🟠",
     "titulo": "Estados financieros en propiedades horizontales por etapas. Concepto CTCP 2026-210"
   },
+  "accounter.co::https://accounter.co/normatividad/estampillas-distritales-sobre-servicios-de-aseo-cafeteria-y-vigilancia-se-liquidan-sobre-el-aiu-desde-el-11-de-agosto-de-2025-concepto-shd-2026ee754252o1-de-2026": {
+    "fecha_detectado": "2026-10-27T16:57:16.576377+00:00",
+    "nivel": "🟠",
+    "titulo": "Estampillas distritales sobre servicios de aseo, cafetería y vigilancia se liquidan sobre el AIU desde el 11 de agosto de 2025 — Concepto SHD 2026EE754252O1 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/exportacion-de-servicios-a-vinculados-economicos-del-exterior-y-exencion-de-iva-oficio-dian-15981-de-2026": {
     "fecha_detectado": "2026-09-30T21:37:31.672727+00:00",
     "nivel": "🟠",
@@ -213,6 +218,11 @@
     "fecha_detectado": "2026-10-23T16:01:37.956864+00:00",
     "nivel": "🟠",
     "titulo": "Fuero de paternidad y descansos por periodo de lactancia — Concepto MinTrabajo 33525 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/improcedencia-de-estados-financieros-combinados-con-una-sola-subsidiaria-bajo-control-conjunto-oficio-supersociedades-115-317593-de-2026": {
+    "fecha_detectado": "2026-10-27T16:57:16.576323+00:00",
+    "nivel": "🟢",
+    "titulo": "Improcedencia de estados financieros combinados con una sola subsidiaria bajo control conjunto — Oficio Supersociedades 115-317593 de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/incentivos-tributarios-para-inversiones-en-territorios-afectados-por-el-terremoto-decreto-legislativo-1413-de-2026": {
     "fecha_detectado": "2026-09-21T17:18:28.285164+00:00",
@@ -418,6 +428,11 @@
     "fecha_detectado": "2026-10-02T16:56:31.644551+00:00",
     "nivel": "🟠",
     "titulo": "DIAN adapta su capacidad operativa ante el aumento de solicitudes de devolución de IVA de vehículos híbridos y eléctricos"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/dian-aprenda-a-verificar-si-su-factura-electronica-fue-validada-por-la-dian": {
+    "fecha_detectado": "2026-10-27T16:57:16.576398+00:00",
+    "nivel": "🟠",
+    "titulo": "Aprenda a verificar si su factura electrónica fue validada por la DIAN"
   },
   "accounter.co::https://accounter.co/noticias/actualidad/dian-controlo-mas-de-610-millones-en-ingresos-durante-bogotaeats-a-cielo-abierto-2026": {
     "fecha_detectado": "2026-10-26T17:47:02.207200+00:00",
@@ -2573,6 +2588,11 @@
     "fecha_detectado": "2026-10-13T18:35:57.702398+00:00",
     "nivel": "🟢",
     "titulo": "IFAC presentó seis principios para promover el bienestar y prevenir el agotamiento en la profesión contable"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/estandares-internacionales/2026/10/ocde-medidas-para-la-gestion-presupuestaria-de-los-gastos-tributarios/": {
+    "fecha_detectado": "2026-10-27T16:57:15.533418+00:00",
+    "nivel": "🟢",
+    "titulo": "OCDE: medidas para la gestión presupuestaria de los gastos tributarios"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/09/concejo-de-bogota-inicio-segundo-debate-del-proyecto-de-reforma-tributaria-distrital/": {
     "fecha_detectado": "2026-09-21T17:18:25.151731+00:00",
