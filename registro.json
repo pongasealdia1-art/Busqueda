@@ -259,10 +259,20 @@
     "nivel": "🟠",
     "titulo": "Intereses sobre cesantías: su nombre legal no determina una clasificación financiera — Concepto CTCP 226 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/la-deduccion-de-72-uvt-por-dependiente-no-se-reconoce-proporcionalmente-dentro-del-ano-gravable-concepto-dian-17001-de-2026": {
+    "fecha_detectado": "2026-10-29T17:42:16.634879+00:00",
+    "nivel": "🟠",
+    "titulo": "La deducción de 72 UVT por dependiente no se reconoce proporcionalmente dentro del año gravable — Concepto DIAN 17001 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/la-depreciacion-no-integra-el-presupuesto-de-la-propiedad-horizontal-concepto-ctcp-2026-0195": {
     "fecha_detectado": "2026-10-05T19:51:31.547297+00:00",
     "nivel": "🟠",
     "titulo": "La depreciación no integra el presupuesto de la propiedad horizontal — Concepto CTCP 2026-0195"
+  },
+  "accounter.co::https://accounter.co/normatividad/la-exclusion-del-regimen-zese-opera-por-incumplimiento-de-requisitos-sin-depender-de-un-mayor-impuesto-ni-de-resolucion-autonoma-concepto-dian-16556-de-2026": {
+    "fecha_detectado": "2026-10-29T17:42:16.634915+00:00",
+    "nivel": "🟠",
+    "titulo": "La exclusión del régimen ZESE opera por incumplimiento de requisitos, sin depender de un mayor impuesto ni de resolución autónoma — Concepto DIAN 16556 de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/la-ley-2213-de-2022-solo-complementa-y-no-flexibiliza-el-regimen-de-notificaciones-del-et-concepto-dian-16343-de-2026": {
     "fecha_detectado": "2026-10-26T17:47:02.207135+00:00",
@@ -323,6 +333,11 @@
     "fecha_detectado": "2026-09-28T18:51:52.341935+00:00",
     "nivel": "🟠",
     "titulo": "Participaciones en patrimonios autónomos bajo la NIIF 18 — Concepto CTCP 220 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/pasivos-laborales-de-servidores-publicos-son-reportables-en-el-formato-1009-si-superan-el-umbral-de-12-uvt-concepto-dian-16605-de-2026": {
+    "fecha_detectado": "2026-10-29T17:42:16.634934+00:00",
+    "nivel": "🟠",
+    "titulo": "Pasivos laborales de servidores públicos son reportables en el Formato 1009 si superan el umbral de 12 UVT — Concepto DIAN 16605 de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/pension-de-invalidez-o-vejez-puede-invocarse-como-justa-causa-de-terminacion-sin-limite-de-inmediatez-concepto-mintrabajo-33344-de-2026": {
     "fecha_detectado": "2026-10-23T16:01:37.956941+00:00",
@@ -813,6 +828,11 @@
     "fecha_detectado": "2026-10-10T16:29:28.329663+00:00",
     "nivel": "🟢",
     "titulo": "SilvIA: Pensión de sobrevivientes, un respaldo económico tras la muerte del afiliado"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/subsanados-los-vicios-de-tramite-de-la-reforma-pensional": {
+    "fecha_detectado": "2026-10-29T17:42:16.079809+00:00",
+    "nivel": "🟢",
+    "titulo": "Subsanados los vicios de trámite de la reforma pensional"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/superfinanciera-revoca-autorizacion-la-equidad-en-riesgos-laborales": {
     "fecha_detectado": "2026-10-28T17:31:54.065305+00:00",
@@ -2019,6 +2039,11 @@
     "nivel": "🟢",
     "titulo": "Impuestos saludables: IBUA e ICUI en 2026"
   },
+  "gerencie.com::https://www.gerencie.com/imputacion-proporcional-de-pagos-a-impuestos-sanciones-e-intereses.html": {
+    "fecha_detectado": "2026-10-29T17:42:17.360277+00:00",
+    "nivel": "🟢",
+    "titulo": "Imputación proporcional de pagos a impuestos, sanciones e intereses"
+  },
   "gerencie.com::https://www.gerencie.com/incompatibilidad-de-pensiones-en-colombia.html": {
     "fecha_detectado": "2026-09-30T21:37:31.865047+00:00",
     "nivel": "🟢",
@@ -2989,6 +3014,11 @@
     "nivel": "🟠",
     "titulo": "¿Las estampillas son deducibles en renta para personas naturales? Esto aclaró la DIAN"
   },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/factura-electronica-en-exportaciones/": {
+    "fecha_detectado": "2026-10-29T17:42:12.066775+00:00",
+    "nivel": "🟠",
+    "titulo": "Factura electrónica en exportaciones: DIAN distingue facturación, embarque e ingreso"
+  },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/firma-del-contador-publico-en-declaraciones-tributarias/": {
     "fecha_detectado": "2026-09-19T20:25:50.411559+00:00",
     "nivel": "🟢",
@@ -3118,6 +3148,11 @@
     "fecha_detectado": "2026-10-08T18:05:01.961559+00:00",
     "nivel": "🟢",
     "titulo": "UVT 2027 en Colombia: Valor estimado, cálculo y topes tributarios"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/vencimientos-de-obligaciones-fiscales-en-noviembre/": {
+    "fecha_detectado": "2026-10-29T17:42:12.066704+00:00",
+    "nivel": "🟠",
+    "titulo": "Obligaciones fiscales en noviembre de 2026: Calendario DIAN, fechas de vencimiento y novedades para contadores"
   },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/vencimientos-de-obligaciones-fiscales-en-octubre/": {
     "fecha_detectado": "2026-09-29T21:36:46.369997+00:00",
