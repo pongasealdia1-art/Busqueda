@@ -1,4 +1,9 @@
 {
+  "accounter.co::https://accounter.co/boletines/7ma-edicion-retos-2027-actualizacion-fiscal-niif-laboral-documentos-electronicos-ia": {
+    "fecha_detectado": "2026-10-30T21:45:43.160054+00:00",
+    "nivel": "🟢",
+    "titulo": "7ma. Edición Retos 2027 - Actualización Fiscal, NIIF, Laboral, Documentos electrónicos + IA"
+  },
   "accounter.co::https://accounter.co/boletines/seminario-con-pago-planeacion-tributaria-2027-naturales-juridicas-e-ia": {
     "fecha_detectado": "2026-10-21T16:13:14.243182+00:00",
     "nivel": "🟢",
@@ -754,6 +759,11 @@
     "nivel": "🟡",
     "titulo": "Gobierno propone modificar decreto sobre pago de seguridad social para trabajadores de plataformas"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/ilegal-despido-de-trabajador-con-epilepsia-cuyo-contrato-finalizo-bajo-la-fachada": {
+    "fecha_detectado": "2026-10-30T21:45:39.917486+00:00",
+    "nivel": "🟢",
+    "titulo": "Ilegal despido de trabajador con epilepsia cuyo contrato finalizó bajo la fachada de reorganización interna"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/ineficacia-de-traslado-de-un-regimen-pensional-otro-no-procede-cuando-quien": {
     "fecha_detectado": "2026-09-23T20:47:38.519061+00:00",
     "nivel": "🟢",
@@ -838,6 +848,11 @@
     "fecha_detectado": "2026-10-21T20:59:07.351226+00:00",
     "nivel": "🟡",
     "titulo": "Presidencia propone derogar decreto que reguló pactos colectivos"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/procedimiento-rapido-de-fuero-sindical-casos-de-estabilidad-laboral-reforzada-no": {
+    "fecha_detectado": "2026-10-30T21:45:39.917414+00:00",
+    "nivel": "🟢",
+    "titulo": "Procedimiento rápido de fuero sindical a casos de estabilidad laboral reforzada no viola reserva de ley estatutaria"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/proponen-ajustar-reglas-laborales-para-periodistas-y-comunicadores": {
     "fecha_detectado": "2026-10-21T01:04:14.330790+00:00",
@@ -2233,6 +2248,11 @@
     "fecha_detectado": "2026-09-30T17:07:44.830828+00:00",
     "nivel": "🟢",
     "titulo": "Monto de la pensión de sobrevivientes"
+  },
+  "gerencie.com::https://www.gerencie.com/multiples-descuentos-de-salario-por-embargos-y-libranzas.html": {
+    "fecha_detectado": "2026-10-30T21:45:43.833259+00:00",
+    "nivel": "🟢",
+    "titulo": "Varios embargos y libranzas sobre el mismo salario: prelación y límites"
   },
   "gerencie.com::https://www.gerencie.com/normas-imperativas-y-supletorias.html": {
     "fecha_detectado": "2026-10-19T21:49:10.777595+00:00",
