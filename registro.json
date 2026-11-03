@@ -99,6 +99,11 @@
     "nivel": "🟢",
     "titulo": "NUEVO – Retención en la fuente por rentas de trabajo: Procedimiento1 (Exclusivo afiliados)"
   },
+  "accounter.co::https://accounter.co/normatividad/alcance-de-los-terminos-revisar-y-aprobar-y-periodicidad-de-los-estados-financieros-concepto-ctcp-2026-182": {
+    "fecha_detectado": "2026-11-03T18:45:11.923901+00:00",
+    "nivel": "🟠",
+    "titulo": "Alcance de los términos revisar y aprobar y periodicidad de los estados financieros — Concepto CTCP 2026-182"
+  },
   "accounter.co::https://accounter.co/normatividad/alcance-territorial-de-las-medidas-tributarias-adoptadas-por-el-decreto-1419-de-2026-concepto-dian-100208192-1737-de-2026": {
     "fecha_detectado": "2026-09-23T15:41:22.067088+00:00",
     "nivel": "🟠",
@@ -529,6 +534,11 @@
     "nivel": "🟠",
     "titulo": "DIAN - Prográmese, cuatro martes de capacitación para entender el Sistema de Factura Electrónica"
   },
+  "accounter.co::https://accounter.co/noticias/actualidad/dian-su-factura-electronica-tiene-errores-o-no-reconoce-la-compra-le-explicamos-que-debe-hacer": {
+    "fecha_detectado": "2026-11-03T18:45:11.923936+00:00",
+    "nivel": "🟠",
+    "titulo": "DIAN - ¿Su factura electrónica tiene errores o no reconoce la compra? Le explicamos qué debe hacer"
+  },
   "accounter.co::https://accounter.co/noticias/actualidad/dian-usuarios-del-mercado-cambiario-pueden-acogerse-a-una-reduccion-del-15-en-sanciones-por-pago-extemporaneo-hasta-el-19-de-noviembre": {
     "fecha_detectado": "2026-10-08T18:05:07.775823+00:00",
     "nivel": "🟠",
@@ -559,6 +569,11 @@
     "nivel": "🟢",
     "titulo": "Editorial Tributar Asesores SAS - Bogotá ofrece reducción del 60% en sanciones e intereses para ponerse al día"
   },
+  "accounter.co::https://accounter.co/noticias/actualidad/editorial-tributar-asesores-sas-el-proyecto-de-ley-de-rescate-no-deroga-el-impuesto-al-patrimonio-lo-vuelve-temporal-de-2027-a-2030-documento-tributar-io-1030-de-2026": {
+    "fecha_detectado": "2026-11-03T18:45:11.923924+00:00",
+    "nivel": "🟢",
+    "titulo": "Editorial Tributar Asesores SAS - El proyecto de ley de rescate no deroga el impuesto al patrimonio: lo vuelve temporal de 2027 a 2030 — Documento TRIBUTAR-io 1030 de 2026"
+  },
   "accounter.co::https://accounter.co/noticias/actualidad/hacienda-bogota-un-salvavidas-para-ponerse-al-dia-con-bogota-alivios-del-60-para-impuestos-y-otras-deudas-con-el-distrito": {
     "fecha_detectado": "2026-10-05T19:51:31.547357+00:00",
     "nivel": "🟢",
@@ -568,6 +583,11 @@
     "fecha_detectado": "2026-09-24T16:02:15.073677+00:00",
     "nivel": "🟠",
     "titulo": "La Republica - La DIAN aclaró que morosos de todo el país podrán pagar solo 15% de sus sanciones"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/proyecto-de-ley-de-rescate-economico-propone-austeridad-y-cambios-tributarios-para-estabilizar-las-finanzas-publicas": {
+    "fecha_detectado": "2026-11-03T18:45:11.923863+00:00",
+    "nivel": "🟢",
+    "titulo": "Proyecto de Ley de Rescate Económico propone austeridad y cambios tributarios para estabilizar las finanzas públicas Proyecto de Ley de Rescate Económico propone austeridad y cambios tributarios para estabilizar las finanzas públicas"
   },
   "accounter.co::https://accounter.co/noticias/editorial/autorretencion-especial-sin-exoneracion-de-aportes-no-hay-obligacion-de-autorretener": {
     "fecha_detectado": "2026-10-13T18:35:58.388252+00:00",
@@ -2748,6 +2768,11 @@
     "fecha_detectado": "2026-10-27T16:57:15.533418+00:00",
     "nivel": "🟢",
     "titulo": "OCDE: medidas para la gestión presupuestaria de los gastos tributarios"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/estandares-internacionales/2026/11/ocde-reducir-las-tarifas-de-renta-no-incentiva-la-creacion-empresarial/": {
+    "fecha_detectado": "2026-11-03T18:45:06.251193+00:00",
+    "nivel": "🟢",
+    "titulo": "OCDE: reducir las tarifas de renta no incentiva la creación empresarial"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/09/concejo-de-bogota-inicio-segundo-debate-del-proyecto-de-reforma-tributaria-distrital/": {
     "fecha_detectado": "2026-09-21T17:18:25.151731+00:00",
