@@ -39,6 +39,11 @@
     "nivel": "🟢",
     "titulo": "Protegido: Pack descargable: 10 prompts de IA para auditoría y Revisoría Fiscal"
   },
+  "accounter.co::https://accounter.co/herramientas/152648": {
+    "fecha_detectado": "2026-11-04T18:58:16.407148+00:00",
+    "nivel": "🟢",
+    "titulo": "Modelo - Contrato individual de trabajo a término fijo (Exclusivo afiliados)"
+  },
   "accounter.co::https://accounter.co/herramientas/calculadora-laboral-2026-horas-extras-costo-y-trabajo-por-horas-exclusivo-afiliados": {
     "fecha_detectado": "2026-10-20T15:56:34.974792+00:00",
     "nivel": "🟢",
@@ -93,6 +98,11 @@
     "fecha_detectado": "2026-10-08T18:05:07.775739+00:00",
     "nivel": "🟡",
     "titulo": "NUEVO - Liquidador interactivo de sanción por información exógena con aplicación beneficio tasa del Decreto 1419 de 2026 (Exclusivo afiliados)"
+  },
+  "accounter.co::https://accounter.co/herramientas/nuevo-liquidador-interactivo-intereses-moratorios-con-aplicacion-beneficio-tasa-del-decreto-1419-de-2026-exclusivo-afiliados": {
+    "fecha_detectado": "2026-11-04T18:58:16.407125+00:00",
+    "nivel": "🟡",
+    "titulo": "Liquidador intereses moratorios interactivo con aplicación beneficio tasa Decreto 1419 de 2026 (Noviembre) (Exclusivo afiliados)"
   },
   "accounter.co::https://accounter.co/herramientas/nuevo-retencion-en-rentas-de-trabajo-procedimiento-1-online": {
     "fecha_detectado": "2026-10-14T16:04:54.022328+00:00",
@@ -589,6 +599,11 @@
     "nivel": "🟢",
     "titulo": "Proyecto de Ley de Rescate Económico propone austeridad y cambios tributarios para estabilizar las finanzas públicas Proyecto de Ley de Rescate Económico propone austeridad y cambios tributarios para estabilizar las finanzas públicas"
   },
+  "accounter.co::https://accounter.co/noticias/actualidad/rescate-economico-el-gobierno-propone-bajar-la-renta-empresarial-y-ampliar-la-base-del-iva": {
+    "fecha_detectado": "2026-11-04T18:58:16.407078+00:00",
+    "nivel": "🟢",
+    "titulo": "Accounter |  Rescate Económico: el Gobierno propone bajar la renta empresarial y ampliar la base del IVA"
+  },
   "accounter.co::https://accounter.co/noticias/editorial/autorretencion-especial-sin-exoneracion-de-aportes-no-hay-obligacion-de-autorretener": {
     "fecha_detectado": "2026-10-13T18:35:58.388252+00:00",
     "nivel": "🟢",
@@ -863,6 +878,11 @@
     "fecha_detectado": "2026-09-19T20:25:53.114293+00:00",
     "nivel": "🟢",
     "titulo": "Precisiones formales y sustanciales sobre la cuota de inclusión laboral"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/prescripcion-de-reclamacion-pensional-requiere-descontar-demoras-administrativas-y": {
+    "fecha_detectado": "2026-11-04T18:58:13.482443+00:00",
+    "nivel": "🟢",
+    "titulo": "Prescripción de reclamación pensional requiere descontar demoras administrativas y judiciales ajenas"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/presidencia-propone-derogar-decreto-que-regulo-pactos-colectivos": {
     "fecha_detectado": "2026-10-21T20:59:07.351226+00:00",
@@ -2499,6 +2519,11 @@
     "nivel": "🟢",
     "titulo": "Reglamento interno de trabajo"
   },
+  "gerencie.com::https://www.gerencie.com/remuneracion-en-el-trabajo-por-turnos-rotatorios-por-equipos.html": {
+    "fecha_detectado": "2026-11-04T18:58:16.881867+00:00",
+    "nivel": "🟢",
+    "titulo": "Remuneración en el trabajo por turnos rotativos por equipos"
+  },
   "gerencie.com::https://www.gerencie.com/responsabilidad-solidaria-de-los-socios-frente-a-las-obligaciones-tributarias.html": {
     "fecha_detectado": "2026-10-30T02:11:51.139492+00:00",
     "nivel": "🟢",
@@ -2963,6 +2988,11 @@
     "fecha_detectado": "2026-10-05T19:51:28.389617+00:00",
     "nivel": "🟢",
     "titulo": "Tratamiento contable y clasificación de arrendamientos intragrupo bajo la nueva NIIF 18"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/11/reforma-pensional-termino-tramite-de-subsanacion-en-el-congreso/": {
+    "fecha_detectado": "2026-11-04T18:58:10.563240+00:00",
+    "nivel": "🟢",
+    "titulo": "Reforma pensional terminó trámite de subsanación"
   },
   "nexiamya.com.co::https://nexiamya.com.co/liquidacion-de-impuestos": {
     "fecha_detectado": "2026-09-19T20:25:55.897045+00:00",
