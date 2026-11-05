@@ -169,6 +169,11 @@
     "nivel": "🟠",
     "titulo": "Conversión de estados financieros comparativos: cada período conserva su tasa de cierre — Concepto CTCP 215 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/cumplimiento-del-objeto-no-es-causal-para-terminar-un-contrato-a-termino-indefinido-concepto-mintrabajo-23783-de-2026": {
+    "fecha_detectado": "2026-11-05T19:10:15.114092+00:00",
+    "nivel": "🟠",
+    "titulo": "Cumplimiento del objeto no es causal para terminar un contrato a término indefinido — Concepto MinTrabajo 23783 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/deduccion-por-inversiones-en-energias-no-convencionales-y-requisito-de-certificacion-oficio-dian-15297-de-2026": {
     "fecha_detectado": "2026-09-29T17:09:29.625403+00:00",
     "nivel": "🟠",
@@ -389,6 +394,11 @@
     "nivel": "🟠",
     "titulo": "Reconocimiento y corrección de pasivos en propiedad horizontal. Concepto CTCP 2026-204"
   },
+  "accounter.co::https://accounter.co/normatividad/reduccion-de-jornada-y-permisos-remunerados-son-figuras-juridicas-distintas-concepto-mintrabajo-23788-de-2026": {
+    "fecha_detectado": "2026-11-05T19:10:15.114120+00:00",
+    "nivel": "🟠",
+    "titulo": "Reducción de jornada y permisos remunerados son figuras jurídicas distintas — Concepto MinTrabajo 23788 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/reduccion-transitoria-de-sanciones-e-intereses-no-constituye-ingreso-gravado-en-renta-ni-en-el-regimen-simple-concepto-dian-11603-de-2026": {
     "fecha_detectado": "2026-10-21T16:13:14.243238+00:00",
     "nivel": "🟠",
@@ -433,6 +443,11 @@
     "fecha_detectado": "2026-10-20T15:56:34.974828+00:00",
     "nivel": "🟠",
     "titulo": "Trabajadores de dirección, confianza y manejo no tienen horas extras, pero sí dominicales y festivos — Concepto MinTrabajo 19772 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/trabajo-dominical-habitual-exige-recargo-y-descanso-compensatorio-remunerado-concepto-mintrabajo-24429-de-2026": {
+    "fecha_detectado": "2026-11-05T19:10:15.114049+00:00",
+    "nivel": "🟠",
+    "titulo": "Trabajo dominical habitual exige recargo y descanso compensatorio remunerado — Concepto MinTrabajo 24429 de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/tratamiento-contable-del-fraude-y-cuotas-extraordinarias-en-propiedad-horizontal-concepto-ctcp-2026-0213": {
     "fecha_detectado": "2026-10-05T19:51:31.547240+00:00",
@@ -2894,6 +2909,11 @@
     "nivel": "🟢",
     "titulo": "Utilidades transferidas a casa matriz en el exterior se gravan con renta"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/dian-modifico-los-formatos-y-requisitos-para-reportar-informacion-exogena-tributaria/": {
+    "fecha_detectado": "2026-11-05T19:10:09.579229+00:00",
+    "nivel": "🟠",
+    "titulo": "DIAN modificó los formatos y requisitos para reportar información exógena tributaria"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/09/concejo-de-bogota-aprobo-reforma-tributaria-que-recaudara-108-billones/": {
     "fecha_detectado": "2026-09-30T17:07:20.060196+00:00",
     "nivel": "🔴",
@@ -2993,6 +3013,11 @@
     "fecha_detectado": "2026-11-04T18:58:10.563240+00:00",
     "nivel": "🟢",
     "titulo": "Reforma pensional terminó trámite de subsanación"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/11/tope-de-activos-para-tener-revisor-fiscal-en-sociedades-en-liquidacion/": {
+    "fecha_detectado": "2026-11-05T19:10:09.579189+00:00",
+    "nivel": "🟢",
+    "titulo": "Tope de activos para tener revisor fiscal en sociedades en liquidación"
   },
   "nexiamya.com.co::https://nexiamya.com.co/liquidacion-de-impuestos": {
     "fecha_detectado": "2026-09-19T20:25:55.897045+00:00",
