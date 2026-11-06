@@ -159,6 +159,11 @@
     "nivel": "🟠",
     "titulo": "Certificación de hechos contables en propiedad horizontal — Concepto CTCP 216 de 2026."
   },
+  "accounter.co::https://accounter.co/normatividad/clasificacion-contable-del-leasing-segun-su-sustancia-y-su-traslado-en-escisiones-oficio-supersociedades-115-315539-de-2026": {
+    "fecha_detectado": "2026-11-06T18:37:04.867180+00:00",
+    "nivel": "🟢",
+    "titulo": "Clasificación contable del leasing según su sustancia y su traslado en escisiones — Oficio Supersociedades 115-315539 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/contrato-a-termino-fijo-no-puede-superar-cuatro-anos-con-prorrogas-so-pena-de-volverse-indefinido-concepto-mintrabajo-55488-de-2026": {
     "fecha_detectado": "2026-10-19T17:52:32.902159+00:00",
     "nivel": "🟠",
@@ -374,6 +379,11 @@
     "nivel": "🟠",
     "titulo": "Pensión de invalidez o vejez puede invocarse como justa causa de terminación sin límite de inmediatez — Concepto MinTrabajo 33344 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/prima-de-emision-por-cobrar-como-partida-del-patrimonio-y-no-como-activo-oficio-supersociedades-115-311809-de-2026": {
+    "fecha_detectado": "2026-11-06T18:37:04.867209+00:00",
+    "nivel": "🟢",
+    "titulo": "Prima de emisión por cobrar como partida del patrimonio y no como activo — Oficio Supersociedades 115-311809 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/readmision-de-entidades-del-sector-cooperativo-al-regimen-tributario-especial-computo-del-plazo-de-tres-anos-concepto-dian-16169-de-2026": {
     "fecha_detectado": "2026-09-30T21:37:31.672782+00:00",
     "nivel": "🟠",
@@ -478,6 +488,11 @@
     "fecha_detectado": "2026-09-23T15:41:22.067128+00:00",
     "nivel": "🟠",
     "titulo": "Asunto Legales - Retención en servicios con AIU: la DIAN cambia su criterio"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/asuntos-legales-accion-derivada-una-solucion-a-medias-para-el-minoritario": {
+    "fecha_detectado": "2026-11-06T18:37:04.867228+00:00",
+    "nivel": "🟢",
+    "titulo": "Asuntos Legales - Acción derivada: una solución a medias para el minoritario"
   },
   "accounter.co::https://accounter.co/noticias/actualidad/asuntos-legales-decreto-1418-de-2026-herramientas-societarias-tras-el-sismo": {
     "fecha_detectado": "2026-10-30T17:21:59.462424+00:00",
@@ -623,6 +638,11 @@
     "fecha_detectado": "2026-10-13T18:35:58.388252+00:00",
     "nivel": "🟢",
     "titulo": "Accounter | Autorretención especial: sin exoneración de aportes no hay obligación de autorretener"
+  },
+  "accounter.co::https://accounter.co/noticias/editorial/editorial-tributar-asesores-sas-si-la-exoneracion-de-aportes-se-limita-a-empleados-de-hasta-dos-salarios-minimos-la-autorretencion-especial-solo-aplicaria-a-empleadores-con-trabajadores-dentro-de-e": {
+    "fecha_detectado": "2026-11-06T18:37:04.867134+00:00",
+    "nivel": "🟢",
+    "titulo": "Editorial Tributar Asesores SAS - Si la exoneración de aportes se limita a empleados de hasta dos salarios mínimos, la autorretención especial solo aplicaría a empleadores con trabajadores dentro de ese rango"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/actualidad/cuando-una-circular-deja-de-ser-una-circular": {
     "fecha_detectado": "2026-09-19T20:25:53.114637+00:00",
@@ -954,6 +974,11 @@
     "nivel": "🟢",
     "titulo": "Unifican criterio para pensión de sobrevivientes cuando causante tenía 26 años de edad o menos"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/videocolumna-como-concertar-el-salario-minimo-para-el-2027": {
+    "fecha_detectado": "2026-11-06T18:37:04.510980+00:00",
+    "nivel": "🟢",
+    "titulo": "VIDEOCOLUMNA: ¿Cómo concertar el salario mínimo para el 2027?"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/videocolumna-el-fallo-de-la-corte-constitucional-sobre-la-reforma-pensional": {
     "fecha_detectado": "2026-09-19T20:25:53.114453+00:00",
     "nivel": "🟠",
@@ -1113,6 +1138,11 @@
     "fecha_detectado": "2026-09-19T20:25:53.114153+00:00",
     "nivel": "🟢",
     "titulo": "El impuesto de alumbrado público y los estratos residenciales en Bogotá"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/endurecen-controles-aduaneros-contra-la-mineria-ilegal": {
+    "fecha_detectado": "2026-11-06T18:37:04.510849+00:00",
+    "nivel": "🟢",
+    "titulo": "Endurecen controles aduaneros contra la minería ilegal"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/esta-es-la-nueva-base-para-liquidar-iva-en-combustibles-importados": {
     "fecha_detectado": "2026-10-20T20:58:25.631902+00:00",
@@ -2594,6 +2624,11 @@
     "nivel": "🟢",
     "titulo": "Reubicación del trabajador por enfermedad laboral"
   },
+  "gerencie.com::https://www.gerencie.com/revisor-fiscal-en-la-propiedad-horizontal.html": {
+    "fecha_detectado": "2026-11-06T18:37:05.179754+00:00",
+    "nivel": "🟢",
+    "titulo": "Revisor fiscal en la propiedad horizontal"
+  },
   "gerencie.com::https://www.gerencie.com/revocatoria-directa.html": {
     "fecha_detectado": "2026-09-25T00:57:13.987475+00:00",
     "nivel": "🟠",
@@ -2919,6 +2954,11 @@
     "nivel": "🟢",
     "titulo": "Utilidades transferidas a casa matriz en el exterior se gravan con renta"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/dian-explico-que-hacer-ante-facturas-electronicas-con-errores-o-compras-no-reconocidas/": {
+    "fecha_detectado": "2026-11-06T18:37:04.020735+00:00",
+    "nivel": "🟠",
+    "titulo": "DIAN explicó qué hacer ante facturas electrónicas con errores o compras no reconocidas"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/dian-modifico-los-formatos-y-requisitos-para-reportar-informacion-exogena-tributaria/": {
     "fecha_detectado": "2026-11-05T19:10:09.579229+00:00",
     "nivel": "🟠",
@@ -3018,6 +3058,16 @@
     "fecha_detectado": "2026-10-05T19:51:28.389617+00:00",
     "nivel": "🟢",
     "titulo": "Tratamiento contable y clasificación de arrendamientos intragrupo bajo la nueva NIIF 18"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/11/ampliado-el-plazo-para-reportar-informacion-contable-publica/": {
+    "fecha_detectado": "2026-11-06T18:37:04.020661+00:00",
+    "nivel": "🟢",
+    "titulo": "Ampliado el plazo para reportar información contable pública"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/11/limites-del-revisor-fiscal-para-atender-solicitudes-de-copropietarios/": {
+    "fecha_detectado": "2026-11-06T18:37:04.020714+00:00",
+    "nivel": "🟢",
+    "titulo": "Límites del revisor fiscal para atender solicitudes de copropietarios"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/11/reforma-pensional-termino-tramite-de-subsanacion-en-el-congreso/": {
     "fecha_detectado": "2026-11-04T18:58:10.563240+00:00",
