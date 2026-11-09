@@ -1964,6 +1964,11 @@
     "nivel": "🟢",
     "titulo": "Contrato de transacción laboral"
   },
+  "gerencie.com::https://www.gerencie.com/el-impuesto-predial-en-la-propiedad-horizontal.html": {
+    "fecha_detectado": "2026-11-09T02:07:46.848794+00:00",
+    "nivel": "🟢",
+    "titulo": "El impuesto predial en la propiedad horizontal"
+  },
   "gerencie.com::https://www.gerencie.com/elementos-del-contrato-de-trabajo.html": {
     "fecha_detectado": "2026-09-27T00:59:09.975211+00:00",
     "nivel": "🟢",
@@ -2364,6 +2369,11 @@
     "nivel": "🟠",
     "titulo": "Nulidad y restablecimiento del derecho contra actos de la Dian"
   },
+  "gerencie.com::https://www.gerencie.com/obligaciones-laborales-de-la-propiedad-horizontal.html": {
+    "fecha_detectado": "2026-11-09T02:07:46.848761+00:00",
+    "nivel": "🟢",
+    "titulo": "Obligaciones laborales de la propiedad horizontal"
+  },
   "gerencie.com::https://www.gerencie.com/obligaciones-laborales-de-los-agricultores.html": {
     "fecha_detectado": "2026-10-07T01:52:07.662982+00:00",
     "nivel": "🟢",
@@ -2373,6 +2383,11 @@
     "fecha_detectado": "2026-10-04T20:36:17.728848+00:00",
     "nivel": "🟢",
     "titulo": "Obligaciones laborales en dólares no se indexan"
+  },
+  "gerencie.com::https://www.gerencie.com/obligaciones-tributarias-de-la-propiedad-horizontal.html": {
+    "fecha_detectado": "2026-11-09T02:07:46.848810+00:00",
+    "nivel": "🟢",
+    "titulo": "Obligaciones tributarias de la propiedad horizontal"
   },
   "gerencie.com::https://www.gerencie.com/obligaciones-tributarias-de-las-personas-naturales.html": {
     "fecha_detectado": "2026-10-03T15:19:49.764276+00:00",
