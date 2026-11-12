@@ -384,6 +384,11 @@
     "nivel": "🔴",
     "titulo": "Modalidad especial de Obras por Impuestos para la reconstrucción de territorios afectados por el terremoto – Decreto Legislativo 1389 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/no-hay-inhabilidad-para-aceptar-un-cliente-pero-el-contador-no-puede-sustraer-clientela-de-colegas-por-medios-desleales-concepto-ctcp-2026-245": {
+    "fecha_detectado": "2026-11-12T19:15:47.107001+00:00",
+    "nivel": "🟠",
+    "titulo": "No hay inhabilidad para aceptar un cliente, pero el contador no puede sustraer clientela de colegas por medios desleales — Concepto CTCP 2026-245"
+  },
   "accounter.co::https://accounter.co/normatividad/no-hay-un-criterio-unico-de-iva-para-la-reventa-de-servicios-se-analiza-cada-modelo-comercial-y-su-objeto-concepto-dian-17680-de-2026": {
     "fecha_detectado": "2026-11-11T18:56:49.986058+00:00",
     "nivel": "🟠",
@@ -493,6 +498,11 @@
     "fecha_detectado": "2026-10-23T16:01:37.956909+00:00",
     "nivel": "🟠",
     "titulo": "Tiempo de desplazamiento a una sede distinta a la habitual se remunera como jornada ordinaria — Concepto MinTrabajo 33365 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/tope-de-activos-para-revisor-fiscal-en-entidad-en-liquidacion-se-mide-con-valores-netos-de-liquidacion-sin-descontar-pasivos-concepto-ctcp-2026-247": {
+    "fecha_detectado": "2026-11-12T19:15:47.107028+00:00",
+    "nivel": "🟠",
+    "titulo": "Tope de activos para Revisor Fiscal en entidad en liquidación se mide con valores netos de liquidación sin descontar pasivos — Concepto CTCP 2026-247"
   },
   "accounter.co::https://accounter.co/normatividad/trabajadores-de-direccion-confianza-y-manejo-no-tienen-horas-extras-pero-si-dominicales-y-festivos-concepto-mintrabajo-19772-de-2026": {
     "fecha_detectado": "2026-10-20T15:56:34.974828+00:00",
@@ -704,6 +714,11 @@
     "nivel": "🟢",
     "titulo": "Editorial Tributar Asesores SAS - Si la exoneración de aportes se limita a empleados de hasta dos salarios mínimos, la autorretención especial solo aplicaría a empleadores con trabajadores dentro de ese rango"
   },
+  "accounter.co::https://accounter.co/noticias/editorial/factura-en-diciembre-retencion-en-enero-el-descuento-pertenece-al-ano-del-ingreso": {
+    "fecha_detectado": "2026-11-12T19:15:47.106947+00:00",
+    "nivel": "🟢",
+    "titulo": "Accounter | Factura en diciembre, retención en enero: el descuento pertenece al año del ingreso"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/actualidad/cuando-una-circular-deja-de-ser-una-circular": {
     "fecha_detectado": "2026-09-19T20:25:53.114637+00:00",
     "nivel": "🟡",
@@ -814,6 +829,11 @@
     "nivel": "🟢",
     "titulo": "Conozca el texto del fallo que declaró exequible mayoría de la reforma pensional"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/conozca-la-rentabilidad-minima-para-fondos-de-pensiones-y-cesantias": {
+    "fecha_detectado": "2026-11-12T19:15:46.589685+00:00",
+    "nivel": "🟢",
+    "titulo": "Conozca la rentabilidad mínima para fondos de pensiones y cesantías"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/corte-abre-incidente-de-impacto-fiscal-sobre-fallo-de-reforma-pensional": {
     "fecha_detectado": "2026-10-16T15:41:06.660836+00:00",
     "nivel": "🟢",
@@ -839,6 +859,11 @@
     "nivel": "🟡",
     "titulo": "Derogan resolución que cambió requisitos para prestadores de salud"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/dtf-pensional-para-bonos-emitidos-por-traslados": {
+    "fecha_detectado": "2026-11-12T19:15:46.589658+00:00",
+    "nivel": "🟢",
+    "titulo": "DTF pensional para bonos emitidos por traslados"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/el-derecho-laboral-frente-un-nuevo-mundo-del-trabajo-el-reto-de-formar": {
     "fecha_detectado": "2026-10-08T02:19:09.930731+00:00",
     "nivel": "🟢",
@@ -863,6 +888,11 @@
     "fecha_detectado": "2026-10-01T17:37:54.870128+00:00",
     "nivel": "🟢",
     "titulo": "Esta es la nueva Directora de la UGPP"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/esta-es-la-rentabilidad-para-traslados-entre-regimenes-pensionales": {
+    "fecha_detectado": "2026-11-12T19:15:46.589672+00:00",
+    "nivel": "🟢",
+    "titulo": "Esta es la rentabilidad para traslados entre regímenes pensionales"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/este-es-el-plan-de-mintrabajo-para-combatir-la-corrupcion-en-las-inspecciones": {
     "fecha_detectado": "2026-11-10T18:59:06.907279+00:00",
@@ -1099,6 +1129,21 @@
     "nivel": "🟡",
     "titulo": "Gobierno revoca Decreto 973 de 2026, que regulaba mercados de carbono"
   },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/laboral/conozca-la-rentabilidad-minima-para-fondos-de-pensiones-y-cesantias": {
+    "fecha_detectado": "2026-11-12T19:15:46.589584+00:00",
+    "nivel": "🟢",
+    "titulo": "Conozca la rentabilidad mínima para fondos de pensiones y cesantías"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/laboral/dtf-pensional-para-bonos-emitidos-por-traslados": {
+    "fecha_detectado": "2026-11-12T19:15:46.589549+00:00",
+    "nivel": "🟢",
+    "titulo": "DTF pensional para bonos emitidos por traslados"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/laboral/esta-es-la-rentabilidad-para-traslados-entre-regimenes-pensionales": {
+    "fecha_detectado": "2026-11-12T19:15:46.589570+00:00",
+    "nivel": "🟢",
+    "titulo": "Esta es la rentabilidad para traslados entre regímenes pensionales"
+  },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/penal/dian-reporta-aumento-del-507-en-aprehensiones-por-contrabando": {
     "fecha_detectado": "2026-09-19T20:25:53.113791+00:00",
     "nivel": "🟠",
@@ -1193,6 +1238,11 @@
     "fecha_detectado": "2026-11-05T22:59:17.817346+00:00",
     "nivel": "🟠",
     "titulo": "Dian amplía plazo para formalizar ayudas importadas por el terremoto"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/dian-crea-comites-especiales-para-conciliaciones-tributarias-y-aduaneras": {
+    "fecha_detectado": "2026-11-12T19:15:46.589521+00:00",
+    "nivel": "🟠",
+    "titulo": "Dian crea comités especiales para conciliaciones tributarias y aduaneras"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/dian-despliega-estrategia-de-acompanamiento-contribuyentes-afectados-por": {
     "fecha_detectado": "2026-10-10T16:29:28.329469+00:00",
@@ -3088,6 +3138,16 @@
     "fecha_detectado": "2026-10-15T15:53:17.699327+00:00",
     "nivel": "🟢",
     "titulo": "Utilidades transferidas a casa matriz en el exterior se gravan con renta"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/aportes-de-pension-el-exterior-no-tienen-beneficio-tributario-en-colombia/": {
+    "fecha_detectado": "2026-11-12T19:15:43.303203+00:00",
+    "nivel": "🟢",
+    "titulo": "Aportes de pensión en el exterior no tienen beneficio tributario en Colombia"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/bogota-publico-proyecto-de-decreto-para-unificar-las-normas-tributarias-distritales-en-un-solo-estatuto/": {
+    "fecha_detectado": "2026-11-12T19:15:43.303240+00:00",
+    "nivel": "🟡",
+    "titulo": "Bogotá publicó proyecto de decreto para unificar las normas tributarias distritales en un solo estatuto"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/dian-explico-que-hacer-ante-facturas-electronicas-con-errores-o-compras-no-reconocidas/": {
     "fecha_detectado": "2026-11-06T18:37:04.020735+00:00",
