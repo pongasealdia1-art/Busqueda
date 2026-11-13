@@ -299,6 +299,11 @@
     "nivel": "🟢",
     "titulo": "Inexistencia de obligación general de reportar estados financieros intermedios ante Supersociedades – Oficio 115-001292 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/informacion-financiera-periodica-en-propiedad-horizontal-no-siempre-constituye-estados-financieros-de-proposito-general-concepto-ctcp-2026-218": {
+    "fecha_detectado": "2026-11-13T18:52:38.536943+00:00",
+    "nivel": "🟠",
+    "titulo": "Información financiera periódica en propiedad horizontal no siempre constituye estados financieros de propósito general — Concepto CTCP 2026-218"
+  },
   "accounter.co::https://accounter.co/normatividad/instrumentos-sin-vencimiento-fijo-y-reconocimiento-fiscal-de-deudas-concepto-dian-15520-de-2026": {
     "fecha_detectado": "2026-09-29T17:09:29.625369+00:00",
     "nivel": "🟠",
@@ -368,6 +373,11 @@
     "fecha_detectado": "2026-10-15T15:53:19.174423+00:00",
     "nivel": "🟠",
     "titulo": "Las utilidades transferidas por una sucursal colombiana a su principal en Perú están gravadas – Concepto DIAN 16345 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/ley-2466-de-2025-elimino-la-autorizacion-previa-del-ministerio-para-laborar-horas-extras-concepto-mintrabajo-33307-de-2026": {
+    "fecha_detectado": "2026-11-13T18:52:38.536881+00:00",
+    "nivel": "🟠",
+    "titulo": "Ley 2466 de 2025 eliminó la autorización previa del Ministerio para laborar horas extras — Concepto MinTrabajo 33307 de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/limites-de-las-funciones-del-revisor-fiscal-en-una-copropiedad-frente-a-la-gestion-administrativa-concepto-ctcp-2026-172": {
     "fecha_detectado": "2026-10-22T16:11:45.533477+00:00",
@@ -453,6 +463,11 @@
     "fecha_detectado": "2026-11-05T19:10:15.114120+00:00",
     "nivel": "🟠",
     "titulo": "Reducción de jornada y permisos remunerados son figuras jurídicas distintas — Concepto MinTrabajo 23788 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/reduccion-de-la-jornada-maxima-legal-no-modifica-la-jornada-de-medio-tiempo-pactada-concepto-mintrabajo-33310-de-2026": {
+    "fecha_detectado": "2026-11-13T18:52:38.536918+00:00",
+    "nivel": "🟠",
+    "titulo": "Reducción de la jornada máxima legal no modifica la jornada de medio tiempo pactada — Concepto MinTrabajo 33310 de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/reduccion-transitoria-de-sanciones-e-intereses-no-constituye-ingreso-gravado-en-renta-ni-en-el-regimen-simple-concepto-dian-11603-de-2026": {
     "fecha_detectado": "2026-10-21T16:13:14.243238+00:00",
@@ -1054,6 +1069,11 @@
     "nivel": "🟢",
     "titulo": "Reforma pensional: cuidar no es lo mismo que ser madre"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/seis-entidades-del-gobierno-analizan-cifras-para-definicion-del-salario-minimo": {
+    "fecha_detectado": "2026-11-13T18:52:36.208157+00:00",
+    "nivel": "🟢",
+    "titulo": "Seis entidades del Gobierno analizan cifras para definición del salario mínimo"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/silvia-pension-de-sobrevivientes-un-respaldo-economico-tras-la-muerte-del-afiliado": {
     "fecha_detectado": "2026-10-10T16:29:28.329663+00:00",
     "nivel": "🟢",
@@ -1253,6 +1273,11 @@
     "fecha_detectado": "2026-10-10T16:29:28.329469+00:00",
     "nivel": "🟠",
     "titulo": "Dian despliega estrategia de acompañamiento a contribuyentes afectados por terremoto en el Valle"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/dian-niega-tratos-preferenciales-en-solicitudes-de-facilidades-de-pago": {
+    "fecha_detectado": "2026-11-13T18:52:36.208048+00:00",
+    "nivel": "🟠",
+    "titulo": "Dian niega tratos preferenciales en solicitudes de facilidades de pago"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/dian-pretende-recuperar-128-billones-en-retenciones-en-la-fuente": {
     "fecha_detectado": "2026-09-19T20:25:53.113750+00:00",
@@ -3154,6 +3179,11 @@
     "nivel": "🟡",
     "titulo": "Bogotá publicó proyecto de decreto para unificar las normas tributarias distritales en un solo estatuto"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/dian-explico-como-evitar-la-clausura-de-establecimientos/": {
+    "fecha_detectado": "2026-11-13T18:52:34.531498+00:00",
+    "nivel": "🟠",
+    "titulo": "DIAN explicó cómo evitar la clausura de establecimientos"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/dian-explico-que-hacer-ante-facturas-electronicas-con-errores-o-compras-no-reconocidas/": {
     "fecha_detectado": "2026-11-06T18:37:04.020735+00:00",
     "nivel": "🟠",
@@ -3168,6 +3198,11 @@
     "fecha_detectado": "2026-11-11T18:56:45.951175+00:00",
     "nivel": "🟡",
     "titulo": "Exclusión voluntaria del SIMPLE no requiere resolución administrativa"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/la-renta-exenta-por-venta-de-predios-para-vis-y-vip-esta-sujeta-al-limite-del-40-y-1-340-uvt/": {
+    "fecha_detectado": "2026-11-13T18:52:34.531543+00:00",
+    "nivel": "🟢",
+    "titulo": "La renta exenta por venta de predios para VIS y VIP está sujeta al límite del 40 % y 1.340 UVT"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/se-pierde-el-beneficio-de-auditoria-por-falta-de-pago-de-retenciones/": {
     "fecha_detectado": "2026-11-09T21:41:38.260146+00:00",
