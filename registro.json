@@ -1254,6 +1254,11 @@
     "nivel": "🟠",
     "titulo": "DIAN adopta medidas cautelares sobre mercancías avaluadas en $ 108.621 millones"
   },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/dian-advierte-sobre-filtracion-de-informacion-reservada": {
+    "fecha_detectado": "2026-11-13T22:58:55.143215+00:00",
+    "nivel": "🟠",
+    "titulo": "Dian advierte sobre filtración de información reservada"
+  },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/dian-agiliza-donacion-de-mercancias-para-atender-emergencia-por-sismo": {
     "fecha_detectado": "2026-11-12T22:56:41.121401+00:00",
     "nivel": "🟠",
@@ -1444,6 +1449,11 @@
     "nivel": "🟢",
     "titulo": "Proyecto de norma busca garantizar continuidad de operaciones aduaneras por Urabá"
   },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/reforma-tributaria-correcta": {
+    "fecha_detectado": "2026-11-13T22:58:55.143240+00:00",
+    "nivel": "🔴",
+    "titulo": "¿Reforma tributaria correcta?"
+  },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/reforma-tributaria-pide-eliminar-iva-del-5-y-ampliar-base-del-impuesto-sobre-la": {
     "fecha_detectado": "2026-10-30T17:21:56.729163+00:00",
     "nivel": "🔴",
@@ -1473,6 +1483,11 @@
     "fecha_detectado": "2026-09-28T22:42:53.711645+00:00",
     "nivel": "🟠",
     "titulo": "¿Tiene fuerza de ley el comunicado de prensa 122 de la Dian?"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/tutorial-para-cumplir-con-sus-obligaciones-tributarias": {
+    "fecha_detectado": "2026-11-13T22:58:55.143273+00:00",
+    "nivel": "🟢",
+    "titulo": "Tutorial para cumplir con sus obligaciones tributarias"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/unificacion-de-jurisprudencia-radicacion-tardia-de-tornaguia-no-elimina": {
     "fecha_detectado": "2026-10-02T21:32:22.165511+00:00",
@@ -1548,6 +1563,11 @@
     "fecha_detectado": "2026-10-21T20:59:12.437541+00:00",
     "nivel": "🟠",
     "titulo": "Concepto 1997(08192)"
+  },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-2242.html": {
+    "fecha_detectado": "2026-11-13T22:58:57.856384+00:00",
+    "nivel": "🟠",
+    "titulo": "Concepto 2242"
   },
   "cijuf.org.co::https://cijuf.org.co/normatividad/decreto-unico-reglamentario/2015/dur-en-materia-contable.html": {
     "fecha_detectado": "2026-09-19T20:26:00.041874+00:00",
@@ -1829,6 +1849,11 @@
     "nivel": "🟢",
     "titulo": "Calculadora de la reducción de semanas por hijos para la pensión"
   },
+  "gerencie.com::https://www.gerencie.com/calculadora-requisitos-pension-vejez.html": {
+    "fecha_detectado": "2026-11-13T22:58:55.565356+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de requisitos para la pensión de vejez"
+  },
   "gerencie.com::https://www.gerencie.com/calculadora-retencion-en-la-fuente-prima-de-servicios.html": {
     "fecha_detectado": "2026-09-20T19:55:10.136318+00:00",
     "nivel": "🟢",
@@ -2053,6 +2078,11 @@
     "fecha_detectado": "2026-10-06T21:58:40.590576+00:00",
     "nivel": "🟢",
     "titulo": "¿El servidor público puede recibir sueldo y pensión?"
+  },
+  "gerencie.com::https://www.gerencie.com/cuanto-cuesta-un-trabajador-con-salario-minimo.html": {
+    "fecha_detectado": "2026-11-13T22:58:55.565377+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Cuánto cuesta un trabajador con salario mínimo?"
   },
   "gerencie.com::https://www.gerencie.com/deducciones-de-nomina-por-aportes-a-salud-y-pension-cuando-las-vacaciones-son-disfrutadas-y-pagadas.html": {
     "fecha_detectado": "2026-10-02T16:56:31.877090+00:00",
@@ -2844,6 +2874,11 @@
     "nivel": "🟢",
     "titulo": "RUT – Registro Único Tributario"
   },
+  "gerencie.com::https://www.gerencie.com/salario-en-especie.html": {
+    "fecha_detectado": "2026-11-13T22:58:55.565296+00:00",
+    "nivel": "🟢",
+    "titulo": "Salario en especie y pago en especie: qué son, límites y cuándo constituyen salario"
+  },
   "gerencie.com::https://www.gerencie.com/salario-promedio-para-liquidar-prestaciones-sociales.html": {
     "fecha_detectado": "2026-09-28T18:51:52.896601+00:00",
     "nivel": "🟢",
@@ -2993,6 +3028,11 @@
     "fecha_detectado": "2026-10-04T02:12:09.587736+00:00",
     "nivel": "🟢",
     "titulo": "Tratamiento tributario de los aportes en especie a sociedades"
+  },
+  "gerencie.com::https://www.gerencie.com/vacaciones-laborales.html": {
+    "fecha_detectado": "2026-11-13T22:58:55.565337+00:00",
+    "nivel": "🟢",
+    "titulo": "Vacaciones laborales: cuántos días son, cuándo se causan y cómo se pagan"
   },
   "gerencie.com::https://www.gerencie.com/validez-del-paz-y-salvo-que-la-empresa-hace-firmar-a-los-trabajadores.html": {
     "fecha_detectado": "2026-10-07T01:52:07.663015+00:00",
