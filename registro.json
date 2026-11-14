@@ -2459,6 +2459,11 @@
     "nivel": "🟢",
     "titulo": "Límites a la base de aportes a seguridad social"
   },
+  "gerencie.com::https://www.gerencie.com/limites-a-los-pagos-no-constitutivos-de-salario.html": {
+    "fecha_detectado": "2026-11-14T02:45:29.154346+00:00",
+    "nivel": "🟢",
+    "titulo": "Límite del 40 % a los pagos no constitutivos de salario"
+  },
   "gerencie.com::https://www.gerencie.com/liquidacion-privada-de-impuestos.html": {
     "fecha_detectado": "2026-09-23T15:41:22.304396+00:00",
     "nivel": "🟢",
