@@ -2089,6 +2089,11 @@
     "nivel": "🟢",
     "titulo": "¿Cuánto cuesta un trabajador con salario mínimo?"
   },
+  "gerencie.com::https://www.gerencie.com/deduccion-por-perdida-de-inventarios.html": {
+    "fecha_detectado": "2026-11-14T21:46:29.137041+00:00",
+    "nivel": "🟢",
+    "titulo": "Pérdida, deterioro y destrucción de inventarios en renta"
+  },
   "gerencie.com::https://www.gerencie.com/deducciones-de-nomina-por-aportes-a-salud-y-pension-cuando-las-vacaciones-son-disfrutadas-y-pagadas.html": {
     "fecha_detectado": "2026-10-02T16:56:31.877090+00:00",
     "nivel": "🟢",
@@ -2233,6 +2238,11 @@
     "fecha_detectado": "2026-09-24T00:56:21.635875+00:00",
     "nivel": "🟠",
     "titulo": "Formulario 210 de la Dian en Excel"
+  },
+  "gerencie.com::https://www.gerencie.com/generador-de-carta-de-renuncia.html": {
+    "fecha_detectado": "2026-11-14T21:46:29.136960+00:00",
+    "nivel": "🟢",
+    "titulo": "Generador de carta de renuncia y otros documentos laborales"
   },
   "gerencie.com::https://www.gerencie.com/generador-de-contratos-de-trabajo-en-linea-con-ia.html": {
     "fecha_detectado": "2026-10-06T17:31:03.639909+00:00",
@@ -2429,10 +2439,20 @@
     "nivel": "🟠",
     "titulo": "Intereses moratorios Dian"
   },
+  "gerencie.com::https://www.gerencie.com/interrupcion-y-suspension-de-la-prescripcion-de-la-accion-de-cobro-de-los-impuestos.html": {
+    "fecha_detectado": "2026-11-14T21:46:29.137013+00:00",
+    "nivel": "🟢",
+    "titulo": "Interrupción y suspensión de la prescripción de la acción de cobro de los impuestos"
+  },
   "gerencie.com::https://www.gerencie.com/invertir-en-la-pension-es-una-buena-inversion.html": {
     "fecha_detectado": "2026-10-16T00:51:07.981199+00:00",
     "nivel": "🟢",
     "titulo": "¿Cotizar más a pensión es una buena inversión?"
+  },
+  "gerencie.com::https://www.gerencie.com/jornada-laboral-por-turnos.html": {
+    "fecha_detectado": "2026-11-14T21:46:29.136992+00:00",
+    "nivel": "🟢",
+    "titulo": "Jornada laboral por turnos"
   },
   "gerencie.com::https://www.gerencie.com/la-cuenta-t.html": {
     "fecha_detectado": "2026-10-07T18:03:02.675397+00:00",
