@@ -1774,6 +1774,11 @@
     "nivel": "🟢",
     "titulo": "Calculadora de porcentaje de pensión (Tasa de reemplazo)"
   },
+  "gerencie.com::https://www.gerencie.com/calculadora-de-prepensionado.html": {
+    "fecha_detectado": "2026-11-15T18:05:48.344189+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de prepensionado: cómo usarla e interpretar el resultado"
+  },
   "gerencie.com::https://www.gerencie.com/calculadora-de-reduccion-de-sanciones-tributarias.html": {
     "fecha_detectado": "2026-09-20T19:55:10.136351+00:00",
     "nivel": "🟢",
