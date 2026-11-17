@@ -164,6 +164,11 @@
     "nivel": "🟠",
     "titulo": "Beneficio de auditoría en declaraciones con compensación de pérdidas fiscales — Concepto 15291 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/bienes-comunes-no-esenciales-desafectados-se-contabilizan-con-el-marco-tecnico-que-aplique-la-copropiedad-concepto-ctcp-2026-244": {
+    "fecha_detectado": "2026-11-17T20:09:30.463798+00:00",
+    "nivel": "🟠",
+    "titulo": "Bienes comunes no esenciales desafectados se contabilizan con el marco técnico que aplique la copropiedad — Concepto CTCP 2026-244"
+  },
   "accounter.co::https://accounter.co/normatividad/bogota-ajusta-las-sanciones-por-informacion-tributaria-y-permite-subsanar-con-reduccion-acuerdo-1084-del-concejo-de-bogota-2026": {
     "fecha_detectado": "2026-10-14T16:04:54.022388+00:00",
     "nivel": "🟢",
@@ -318,6 +323,11 @@
     "fecha_detectado": "2026-09-24T16:02:15.073658+00:00",
     "nivel": "🟠",
     "titulo": "Intereses sobre cesantías: su nombre legal no determina una clasificación financiera — Concepto CTCP 226 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/inversion-con-influencia-significativa-se-clasifica-como-asociada-y-se-mide-segun-la-seccion-14-de-la-niif-para-las-pymes-concepto-ctcp-2026-249": {
+    "fecha_detectado": "2026-11-17T20:09:30.463864+00:00",
+    "nivel": "🟠",
+    "titulo": "Inversión con influencia significativa se clasifica como asociada y se mide según la Sección 14 de la NIIF para las Pymes — Concepto CTCP 2026-249"
   },
   "accounter.co::https://accounter.co/normatividad/la-deduccion-de-72-uvt-por-dependiente-no-se-reconoce-proporcionalmente-dentro-del-ano-gravable-concepto-dian-17001-de-2026": {
     "fecha_detectado": "2026-10-29T17:42:16.634879+00:00",
@@ -529,6 +539,11 @@
     "nivel": "🟠",
     "titulo": "Trabajo dominical habitual exige recargo y descanso compensatorio remunerado — Concepto MinTrabajo 24429 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/transicion-del-grupo-1-al-grupo-2-exige-aplicar-la-seccion-35-de-la-niif-para-las-pymes-y-mantener-politicas-uniformes-en-la-consolidacion-concepto-ctcp-2026-246": {
+    "fecha_detectado": "2026-11-17T20:09:30.463844+00:00",
+    "nivel": "🟠",
+    "titulo": "Transición del Grupo 1 al Grupo 2 exige aplicar la Sección 35 de la NIIF para las Pymes y mantener políticas uniformes en la consolidación — Concepto CTCP 2026-246"
+  },
   "accounter.co::https://accounter.co/normatividad/tratamiento-contable-del-fraude-y-cuotas-extraordinarias-en-propiedad-horizontal-concepto-ctcp-2026-0213": {
     "fecha_detectado": "2026-10-05T19:51:31.547240+00:00",
     "nivel": "🟠",
@@ -603,6 +618,11 @@
     "fecha_detectado": "2026-10-01T17:37:57.634237+00:00",
     "nivel": "🟢",
     "titulo": "Editorial Accounter | Autorretención especial: los topes mínimos de renta también cuentan"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/ctcp-se-abre-discusion-publica-del-documento-sobre-las-niif-s1-y-niif-s2-de-informacion-relacionada-con-la-sostenibilidad-y-el-clima": {
+    "fecha_detectado": "2026-11-17T20:09:30.463887+00:00",
+    "nivel": "🟠",
+    "titulo": "CTCP - Se abre discusión pública del documento sobre las NIIF S1 y NIIF S2 de información relacionada con la sostenibilidad y el clima"
   },
   "accounter.co::https://accounter.co/noticias/actualidad/decreto-1419-no-todos-los-alivios-del-sismo-se-quedan-en-la-zona-afectada": {
     "fecha_detectado": "2026-09-23T15:41:22.067050+00:00",
@@ -924,6 +944,11 @@
     "nivel": "🟢",
     "titulo": "Expresión permitía al empleador indagar sobre rasgos identitarios bajo pretexto de relevancia laboral"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/fecha-de-estructuracion-que-fija-dictamen-de-perdida-de-capacidad-laboral-no-es": {
+    "fecha_detectado": "2026-11-17T20:09:27.985897+00:00",
+    "nivel": "🟢",
+    "titulo": "Fecha de estructuración que fija dictamen de pérdida de capacidad laboral no es absoluta ni definitiva"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/fijan-criterios-para-resolver-controversias-donde-hay-dos-reclamantes-de": {
     "fecha_detectado": "2026-09-22T01:17:57.683744+00:00",
     "nivel": "🟢",
@@ -1174,6 +1199,11 @@
     "nivel": "🔴",
     "titulo": "2 de octubre vence plazo para tercer pago del impuesto predial por cuotas en Bogotá"
   },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/20-de-noviembre-vence-plazo-para-declarar-y-pagar-retencion-del-ica-del-quinto": {
+    "fecha_detectado": "2026-11-17T20:09:27.985785+00:00",
+    "nivel": "🔴",
+    "titulo": "20 de noviembre vence plazo para declarar y pagar retención del ICA del quinto bimestre 2026, en Bogotá"
+  },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/200-mil-morosos-tienen-hasta-el-19-de-noviembre-para-acceder-alivios": {
     "fecha_detectado": "2026-10-22T20:57:21.434956+00:00",
     "nivel": "🟢",
@@ -1363,6 +1393,11 @@
     "fecha_detectado": "2026-09-19T20:25:53.113691+00:00",
     "nivel": "🟢",
     "titulo": "Gobierno adopta alivios tributarios para afectados por el terremoto"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/gobierno-retira-propuesta-de-incrementar-iva-canasta-familiar-y-promete": {
+    "fecha_detectado": "2026-11-17T20:09:27.985819+00:00",
+    "nivel": "🟢",
+    "titulo": "Gobierno retira propuesta de incrementar IVA a canasta familiar y promete rebajarlo al 17 %"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/hacienda-bogota-habilita-alivios-tributarios-con-descuentos-del-60-en-intereses": {
     "fecha_detectado": "2026-10-16T15:41:06.660708+00:00",
@@ -3134,6 +3169,11 @@
     "nivel": "🟢",
     "titulo": "OCDE: medidas para la gestión presupuestaria de los gastos tributarios"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/estandares-internacionales/2026/11/iaasb-publico-una-guia-para-fortalecer-la-calidad-de-las-auditorias-que-utilizan-inteligencia-artificial/": {
+    "fecha_detectado": "2026-11-17T20:09:25.117916+00:00",
+    "nivel": "🟢",
+    "titulo": "IAASB publicó una guía para fortalecer la calidad de las auditorías que utilizan inteligencia artificial"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/estandares-internacionales/2026/11/inteligencia-artificial-en-los-programas-de-formacion-contable/": {
     "fecha_detectado": "2026-11-10T18:59:05.343042+00:00",
     "nivel": "🟢",
@@ -3148,6 +3188,11 @@
     "fecha_detectado": "2026-11-03T18:45:06.251193+00:00",
     "nivel": "🟢",
     "titulo": "OCDE: reducir las tarifas de renta no incentiva la creación empresarial"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/estandares-internacionales/2026/11/ocde-revelo-que-el-49-de-las-administraciones-tributarias-utiliza-ia/": {
+    "fecha_detectado": "2026-11-17T20:09:25.117871+00:00",
+    "nivel": "🟢",
+    "titulo": "OCDE reveló que el 49 % de las administraciones tributarias utilizan IA"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/09/concejo-de-bogota-inicio-segundo-debate-del-proyecto-de-reforma-tributaria-distrital/": {
     "fecha_detectado": "2026-09-21T17:18:25.151731+00:00",
