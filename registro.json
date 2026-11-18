@@ -879,6 +879,11 @@
     "nivel": "🟢",
     "titulo": "ANÁLISIS: La salud mental como dimensión de la estabilidad laboral reforzada: nuevos criterios de protección en la jurisprudencia"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/analisis-menos-mapa-y-mas-brujula-lo-que-la-sala-de-casacion-laboral-viene": {
+    "fecha_detectado": "2026-11-18T23:40:38.604372+00:00",
+    "nivel": "🟢",
+    "titulo": "ANÁLISIS: Menos mapa y más brújula: lo que la Sala de Casación Laboral viene diciendo en derecho colectivo del trabajo"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/condicionan-facultad-de-supersalud-para-disenar-procedimiento-sancionatorio-por": {
     "fecha_detectado": "2026-09-19T20:25:53.114244+00:00",
     "nivel": "🟢",
@@ -1554,6 +1559,11 @@
     "nivel": "🟢",
     "titulo": "SilvIA: Impuestos saludables, ¿recaudo o regulación de productos con impacto en la salud?"
   },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/silvia-tarifas-diferenciales-del-iva-en-colombia": {
+    "fecha_detectado": "2026-11-18T23:40:38.604287+00:00",
+    "nivel": "🟢",
+    "titulo": "SilvIA: Tarifas diferenciales del IVA en Colombia"
+  },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/texto-del-fallo-que-declaro-exequible-sobretasa-al-impuesto-de-renta-para": {
     "fecha_detectado": "2026-09-26T00:58:54.928286+00:00",
     "nivel": "🟢",
@@ -1913,6 +1923,11 @@
     "fecha_detectado": "2026-09-20T19:55:10.136296+00:00",
     "nivel": "🟢",
     "titulo": "Calculadora en línea para indexar salarios y demás obligaciones laborales"
+  },
+  "gerencie.com::https://www.gerencie.com/calculadora-firmeza-declaraciones-tributarias.html": {
+    "fecha_detectado": "2026-11-18T23:40:39.489035+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora del término de firmeza de las declaraciones tributarias"
   },
   "gerencie.com::https://www.gerencie.com/calculadora-indemnizacion-por-despido-sin-justa-causa.html": {
     "fecha_detectado": "2026-09-23T20:47:41.201948+00:00",
@@ -2318,6 +2333,16 @@
     "fecha_detectado": "2026-09-24T16:02:15.481229+00:00",
     "nivel": "🟠",
     "titulo": "Firma electrónica de la Dian: cómo obtenerla, renovarla y recuperarla"
+  },
+  "gerencie.com::https://www.gerencie.com/firmeza-de-las-declaraciones-de-iva-y-retencion-en-la-fuente.html": {
+    "fecha_detectado": "2026-11-18T23:40:39.489010+00:00",
+    "nivel": "🟢",
+    "titulo": "Firmeza de las declaraciones de Iva y retención en la fuente"
+  },
+  "gerencie.com::https://www.gerencie.com/firmeza-de-las-declaraciones-tributarias.html": {
+    "fecha_detectado": "2026-11-18T23:40:39.489024+00:00",
+    "nivel": "🟢",
+    "titulo": "Firmeza de las declaraciones tributarias"
   },
   "gerencie.com::https://www.gerencie.com/fondo-de-solidaridad-pensional.html": {
     "fecha_detectado": "2026-10-30T02:11:51.139458+00:00",
@@ -3354,6 +3379,11 @@
     "nivel": "🟡",
     "titulo": "Bogotá publicó proyecto de decreto para unificar las normas tributarias distritales en un solo estatuto"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/dian-ampliaria-controles-aduaneros-sobre-drones-y-sus-componentes/": {
+    "fecha_detectado": "2026-11-18T23:40:35.536439+00:00",
+    "nivel": "🟠",
+    "titulo": "DIAN ampliaría controles aduaneros sobre drones y sus componentes"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/dian-explico-como-evitar-la-clausura-de-establecimientos/": {
     "fecha_detectado": "2026-11-13T18:52:34.531498+00:00",
     "nivel": "🟠",
@@ -3488,6 +3518,11 @@
     "fecha_detectado": "2026-11-09T21:41:38.260105+00:00",
     "nivel": "🟢",
     "titulo": "Auditoría de expensas y cuentas por cobrar en propiedades horizontales"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/11/ctcp-publico-documento-de-discusion-publica-sobre-la-incorporacion-de-las-niif-s1-y-s2-en-colombiano/": {
+    "fecha_detectado": "2026-11-18T23:40:35.536477+00:00",
+    "nivel": "🟠",
+    "titulo": "CTCP publicó documento de discusión pública sobre la incorporación de las NIIF S1 y S2 en colombiano"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/11/limites-del-revisor-fiscal-para-atender-solicitudes-de-copropietarios/": {
     "fecha_detectado": "2026-11-06T18:37:04.020714+00:00",
