@@ -99,10 +99,25 @@
     "nivel": "🟢",
     "titulo": "ONLINE Memorias -¡Última oportunidad! Alivios tributarios al límite: Lo que debes saber antes del 19 de noviembre - Dr. Victor Tapasco -  Jueves 05 de octubre 2026"
   },
+  "accounter.co::https://accounter.co/herramientas/modelo-contrato-de-aprendizaje-laboral-especial-a-termino-fijo": {
+    "fecha_detectado": "2026-11-19T19:41:30.445300+00:00",
+    "nivel": "🟢",
+    "titulo": "Modelo - Contrato de aprendizaje laboral especial a término fijo (Exclusivo afiliados)"
+  },
+  "accounter.co::https://accounter.co/herramientas/modelo-contrato-individual-de-trabajo-a-termino-indefinido-bajo-la-modalidad-de-teletrabajo": {
+    "fecha_detectado": "2026-11-19T19:41:30.445265+00:00",
+    "nivel": "🟢",
+    "titulo": "Modelo - Contrato individual de trabajo a término indefinido bajo la modalidad de teletrabajo (Exclusivo afiliados)"
+  },
   "accounter.co::https://accounter.co/herramientas/modelo-contrato-individual-de-trabajo-a-termino-indefinido-salario-basico-comisiones": {
     "fecha_detectado": "2026-10-13T18:35:58.388285+00:00",
     "nivel": "🟢",
     "titulo": "MODELO - Contrato individual de trabajo a término indefinido (Salario básico + comisiones)"
+  },
+  "accounter.co::https://accounter.co/herramientas/modelo-contrato-individual-de-trabajo-a-termino-indefinido-salario-fijo": {
+    "fecha_detectado": "2026-11-19T19:41:30.445325+00:00",
+    "nivel": "🟢",
+    "titulo": "Modelo - Contrato individual de trabajo a término indefinido (Salario fijo) (Exclusivo afiliados)"
   },
   "accounter.co::https://accounter.co/herramientas/modelo-contrato-individual-de-trabajo-por-duracion-de-obra-o-labor-determinada": {
     "fecha_detectado": "2026-11-09T21:41:41.165461+00:00",
@@ -649,6 +664,11 @@
     "nivel": "🟡",
     "titulo": "Accounter | Decreto 1419: No todos los alivios del sismo se quedan en la zona afectada"
   },
+  "accounter.co::https://accounter.co/noticias/actualidad/dian-aclara-que-el-rut-no-es-un-requisito-general-para-acceder-a-productos-y-servicios-financieros": {
+    "fecha_detectado": "2026-11-19T19:41:30.445345+00:00",
+    "nivel": "🟠",
+    "titulo": "DIAN aclara que el RUT no es un requisito general para acceder a productos y servicios financieros"
+  },
   "accounter.co::https://accounter.co/noticias/actualidad/dian-adapta-su-capacidad-operativa-ante-el-aumento-de-solicitudes-de-devolucion-de-iva-de-vehiculos-hibridos-y-electricos": {
     "fecha_detectado": "2026-10-02T16:56:31.644551+00:00",
     "nivel": "🟠",
@@ -898,6 +918,11 @@
     "fecha_detectado": "2026-11-12T19:15:46.589685+00:00",
     "nivel": "🟢",
     "titulo": "Conozca la rentabilidad mínima para fondos de pensiones y cesantías"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/consejo-de-estado-mantiene-orden-de-trasladar-colpensiones-347-aviadores-afiliados": {
+    "fecha_detectado": "2026-11-19T19:41:30.173259+00:00",
+    "nivel": "🟠",
+    "titulo": "Consejo de Estado mantiene orden de trasladar a Colpensiones a 347 aviadores afiliados a Caxdac"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/corte-abre-incidente-de-impacto-fiscal-sobre-fallo-de-reforma-pensional": {
     "fecha_detectado": "2026-10-16T15:41:06.660836+00:00",
@@ -1578,6 +1603,11 @@
     "fecha_detectado": "2026-11-13T22:58:55.143273+00:00",
     "nivel": "🟢",
     "titulo": "Tutorial para cumplir con sus obligaciones tributarias"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/ultimo-dia-para-obtener-beneficio-de-reduccion-de-sanciones-en-deudas": {
+    "fecha_detectado": "2026-11-19T19:41:30.173144+00:00",
+    "nivel": "🟢",
+    "titulo": "Último día para obtener beneficio de reducción de sanciones en deudas tributarias"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/unificacion-de-jurisprudencia-radicacion-tardia-de-tornaguia-no-elimina": {
     "fecha_detectado": "2026-10-02T21:32:22.165511+00:00",
@@ -3409,10 +3439,30 @@
     "nivel": "🟢",
     "titulo": "La renta exenta por venta de predios para VIS y VIP está sujeta al límite del 40 % y 1.340 UVT"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/minhacienda-confirmo-que-el-proyecto-de-ley-de-rescate-economico-no-incluira-iva-a-la-canasta-familiar-2/": {
+    "fecha_detectado": "2026-11-19T19:41:29.694289+00:00",
+    "nivel": "🟢",
+    "titulo": "Minhacienda confirmó que el proyecto de ley de rescate económico no incluirá IVA a la canasta familiar"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/minhacienda-confirmo-que-el-proyecto-de-ley-de-rescate-economico-no-incluira-iva-a-la-canasta-familiar/": {
+    "fecha_detectado": "2026-11-19T19:41:29.694335+00:00",
+    "nivel": "🟢",
+    "titulo": "Minhacienda confirmó que el proyecto de ley de rescate económico no incluirá IVA a la canasta familiar"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/se-pierde-el-beneficio-de-auditoria-por-falta-de-pago-de-retenciones/": {
     "fecha_detectado": "2026-11-09T21:41:38.260146+00:00",
     "nivel": "🟢",
     "titulo": "¿Se pierde el beneficio de auditoría por falta de pago de retenciones?"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/vehiculos-electricos-con-certificacion-de-la-upme-deben-venderse-sin-iva-2/": {
+    "fecha_detectado": "2026-11-19T19:41:29.694250+00:00",
+    "nivel": "🟢",
+    "titulo": "Vehículos eléctricos con certificación de la UPME deben venderse sin IVA"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/vehiculos-electricos-con-certificacion-de-la-upme-deben-venderse-sin-iva/": {
+    "fecha_detectado": "2026-11-19T19:41:29.694313+00:00",
+    "nivel": "🟢",
+    "titulo": "Vehículos eléctricos con certificación de la UPME deben venderse sin IVA"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/informacion-para-empresas/2026/09/concejo-de-bogota-aprobo-reforma-tributaria-que-recaudara-108-billones/": {
     "fecha_detectado": "2026-09-30T17:07:20.060196+00:00",
@@ -3623,6 +3673,11 @@
     "fecha_detectado": "2026-09-19T20:25:50.411524+00:00",
     "nivel": "🟢",
     "titulo": "¿Cuál es la diferencia entre bienes gravados, exentos y excluidos de IVA?"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/bonos-y-tarjetas-regalo/": {
+    "fecha_detectado": "2026-11-19T19:41:27.877255+00:00",
+    "nivel": "🟢",
+    "titulo": "Bonos y tarjetas regalo en 2026: Contabilidad, factura electrónica, IVA y cierre fiscal"
   },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/calendario-nomina-electronica/": {
     "fecha_detectado": "2026-09-21T17:18:23.147958+00:00",
