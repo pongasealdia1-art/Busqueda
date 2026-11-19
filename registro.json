@@ -1219,6 +1219,11 @@
     "nivel": "🟢",
     "titulo": "Extienden a personas naturales deducción en renta por becas y créditos para educación de trabajadores"
   },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/actualidad/no-se-tocara-exencion-tributaria-funcionarios-judiciales-de-la-espriella": {
+    "fecha_detectado": "2026-11-19T23:59:06.973225+00:00",
+    "nivel": "🟢",
+    "titulo": "No se tocará exención tributaria a funcionarios judiciales: de la Espriella"
+  },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/comercial/colombia-prohibe-importar-bienes-elaborados-con-trabajo-forzoso": {
     "fecha_detectado": "2026-09-30T01:40:38.581356+00:00",
     "nivel": "🟢",
@@ -1989,6 +1994,11 @@
     "nivel": "🟢",
     "titulo": "Calculadora de la reducción de semanas por hijos para la pensión"
   },
+  "gerencie.com::https://www.gerencie.com/calculadora-renta-por-comparacion-patrimonial.html": {
+    "fecha_detectado": "2026-11-19T23:59:07.801666+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora de renta por comparación patrimonial"
+  },
   "gerencie.com::https://www.gerencie.com/calculadora-requisitos-pension-vejez.html": {
     "fecha_detectado": "2026-11-13T22:58:55.565356+00:00",
     "nivel": "🟢",
@@ -2548,6 +2558,16 @@
     "fecha_detectado": "2026-10-03T20:18:32.731999+00:00",
     "nivel": "🟢",
     "titulo": "Impuesto de timbre: qué es, cuándo se paga y cómo se contabiliza"
+  },
+  "gerencie.com::https://www.gerencie.com/impuestos-acciones/impuestos-trading-colombia": {
+    "fecha_detectado": "2026-11-19T23:59:07.801695+00:00",
+    "nivel": "🟢",
+    "titulo": "Impuestos del trading en Colombia"
+  },
+  "gerencie.com::https://www.gerencie.com/impuestos-acciones/vender-acciones-sin-pagar-impuesto": {
+    "fecha_detectado": "2026-11-19T23:59:07.801706+00:00",
+    "nivel": "🟢",
+    "titulo": "Vender acciones sin pagar impuesto"
   },
   "gerencie.com::https://www.gerencie.com/impuestos-descontables.html": {
     "fecha_detectado": "2026-09-20T00:28:15.507950+00:00",
