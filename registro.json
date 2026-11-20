@@ -199,6 +199,11 @@
     "nivel": "🟢",
     "titulo": "Bogotá ajusta las sanciones por información tributaria y permite subsanar con reducción – Acuerdo 1084 del Concejo de Bogotá, 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/cambio-del-dia-de-descanso-dominical-y-recargo-por-festivos-bajo-la-ley-2466-de-2025-concepto-mintrabajo-16356-de-2026": {
+    "fecha_detectado": "2026-11-20T19:20:57.909720+00:00",
+    "nivel": "🟠",
+    "titulo": "Cambio del día de descanso dominical y recargo por festivos bajo la Ley 2466 de 2025 — Concepto MinTrabajo 16356 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/certificacion-de-hechos-contables-en-propiedad-horizontal-concepto-ctcp-216-de-2026": {
     "fecha_detectado": "2026-09-28T18:51:52.342001+00:00",
     "nivel": "🟠",
@@ -539,6 +544,11 @@
     "nivel": "🟢",
     "titulo": "Revelación de préstamos a accionistas como operaciones con partes relacionadas — Oficio Supersociedades 115-317589 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/sancion-moratoria-por-cesantias-no-consignadas-no-opera-de-forma-automatica-concepto-mintrabajo-33535-de-2026": {
+    "fecha_detectado": "2026-11-20T19:20:57.909742+00:00",
+    "nivel": "🟠",
+    "titulo": "Sanción moratoria por cesantías no consignadas no opera de forma automática — Concepto MinTrabajo 33535 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/sancion-por-extemporaneidad-e-ineficacia-de-la-declaracion-de-retencion-en-la-fuente-concepto-15978-de-2026": {
     "fecha_detectado": "2026-10-02T16:56:31.644461+00:00",
     "nivel": "🟠",
@@ -773,6 +783,11 @@
     "fecha_detectado": "2026-11-11T18:56:49.986093+00:00",
     "nivel": "🟠",
     "titulo": "CTCP - Se abre discusión pública del Documento sobre la Norma Internacional de Auditoría para la Norma Internacional de Auditoría para Entidades Menos Complejas (NIA para EMC)"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/prestamos-en-la-exogena-la-dian-vera-cada-desembolso-no-solo-el-saldo": {
+    "fecha_detectado": "2026-11-20T19:20:57.909665+00:00",
+    "nivel": "🟠",
+    "titulo": "Accounter | Préstamos en la exógena: la DIAN verá cada desembolso, no solo el saldo"
   },
   "accounter.co::https://accounter.co/noticias/actualidad/proyecto-de-ley-de-rescate-economico-propone-austeridad-y-cambios-tributarios-para-estabilizar-las-finanzas-publicas": {
     "fecha_detectado": "2026-11-03T18:45:11.923863+00:00",
@@ -1054,6 +1069,11 @@
     "nivel": "🟢",
     "titulo": "Juez no define gravedad de faltas previstas en el reglamento interno de trabajo, salvo vaguedad"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/la-reduccion-del-impuesto-sobre-la-renta-podria-beneficiar-algunas-companias-pero": {
+    "fecha_detectado": "2026-11-20T19:20:57.450094+00:00",
+    "nivel": "🟢",
+    "titulo": "“La reducción del impuesto sobre la renta podría beneficiar a algunas compañías, pero no a todas”"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/la-reivindicacion-pensional-de-la-mujer-y-la-economia-del-cuidado-en-colombia": {
     "fecha_detectado": "2026-09-19T20:25:53.114587+00:00",
     "nivel": "🟢",
@@ -1259,6 +1279,11 @@
     "nivel": "🟢",
     "titulo": "Esta es la rentabilidad para traslados entre regímenes pensionales"
   },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/laboral/la-reduccion-del-impuesto-sobre-la-renta-podria-beneficiar-algunas-companias-pero": {
+    "fecha_detectado": "2026-11-20T19:20:57.449980+00:00",
+    "nivel": "🟢",
+    "titulo": "“La reducción del impuesto sobre la renta podría beneficiar a algunas compañías, pero no a todas”"
+  },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/penal/dian-reporta-aumento-del-507-en-aprehensiones-por-contrabando": {
     "fecha_detectado": "2026-09-19T20:25:53.113791+00:00",
     "nivel": "🟠",
@@ -1279,6 +1304,11 @@
     "nivel": "🟢",
     "titulo": "200 mil morosos tienen hasta el 19 de noviembre para acceder a alivios tributarios"
   },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/analisis-68-billones-en-demandas-en-un-solo-ano-el-arbitraje-tributario-como": {
+    "fecha_detectado": "2026-11-20T19:20:57.450015+00:00",
+    "nivel": "🟢",
+    "titulo": "ANÁLISIS: 6,8 billones en demandas en un solo año: el arbitraje tributario como alternativa al rescate fiscal"
+  },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/analisis-autorretencion-especial-la-doctrina-no-puede-crear-lo-que-la-ley-no": {
     "fecha_detectado": "2026-10-01T17:37:54.869964+00:00",
     "nivel": "🟢",
@@ -1298,6 +1328,11 @@
     "fecha_detectado": "2026-11-05T22:59:17.817313+00:00",
     "nivel": "🟢",
     "titulo": "ANÁLISIS: Privilegios ocultos: el caso de las exenciones tributarias en la Rama Judicial"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/analisis-razones-y-pretextos-el-debate-sobre-las-exenciones-tributarias-de": {
+    "fecha_detectado": "2026-11-20T19:20:57.450030+00:00",
+    "nivel": "🟢",
+    "titulo": "ANÁLISIS: Razones y pretextos: el debate sobre las exenciones tributarias de jueces y magistrados"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/anulan-doctrina-de-la-dian-y-aclaran-aplicacion-de-umbrales-en-autorretencion": {
     "fecha_detectado": "2026-10-02T21:32:22.165486+00:00",
@@ -1964,6 +1999,11 @@
     "nivel": "🟢",
     "titulo": "Calculadora del término de firmeza de las declaraciones tributarias"
   },
+  "gerencie.com::https://www.gerencie.com/calculadora-impuesto-al-patrimonio.html": {
+    "fecha_detectado": "2026-11-20T19:20:58.189935+00:00",
+    "nivel": "🟢",
+    "titulo": "Calculadora del impuesto al patrimonio"
+  },
   "gerencie.com::https://www.gerencie.com/calculadora-indemnizacion-por-despido-sin-justa-causa.html": {
     "fecha_detectado": "2026-09-23T20:47:41.201948+00:00",
     "nivel": "🟢",
@@ -2598,6 +2638,11 @@
     "fecha_detectado": "2026-09-30T21:37:31.865047+00:00",
     "nivel": "🟢",
     "titulo": "¿Cuántas pensiones puede tener una persona en Colombia?"
+  },
+  "gerencie.com::https://www.gerencie.com/indemnizacion-moratoria.html": {
+    "fecha_detectado": "2026-11-20T19:20:58.189970+00:00",
+    "nivel": "🟢",
+    "titulo": "Indemnización moratoria: artículo 65 del Código Sustantivo del Trabajo"
   },
   "gerencie.com::https://www.gerencie.com/indexacion-de-salarios.html": {
     "fecha_detectado": "2026-10-05T19:51:31.923767+00:00",
