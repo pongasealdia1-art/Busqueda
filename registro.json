@@ -2604,6 +2604,26 @@
     "nivel": "🟢",
     "titulo": "Impuestos del trading en Colombia"
   },
+  "gerencie.com::https://www.gerencie.com/impuestos-acciones/que-impuestos-se-pagan-por-la-utilidad-en-la-venta-de-acciones": {
+    "fecha_detectado": "2026-11-21T18:22:55.615016+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Qué impuestos se pagan por la utilidad en la venta de acciones?"
+  },
+  "gerencie.com::https://www.gerencie.com/impuestos-acciones/retencion-en-la-fuente-en-la-venta-de-acciones": {
+    "fecha_detectado": "2026-11-21T18:22:55.615071+00:00",
+    "nivel": "🟢",
+    "titulo": "Retención en la fuente en la venta de acciones"
+  },
+  "gerencie.com::https://www.gerencie.com/impuestos-acciones/seguridad-social-en-la-venta-de-acciones": {
+    "fecha_detectado": "2026-11-21T18:22:55.615059+00:00",
+    "nivel": "🟢",
+    "titulo": "Seguridad social en la venta de acciones"
+  },
+  "gerencie.com::https://www.gerencie.com/impuestos-acciones/vender-acciones-antes-o-despues-de-2-anos": {
+    "fecha_detectado": "2026-11-21T18:22:55.615046+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Vender acciones antes o después de 2 años? El efecto tributario a considerar"
+  },
   "gerencie.com::https://www.gerencie.com/impuestos-acciones/vender-acciones-sin-pagar-impuesto": {
     "fecha_detectado": "2026-11-19T23:59:07.801706+00:00",
     "nivel": "🟢",
@@ -3848,6 +3868,11 @@
     "fecha_detectado": "2026-09-30T01:40:36.186991+00:00",
     "nivel": "🟠",
     "titulo": "Liquidación oficial de revisión DIAN: Plazos, artículo 713 del ET, recurso y cómo auditar el acto"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/lista-de-proveedores-ficticios-dian/": {
+    "fecha_detectado": "2026-11-21T18:22:51.054533+00:00",
+    "nivel": "🟠",
+    "titulo": "Lista de proveedores ficticios DIAN 2026: Consulta actualizada y consecuencias tributarias"
   },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/listado-conceptos-del-formato-1001/": {
     "fecha_detectado": "2026-09-19T20:25:50.411501+00:00",
