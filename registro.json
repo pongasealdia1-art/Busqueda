@@ -219,6 +219,11 @@
     "nivel": "🟠",
     "titulo": "Con el certificado UPME obtenido antes de la compra, el vehículo eléctrico o híbrido se factura sin IVA — Concepto DIAN 100208192-2242 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/contador-que-fue-administrador-de-una-copropiedad-enfrenta-amenaza-de-autorrevision-si-pasa-a-integrar-su-comite-de-auditoria-concepto-ctcp-2026-234": {
+    "fecha_detectado": "2026-11-24T21:38:57.186167+00:00",
+    "nivel": "🟠",
+    "titulo": "Contador que fue administrador de una copropiedad enfrenta amenaza de autorrevisión si pasa a integrar su comité de auditoría — Concepto CTCP 2026-234"
+  },
   "accounter.co::https://accounter.co/normatividad/contrato-a-termino-fijo-no-puede-superar-cuatro-anos-con-prorrogas-so-pena-de-volverse-indefinido-concepto-mintrabajo-55488-de-2026": {
     "fecha_detectado": "2026-10-19T17:52:32.902159+00:00",
     "nivel": "🟠",
@@ -268,6 +273,11 @@
     "fecha_detectado": "2026-09-28T18:51:52.341977+00:00",
     "nivel": "🟠",
     "titulo": "Diferencias de conversión acumuladas en el ORI y pago de partidas monetarias — Concepto CTCP 211 de 2026."
+  },
+  "accounter.co::https://accounter.co/normatividad/ejercer-a-la-vez-funciones-de-administracion-y-de-revisoria-fiscal-en-una-propiedad-horizontal-es-incompatible-concepto-ctcp-2026-230": {
+    "fecha_detectado": "2026-11-24T21:38:57.186224+00:00",
+    "nivel": "🟠",
+    "titulo": "Ejercer a la vez funciones de administración y de Revisoría Fiscal en una propiedad horizontal es incompatible — Concepto CTCP 2026-230"
   },
   "accounter.co::https://accounter.co/normatividad/el-cambio-de-administrador-no-elimina-la-obligacion-de-certificar-los-estados-financieros-en-propiedad-horizontal-concepto-ctcp-2026-214": {
     "fecha_detectado": "2026-10-15T15:53:19.174468+00:00",
@@ -509,6 +519,11 @@
     "nivel": "🟠",
     "titulo": "Readmisión de entidades del sector cooperativo al Régimen Tributario Especial: cómputo del plazo de tres años. Concepto DIAN 16169 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/readquisicion-de-acciones-propias-de-la-participada-se-refleja-en-la-inversion-como-movimiento-patrimonial-bajo-el-metodo-de-participacion-concepto-ctcp-2026-232": {
+    "fecha_detectado": "2026-11-24T21:38:57.186204+00:00",
+    "nivel": "🟠",
+    "titulo": "Readquisición de acciones propias de la participada que se refleja en la inversión como movimiento patrimonial bajo el método de participación — Concepto CTCP 2026-232"
+  },
   "accounter.co::https://accounter.co/normatividad/reconocimiento-de-ingresos-por-retornos-administrativos-en-entidades-sin-animo-de-lucro-concepto-ctcp-2026-175": {
     "fecha_detectado": "2026-10-22T16:11:45.533517+00:00",
     "nivel": "🟠",
@@ -668,6 +683,11 @@
     "fecha_detectado": "2026-10-13T18:35:58.388309+00:00",
     "nivel": "🟡",
     "titulo": "Asuntos Legales - ¿Qué cambia con la derogatoria de once circulares laborales?"
+  },
+  "accounter.co::https://accounter.co/noticias/actualidad/asuntos-legales-reconstruir-con-impuestos-oportunidad-para-el-sector-privado": {
+    "fecha_detectado": "2026-11-24T21:38:57.186238+00:00",
+    "nivel": "🟢",
+    "titulo": "Asuntos Legales - Reconstruir con impuestos: oportunidad para el sector privado"
   },
   "accounter.co::https://accounter.co/noticias/actualidad/asuntos-legales-reforma-al-marco-de-compliance-expedida-por-la-supersociedades": {
     "fecha_detectado": "2026-09-29T17:09:29.625444+00:00",
@@ -1499,6 +1519,11 @@
     "nivel": "🟢",
     "titulo": "Esta es la nueva base para liquidar IVA en combustibles importados"
   },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/estas-son-las-ideas-de-la-andi-para-la-reforma-tributaria": {
+    "fecha_detectado": "2026-11-24T21:38:56.667547+00:00",
+    "nivel": "🔴",
+    "titulo": "Estas son las ideas de la Andi para la reforma tributaria"
+  },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/este-es-el-manual-de-obras-por-impuestos-para-la-reconstruccion-por-el": {
     "fecha_detectado": "2026-10-22T16:11:45.068232+00:00",
     "nivel": "🟢",
@@ -1573,6 +1598,11 @@
     "fecha_detectado": "2026-09-19T20:25:53.114170+00:00",
     "nivel": "🟢",
     "titulo": "La reducción del recaudo tributario y el uso de medios electrónicos"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/mintransporte-propone-las-bases-para-el-impuesto-de-vehiculos-del-2027": {
+    "fecha_detectado": "2026-11-24T21:38:56.667586+00:00",
+    "nivel": "🟢",
+    "titulo": "Mintransporte propone las bases para el impuesto de vehículos del 2027"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/negocios-simulados-asi-funciona-la-carga-dinamica-de-la-prueba-ante-la-dian": {
     "fecha_detectado": "2026-09-21T17:18:25.555615+00:00",
@@ -2208,6 +2238,11 @@
     "fecha_detectado": "2026-09-25T00:57:13.987595+00:00",
     "nivel": "🟢",
     "titulo": "¿Cómo saber si soy responsable del Iva?"
+  },
+  "gerencie.com::https://www.gerencie.com/como-se-calculan-las-semanas-cotizadas-a-pension.html": {
+    "fecha_detectado": "2026-11-24T21:38:57.566641+00:00",
+    "nivel": "🟢",
+    "titulo": "Cómo se calculan las semanas cotizadas a pensión"
   },
   "gerencie.com::https://www.gerencie.com/compartibilidad-pensional.html": {
     "fecha_detectado": "2026-09-30T21:37:31.865010+00:00",
@@ -3424,6 +3459,21 @@
     "nivel": "🟢",
     "titulo": "Supersociedades publicó una guía para incorporar la sostenibilidad en las Pymes"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/2026/11/como-validar-la-informacion-tributaria-generada-por-inteligencia-artificial/": {
+    "fecha_detectado": "2026-11-24T21:38:54.522381+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Cómo validar la información tributaria generada por inteligencia artificial?"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/2026/11/consejo-de-estado-pone-fin-a-la-autorretencion-del-100-sobre-cualquier-pago-o-abono-en-cuenta/": {
+    "fecha_detectado": "2026-11-24T21:38:54.522410+00:00",
+    "nivel": "🟠",
+    "titulo": "Consejo de Estado pone fin a la autorretención del 100 % sobre cualquier pago o abono en cuenta"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/2026/11/simplificacion-del-sistema-tributario-de-colombia-una-reforma-que-tenemos-pendiente/": {
+    "fecha_detectado": "2026-11-24T21:38:54.522423+00:00",
+    "nivel": "🟢",
+    "titulo": "Simplificación del sistema tributario de Colombia: una reforma que tenemos pendiente"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/estandares-internacionales/2026/09/ocde-reformas-tributarias-de-2025-reflejan-un-giro-hacia-el-fortalecimiento-del-recaudo-y-los-incentivos-a-la-inversion/": {
     "fecha_detectado": "2026-09-19T20:25:52.386151+00:00",
     "nivel": "🟢",
@@ -3443,6 +3493,11 @@
     "fecha_detectado": "2026-11-17T20:09:25.117916+00:00",
     "nivel": "🟢",
     "titulo": "IAASB publicó una guía para fortalecer la calidad de las auditorías que utilizan inteligencia artificial"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/estandares-internacionales/2026/11/iasb-analizara-el-tratamiento-contable-de-las-criptomonedas-y-las-monedas-estables/": {
+    "fecha_detectado": "2026-11-24T21:38:54.522447+00:00",
+    "nivel": "🟢",
+    "titulo": "IASB analizará el tratamiento contable de las criptomonedas y las monedas estables"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/estandares-internacionales/2026/11/inteligencia-artificial-en-los-programas-de-formacion-contable/": {
     "fecha_detectado": "2026-11-10T18:59:05.343042+00:00",
@@ -4038,6 +4093,11 @@
     "fecha_detectado": "2026-10-05T19:51:26.412242+00:00",
     "nivel": "🟢",
     "titulo": "Salario mínimo 2027 en Colombia: Proceso de concertación y cómo preparar la nómina"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/sancion-minima-dian/": {
+    "fecha_detectado": "2026-11-24T21:38:37.374749+00:00",
+    "nivel": "🟠",
+    "titulo": "Sanción mínima Dian 2026: ¿qué es, cuánto vale y cuándo se aplica?"
   },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/sancion-por-declaracion-de-ingresos-y-patrimonio/": {
     "fecha_detectado": "2026-10-01T01:37:59.210533+00:00",
