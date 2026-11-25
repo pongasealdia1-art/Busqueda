@@ -1309,6 +1309,11 @@
     "nivel": "🟢",
     "titulo": "Supersociedades delega funciones"
   },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/contable/reforma-tributaria-centro-democratico-plantea-menos-impuestos-y-menor-gasto": {
+    "fecha_detectado": "2026-11-25T01:43:19.566143+00:00",
+    "nivel": "🔴",
+    "titulo": "REFORMA TRIBUTARIA: Centro Democrático plantea menos impuestos y menor gasto"
+  },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/derecho-publico/gobierno-revoca-decreto-973-de-2026-que-regulaba-mercados-de-carbono": {
     "fecha_detectado": "2026-10-10T16:29:28.329509+00:00",
     "nivel": "🟡",
@@ -1413,6 +1418,11 @@
     "fecha_detectado": "2026-10-28T21:58:26.982883+00:00",
     "nivel": "🟢",
     "titulo": "Cobertura del contrato de seguro no se extiende a riesgos cuyas sanciones el ordenamiento prohíbe trasladar"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/conservadores-plantean-alternativas-reforma-tributaria": {
+    "fecha_detectado": "2026-11-25T01:43:19.566177+00:00",
+    "nivel": "🔴",
+    "titulo": "Conservadores plantean alternativas a reforma tributaria"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/declaracion-de-renta-2026-quienes-deben-declarar-fechas-clave-y-como-evitar": {
     "fecha_detectado": "2026-09-19T20:25:53.114130+00:00",
@@ -1523,6 +1533,11 @@
     "fecha_detectado": "2026-11-24T21:38:56.667547+00:00",
     "nivel": "🔴",
     "titulo": "Estas son las ideas de la Andi para la reforma tributaria"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/estas-son-las-propuestas-de-la-andi-para-la-reforma-tributaria": {
+    "fecha_detectado": "2026-11-25T01:43:19.566186+00:00",
+    "nivel": "🔴",
+    "titulo": "Estas son las propuestas de la Andi para la reforma tributaria"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/este-es-el-manual-de-obras-por-impuestos-para-la-reconstruccion-por-el": {
     "fecha_detectado": "2026-10-22T16:11:45.068232+00:00",
@@ -2749,10 +2764,20 @@
     "nivel": "🟢",
     "titulo": "Imputación proporcional de pagos a impuestos, sanciones e intereses"
   },
+  "gerencie.com::https://www.gerencie.com/incapacidad-laboral-por-los-primeros-tres-dias.html": {
+    "fecha_detectado": "2026-11-25T01:43:22.572935+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Cuántos días de incapacidad paga la empresa y desde cuándo paga la EPS?"
+  },
   "gerencie.com::https://www.gerencie.com/incompatibilidad-de-pensiones-en-colombia.html": {
     "fecha_detectado": "2026-09-30T21:37:31.865047+00:00",
     "nivel": "🟢",
     "titulo": "¿Cuántas pensiones puede tener una persona en Colombia?"
+  },
+  "gerencie.com::https://www.gerencie.com/indemnizacion-en-el-contrato-de-trabajo-a-termino-fijo.html": {
+    "fecha_detectado": "2026-11-25T01:43:22.572894+00:00",
+    "nivel": "🟢",
+    "titulo": "Indemnización por despido en contratos de trabajo a término fijo"
   },
   "gerencie.com::https://www.gerencie.com/indemnizacion-moratoria.html": {
     "fecha_detectado": "2026-11-20T19:20:58.189970+00:00",
