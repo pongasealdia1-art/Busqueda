@@ -214,6 +214,11 @@
     "nivel": "🟢",
     "titulo": "Clasificación contable del leasing según su sustancia y su traslado en escisiones — Oficio Supersociedades 115-315539 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/compensaciones-de-un-afiliado-participe-en-un-contrato-sindical-no-configuran-por-si-solas-la-relacion-laboral-que-impide-el-simple-concepto-dian-18692-de-2026": {
+    "fecha_detectado": "2026-11-25T20:46:59.510353+00:00",
+    "nivel": "🟠",
+    "titulo": "Compensaciones de un afiliado partícipe en un contrato sindical no configuran por sí solas la relación laboral que impide el SIMPLE — Concepto DIAN 18692 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/con-el-certificado-upme-obtenido-antes-de-la-compra-el-vehiculo-electrico-o-hibrido-se-factura-sin-iva-concepto-dian-100208192-2242-de-2026": {
     "fecha_detectado": "2026-11-18T19:41:25.757765+00:00",
     "nivel": "🟠",
@@ -288,6 +293,11 @@
     "fecha_detectado": "2026-10-05T19:51:31.547325+00:00",
     "nivel": "🟠",
     "titulo": "El costo del inventario puede diferir del valor registrado en la escritura — Concepto CTCP 2026-0176"
+  },
+  "accounter.co::https://accounter.co/normatividad/el-subsidio-de-vivienda-que-recibe-una-persona-natural-no-paga-renta-la-dian-reconsidera-el-concepto-3315-de-2024-concepto-dian-021133-int-2029-de-2026": {
+    "fecha_detectado": "2026-11-25T20:46:59.510289+00:00",
+    "nivel": "🟠",
+    "titulo": "El subsidio de vivienda que recibe una persona natural no paga renta: la DIAN reconsidera el Concepto 3315 de 2024 — Concepto DIAN 021133 (Int. 2029) de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/el-uso-temporal-de-parqueaderos-y-salones-sociales-en-propiedad-horizontal-no-siempre-genera-iva-oficio-dian-16143-de-2026": {
     "fecha_detectado": "2026-10-09T17:38:37.321627+00:00",
@@ -428,6 +438,11 @@
     "fecha_detectado": "2026-11-10T18:59:09.913814+00:00",
     "nivel": "🟠",
     "titulo": "La utilidad en la enajenación voluntaria de predios rurales a la ANT solo es ingreso no constitutivo de renta si se cumplen los arts. 58 y 67 de la Ley 388 de 1997 — Concepto DIAN 17174 de 2026"
+  },
+  "accounter.co::https://accounter.co/normatividad/la-venta-de-un-cid-genera-ingreso-gravado-bajo-las-reglas-generales-y-su-costo-fiscal-se-determina-segun-el-et-concepto-dian-17702-de-2026": {
+    "fecha_detectado": "2026-11-25T20:46:59.510327+00:00",
+    "nivel": "🟠",
+    "titulo": "La venta de un CID genera ingreso gravado bajo las reglas generales y su costo fiscal se determina según el ET — Concepto DIAN 17702 de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/las-horas-del-festivo-no-deben-reponerse-al-distribuir-la-jornada-reducida-de-la-ley-2101-de-2021-concepto-mintrabajo-33382-de-2026": {
     "fecha_detectado": "2026-10-16T15:41:10.019984+00:00",
@@ -1809,6 +1824,16 @@
     "nivel": "🟠",
     "titulo": "Concepto 2029(202208 )"
   },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-2154.html": {
+    "fecha_detectado": "2026-11-25T20:47:03.751263+00:00",
+    "nivel": "🟠",
+    "titulo": "Concepto 2154"
+  },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-2156020261.html": {
+    "fecha_detectado": "2026-11-25T20:47:03.751240+00:00",
+    "nivel": "🟠",
+    "titulo": "Concepto 2156(020261)"
+  },
   "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-2242.html": {
     "fecha_detectado": "2026-11-13T22:58:57.856384+00:00",
     "nivel": "🟠",
@@ -2309,6 +2334,11 @@
     "nivel": "🟢",
     "titulo": "Contrato de trabajo con docentes de colegios privados"
   },
+  "gerencie.com::https://www.gerencie.com/contrato-de-trabajo-por-duracion-de-la-obra-o-labor.html": {
+    "fecha_detectado": "2026-11-25T20:46:59.724416+00:00",
+    "nivel": "🟢",
+    "titulo": "Contrato de trabajo por obra o labor"
+  },
   "gerencie.com::https://www.gerencie.com/contrato-de-trabajo.html": {
     "fecha_detectado": "2026-09-27T00:59:09.975234+00:00",
     "nivel": "🟢",
@@ -2784,6 +2814,11 @@
     "nivel": "🟢",
     "titulo": "Indemnización moratoria: artículo 65 del Código Sustantivo del Trabajo"
   },
+  "gerencie.com::https://www.gerencie.com/indemnizacion-por-despido-injusto.html": {
+    "fecha_detectado": "2026-11-25T20:46:59.724468+00:00",
+    "nivel": "🟢",
+    "titulo": "Indemnización por despido sin justa causa"
+  },
   "gerencie.com::https://www.gerencie.com/indexacion-de-salarios.html": {
     "fecha_detectado": "2026-10-05T19:51:31.923767+00:00",
     "nivel": "🟢",
@@ -3049,6 +3084,11 @@
     "nivel": "🟢",
     "titulo": "Liquidador impuesto a la renta personas naturales en Excel"
   },
+  "gerencie.com::https://www.gerencie.com/plazo-que-tienen-los-fondos-para-reconocer-la-pension.html": {
+    "fecha_detectado": "2026-11-25T20:46:59.724484+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Cuánto tiempo tiene Colpensiones para reconocer la pensión?"
+  },
   "gerencie.com::https://www.gerencie.com/practicas-inapropiadas-en-que-incurren-los-empleadores-con-sus-trabajadores.html": {
     "fecha_detectado": "2026-10-07T01:52:07.663053+00:00",
     "nivel": "🟢",
@@ -3198,6 +3238,11 @@
     "fecha_detectado": "2026-11-04T18:58:16.881867+00:00",
     "nivel": "🟢",
     "titulo": "Remuneración en el trabajo por turnos rotativos por equipos"
+  },
+  "gerencie.com::https://www.gerencie.com/renuncia-de-trabajador-con-estabilidad-laboral-reforzada.html": {
+    "fecha_detectado": "2026-11-25T20:46:59.724453+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Puedo renunciar si tengo estabilidad laboral reforzada?"
   },
   "gerencie.com::https://www.gerencie.com/responsabilidad-solidaria-de-los-socios-frente-a-las-obligaciones-tributarias.html": {
     "fecha_detectado": "2026-10-30T02:11:51.139492+00:00",
@@ -3644,6 +3689,11 @@
     "nivel": "🟢",
     "titulo": "Aportes de pensión en el exterior no tienen beneficio tributario en Colombia"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/base-para-liquidar-sanciones-por-incumplimiento-de-exogena-municipal/": {
+    "fecha_detectado": "2026-11-25T20:46:53.689932+00:00",
+    "nivel": "🟢",
+    "titulo": "Base para liquidar sanciones por incumplimiento de exógena municipal"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/bogota-publico-proyecto-de-decreto-para-unificar-las-normas-tributarias-distritales-en-un-solo-estatuto/": {
     "fecha_detectado": "2026-11-12T19:15:43.303240+00:00",
     "nivel": "🟡",
@@ -3693,6 +3743,11 @@
     "fecha_detectado": "2026-11-09T21:41:38.260146+00:00",
     "nivel": "🟢",
     "titulo": "¿Se pierde el beneficio de auditoría por falta de pago de retenciones?"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/subsidios-de-vivienda-no-estan-gravados-con-el-impuesto-sobre-la-renta/": {
+    "fecha_detectado": "2026-11-25T20:46:53.689962+00:00",
+    "nivel": "🟢",
+    "titulo": "Subsidios de vivienda no están gravados con el impuesto sobre la renta"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/vehiculos-electricos-con-certificacion-de-la-upme-deben-venderse-sin-iva-2/": {
     "fecha_detectado": "2026-11-19T19:41:29.694250+00:00",
@@ -3934,6 +3989,11 @@
     "nivel": "🟢",
     "titulo": "Cesantías y cuentas AFC: Tratamiento tributario, retiros y requisitos para conservar el beneficio"
   },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/codigos-de-responsabilidades-tributarias-dentro-del-rut/": {
+    "fecha_detectado": "2026-11-25T20:46:51.541944+00:00",
+    "nivel": "🟢",
+    "titulo": "Códigos de responsabilidades tributarias del RUT: los 49 códigos de la casilla 53 y qué implica cada uno"
+  },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/como-conciliar-la-retencion-en-la-fuente/": {
     "fecha_detectado": "2026-10-05T19:51:26.412215+00:00",
     "nivel": "🟢",
@@ -4108,6 +4168,11 @@
     "fecha_detectado": "2026-10-07T18:02:59.304609+00:00",
     "nivel": "🟢",
     "titulo": "¿Cómo aplicar la retención en la fuente por pagos al exterior en Colombia?"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/retencion-en-la-fuente-sobre-la-prima-de-servicios/": {
+    "fecha_detectado": "2026-11-25T20:46:51.541981+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Cómo se calcula la retención en la fuente sobre la prima de servicios?"
   },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/retenciones-en-el-regimen-simple-de-tributacion/": {
     "fecha_detectado": "2026-09-19T20:25:50.411542+00:00",
