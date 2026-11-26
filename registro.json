@@ -309,6 +309,11 @@
     "nivel": "🟠",
     "titulo": "El valor del CERT reconocido al exportador es ingreso gravado con el impuesto sobre la renta — Concepto DIAN 18702 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/eliminacion-del-descanso-remunerado-dentro-de-la-jornada-y-derechos-adquiridos-su-definicion-corresponde-al-juez-concepto-mintrabajo-20884-de-2026": {
+    "fecha_detectado": "2026-11-26T20:38:58.905376+00:00",
+    "nivel": "🟠",
+    "titulo": "Eliminación del descanso remunerado dentro de la jornada y derechos adquiridos: su definición corresponde al juez — Concepto MinTrabajo 20884 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/en-el-simple-prevalece-la-actividad-realmente-desarrollada-sobre-el-codigo-ciiu-concepto-dian-016144-int-1653-de-2026": {
     "fecha_detectado": "2026-10-06T17:31:03.480464+00:00",
     "nivel": "🟠",
@@ -714,6 +719,11 @@
     "nivel": "🟢",
     "titulo": "Editorial Accounter | Autorretención especial: los topes mínimos de renta también cuentan"
   },
+  "accounter.co::https://accounter.co/noticias/actualidad/ctcp-ampliado-el-plazo-para-la-recepcion-de-comentarios-sobre-el-documento-de-discusion-publica-norma-internacional-de-auditoria-para-entidades-menos-complejas-nia-para-emc": {
+    "fecha_detectado": "2026-11-26T20:38:58.905415+00:00",
+    "nivel": "🟠",
+    "titulo": "CTCP - Ampliado el plazo para la recepción de comentarios sobre el documento de Discusión Pública Norma Internacional de Auditoría para Entidades Menos Complejas (NIA para EMC)"
+  },
   "accounter.co::https://accounter.co/noticias/actualidad/ctcp-se-abre-discusion-publica-del-documento-sobre-las-niif-s1-y-niif-s2-de-informacion-relacionada-con-la-sostenibilidad-y-el-clima": {
     "fecha_detectado": "2026-11-17T20:09:30.463887+00:00",
     "nivel": "🟠",
@@ -858,6 +868,16 @@
     "fecha_detectado": "2026-10-13T18:35:58.388252+00:00",
     "nivel": "🟢",
     "titulo": "Accounter | Autorretención especial: sin exoneración de aportes no hay obligación de autorretener"
+  },
+  "accounter.co::https://accounter.co/noticias/editorial/despues-de-siete-anos-la-dian-rectifica-el-subsidio-de-vivienda-no-paga-renta": {
+    "fecha_detectado": "2026-11-26T20:38:58.905288+00:00",
+    "nivel": "🟠",
+    "titulo": "Accounter | Después de siete años, la DIAN rectifica: el subsidio de vivienda no paga renta"
+  },
+  "accounter.co::https://accounter.co/noticias/editorial/editorial-tributar-asesores-sas-el-proyecto-de-ley-de-rescate-subiria-al-19-el-iva-de-licores-vinos-y-aperitivos-y-casi-duplicaria-el-impuesto-al-consumo-documento-tributar-io-1033-de-202": {
+    "fecha_detectado": "2026-11-26T20:38:58.905344+00:00",
+    "nivel": "🟢",
+    "titulo": "Editorial Tributar Asesores SAS - El proyecto de ley de rescate subiría al 19% el IVA de licores, vinos y aperitivos y casi duplicaría el impuesto al consumo — Documento TRIBUTAR-io 1033 de 2026"
   },
   "accounter.co::https://accounter.co/noticias/editorial/editorial-tributar-asesores-sas-si-la-exoneracion-de-aportes-se-limita-a-empleados-de-hasta-dos-salarios-minimos-la-autorretencion-especial-solo-aplicaria-a-empleadores-con-trabajadores-dentro-de-e": {
     "fecha_detectado": "2026-11-06T18:37:04.867134+00:00",
@@ -1054,6 +1074,11 @@
     "nivel": "🟢",
     "titulo": "Esta calculadora laboral le permitirá consultar salarios, horas extra, recargos y prestaciones sociales"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/esta-es-la-cifra-de-productividad-para-la-negociacion-del-salario-minimo": {
+    "fecha_detectado": "2026-11-26T20:38:58.436971+00:00",
+    "nivel": "🟢",
+    "titulo": "Esta es la cifra de productividad para la negociación del salario mínimo"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/esta-es-la-nueva-directora-de-la-ugpp": {
     "fecha_detectado": "2026-10-01T17:37:54.870128+00:00",
     "nivel": "🟢",
@@ -1163,6 +1188,11 @@
     "fecha_detectado": "2026-10-10T16:29:28.329640+00:00",
     "nivel": "🟢",
     "titulo": "Mintrabajo imparte instrucciones a inspectores de trabajo sobre el ejercicio de sus funciones"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/mintrabajo-precisa-cuando-es-valida-la-renuncia-de-una-trabajadora-con-fuero-de": {
+    "fecha_detectado": "2026-11-26T20:38:58.436945+00:00",
+    "nivel": "🟢",
+    "titulo": "Mintrabajo precisa cuándo es válida la renuncia de una trabajadora con fuero de maternidad"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/mintrabajo-reacciona-suspension-del-decreto-sobre-negociacion-colectiva-unificada": {
     "fecha_detectado": "2026-10-06T02:33:49.507846+00:00",
@@ -1509,6 +1539,11 @@
     "nivel": "🟠",
     "titulo": "Dian pretende recuperar $ 1,28 billones en retenciones en la fuente"
   },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/dian-propone-fijar-en-55673-el-valor-de-la-uvt-para-el-2027": {
+    "fecha_detectado": "2026-11-26T20:38:58.436835+00:00",
+    "nivel": "🟠",
+    "titulo": "Dian propone fijar en $ 55.673 el valor de la UVT para el 2027"
+  },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/dian-prorroga-suspension-de-terminos-en-pereira": {
     "fecha_detectado": "2026-09-22T20:37:07.279443+00:00",
     "nivel": "🟠",
@@ -1724,6 +1759,11 @@
     "nivel": "🟢",
     "titulo": "SilvIA: Tarifas diferenciales del IVA en Colombia"
   },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/subsidios-de-vivienda-no-constituyen-ingresos-gravados-con-renta": {
+    "fecha_detectado": "2026-11-26T20:38:58.436852+00:00",
+    "nivel": "🟢",
+    "titulo": "Subsidios de vivienda no constituyen ingresos gravados con renta"
+  },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/texto-del-fallo-que-declaro-exequible-sobretasa-al-impuesto-de-renta-para": {
     "fecha_detectado": "2026-09-26T00:58:54.928286+00:00",
     "nivel": "🟢",
@@ -1733,6 +1773,11 @@
     "fecha_detectado": "2026-09-28T22:42:53.711645+00:00",
     "nivel": "🟠",
     "titulo": "¿Tiene fuerza de ley el comunicado de prensa 122 de la Dian?"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/tramites-ante-la-dian-son-gratuitos-y-no-requieren-intermediarios": {
+    "fecha_detectado": "2026-11-26T20:38:58.436798+00:00",
+    "nivel": "🟠",
+    "titulo": "Trámites ante la Dian son gratuitos y no requieren intermediarios"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/tutorial-para-cumplir-con-sus-obligaciones-tributarias": {
     "fecha_detectado": "2026-11-13T22:58:55.143273+00:00",
@@ -1834,6 +1879,11 @@
     "nivel": "🟠",
     "titulo": "Concepto 2156(020261)"
   },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-2157.html": {
+    "fecha_detectado": "2026-11-26T20:39:02.999608+00:00",
+    "nivel": "🟠",
+    "titulo": "Concepto 2157"
+  },
   "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-2242.html": {
     "fecha_detectado": "2026-11-13T22:58:57.856384+00:00",
     "nivel": "🟠",
@@ -1903,6 +1953,11 @@
     "fecha_detectado": "2026-10-04T02:12:09.587758+00:00",
     "nivel": "🟢",
     "titulo": "Anticipos: ¿se facturan, llevan IVA y retención en la fuente?"
+  },
+  "gerencie.com::https://www.gerencie.com/aportes-a-seguridad-social-cuando-se-devenga-menos-de-un-salario-minimo.html": {
+    "fecha_detectado": "2026-11-26T20:38:59.297405+00:00",
+    "nivel": "🟢",
+    "titulo": "Cuánto se paga de seguridad social con el salario mínimo o con un salario inferior"
   },
   "gerencie.com::https://www.gerencie.com/aportes-a-seguridad-social-de-colombianos-en-el-exterior-con-ingresos-en-colombia.html": {
     "fecha_detectado": "2026-09-26T00:58:57.537000+00:00",
@@ -2879,6 +2934,11 @@
     "nivel": "🟢",
     "titulo": "Límite del 40 % a los pagos no constitutivos de salario"
   },
+  "gerencie.com::https://www.gerencie.com/liquidacion-laboral.html": {
+    "fecha_detectado": "2026-11-26T20:38:59.297379+00:00",
+    "nivel": "🟢",
+    "titulo": "Liquidación laboral: qué incluye, cómo se calcula y cuándo se paga"
+  },
   "gerencie.com::https://www.gerencie.com/liquidacion-privada-de-impuestos.html": {
     "fecha_detectado": "2026-09-23T15:41:22.304396+00:00",
     "nivel": "🟢",
@@ -3043,6 +3103,11 @@
     "fecha_detectado": "2026-10-05T19:51:31.923737+00:00",
     "nivel": "🟢",
     "titulo": "Tercerización laboral: qué es, cuándo es legal y en qué se diferencia de la intermediación"
+  },
+  "gerencie.com::https://www.gerencie.com/pago-de-viaticos-al-trabajador.html": {
+    "fecha_detectado": "2026-11-26T20:38:59.297348+00:00",
+    "nivel": "🟢",
+    "titulo": "Viáticos: qué son, clases y cuándo constituyen salario"
   },
   "gerencie.com::https://www.gerencie.com/pasantias.html": {
     "fecha_detectado": "2026-09-27T20:33:18.740507+00:00",
@@ -3729,6 +3794,11 @@
     "nivel": "🟢",
     "titulo": "La renta exenta por venta de predios para VIS y VIP está sujeta al límite del 40 % y 1.340 UVT"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/la-unidad-de-valor-tributario-de-2027-de-fijaria-en-55-673/": {
+    "fecha_detectado": "2026-11-26T20:38:55.242061+00:00",
+    "nivel": "🟠",
+    "titulo": "DIAN propone fijar la Unidad de Valor Tributario de 2027 en $55.673"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/minhacienda-confirmo-que-el-proyecto-de-ley-de-rescate-economico-no-incluira-iva-a-la-canasta-familiar-2/": {
     "fecha_detectado": "2026-11-19T19:41:29.694289+00:00",
     "nivel": "🟢",
@@ -3739,10 +3809,20 @@
     "nivel": "🟢",
     "titulo": "Minhacienda confirmó que el proyecto de ley de rescate económico no incluirá IVA a la canasta familiar"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/procedimiento-para-que-una-esal-sea-del-regimen-tributario-especial/": {
+    "fecha_detectado": "2026-11-26T20:38:55.242018+00:00",
+    "nivel": "🟢",
+    "titulo": "Procedimiento para que una ESAL sea del Régimen Tributario Especial"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/se-pierde-el-beneficio-de-auditoria-por-falta-de-pago-de-retenciones/": {
     "fecha_detectado": "2026-11-09T21:41:38.260146+00:00",
     "nivel": "🟢",
     "titulo": "¿Se pierde el beneficio de auditoría por falta de pago de retenciones?"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/se-publico-nuevo-estatuto-tributario-de-bogota/": {
+    "fecha_detectado": "2026-11-26T20:38:55.242045+00:00",
+    "nivel": "🟢",
+    "titulo": "SDH publicó el nuevo Estatuto Tributario de la ciudad de Bogotá"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/subsidios-de-vivienda-no-estan-gravados-con-el-impuesto-sobre-la-renta/": {
     "fecha_detectado": "2026-11-25T20:46:53.689962+00:00",
@@ -4039,6 +4119,11 @@
     "nivel": "🟢",
     "titulo": "Diferencias entre la contabilidad y el Formulario 350: ¿Cómo identificarlas y corregirlas?"
   },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/digito-de-verificacion-del-nit/": {
+    "fecha_detectado": "2026-11-26T20:38:53.281311+00:00",
+    "nivel": "🟢",
+    "titulo": "Dígito de verificación del NIT: ¿qué es, cómo se calcula y cómo verificarlo?"
+  },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/donacion-de-software-y-servicios-gratuitos/": {
     "fecha_detectado": "2026-10-14T16:04:47.570999+00:00",
     "nivel": "🟢",
@@ -4113,6 +4198,11 @@
     "fecha_detectado": "2026-10-22T16:11:40.737407+00:00",
     "nivel": "🟢",
     "titulo": "Patrimonio de una persona natural en la declaración de renta: 16 activos que debes revisar"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/productos-excluidos-de-iva/": {
+    "fecha_detectado": "2026-11-26T20:38:53.281270+00:00",
+    "nivel": "🟢",
+    "titulo": "Productos excluidos de IVA en Colombia: lista del artículo 424 y cómo tratarlos"
   },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/reduccion-de-sanciones/": {
     "fecha_detectado": "2026-09-21T17:18:23.147933+00:00",
