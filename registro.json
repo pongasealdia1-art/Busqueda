@@ -244,6 +244,11 @@
     "nivel": "🟠",
     "titulo": "Cooperativa excluida del Régimen Tributario Especial conserva la exoneración de aportes del art. 114-1 del ET — Concepto DIAN 17677 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/corresponde-al-empleador-probar-que-entrego-la-dotacion-de-ley-concepto-mintrabajo-23594-de-2026": {
+    "fecha_detectado": "2026-11-27T20:24:55.980853+00:00",
+    "nivel": "🟠",
+    "titulo": "Corresponde al empleador probar que entregó la dotación de ley — Concepto MinTrabajo 23594 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/cuentas-rrsp-y-tfsa-de-canada-de-un-residente-colombiano-se-declaran-como-patrimonio-y-sus-retiros-siguen-las-reglas-generales-del-et-concepto-dian-18689-de-2026": {
     "fecha_detectado": "2026-11-23T22:59:12.659139+00:00",
     "nivel": "🟠",
@@ -293,6 +298,11 @@
     "fecha_detectado": "2026-10-05T19:51:31.547325+00:00",
     "nivel": "🟠",
     "titulo": "El costo del inventario puede diferir del valor registrado en la escritura — Concepto CTCP 2026-0176"
+  },
+  "accounter.co::https://accounter.co/normatividad/el-empleador-no-puede-exigir-la-historia-clinica-ni-la-epicrisis-sin-autorizacion-del-trabajador-concepto-mintrabajo-24598-de-2026": {
+    "fecha_detectado": "2026-11-27T20:24:55.980878+00:00",
+    "nivel": "🟠",
+    "titulo": "El empleador no puede exigir la historia clínica ni la epicrisis sin autorización del trabajador — Concepto MinTrabajo 24598 de 2026"
   },
   "accounter.co::https://accounter.co/normatividad/el-subsidio-de-vivienda-que-recibe-una-persona-natural-no-paga-renta-la-dian-reconsidera-el-concepto-3315-de-2024-concepto-dian-021133-int-2029-de-2026": {
     "fecha_detectado": "2026-11-25T20:46:59.510289+00:00",
@@ -649,6 +659,11 @@
     "nivel": "🟠",
     "titulo": "Tratamiento tributario de los anticipos a proveedores del exterior — Concepto 15294 de 2026"
   },
+  "accounter.co::https://accounter.co/normatividad/turnos-del-articulo-165-del-cst-y-trabajo-habitual-u-ocasional-en-dias-de-descanso-obligatorio-concepto-mintrabajo-25729-de-2026": {
+    "fecha_detectado": "2026-11-27T20:24:55.980904+00:00",
+    "nivel": "🟠",
+    "titulo": "Turnos del artículo 165 del CST y trabajo habitual u ocasional en días de descanso obligatorio — Concepto MinTrabajo 25729 de 2026"
+  },
   "accounter.co::https://accounter.co/normatividad/una-eps-del-rte-puede-destinar-el-excedente-al-fortalecimiento-patrimonial-solo-si-es-una-inversion-real-y-documentada-y-las-asignaciones-permanentes-conservan-su-finalidad-concepto-dian-17": {
     "fecha_detectado": "2026-11-10T18:59:09.913871+00:00",
     "nivel": "🟠",
@@ -889,6 +904,11 @@
     "nivel": "🟢",
     "titulo": "Accounter | Factura en diciembre, retención en enero: el descuento pertenece al año del ingreso"
   },
+  "accounter.co::https://accounter.co/sin-categoria/seminario-pago-reforma-pensional-cuenta-regresiva-al-1-de-abril-de-2027": {
+    "fecha_detectado": "2026-11-27T20:24:55.980814+00:00",
+    "nivel": "🟢",
+    "titulo": "Seminario pago: Reforma pensional: cuenta regresiva al 1 de abril de 2027"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/actualidad/cuando-una-circular-deja-de-ser-una-circular": {
     "fecha_detectado": "2026-09-19T20:25:53.114637+00:00",
     "nivel": "🟡",
@@ -998,6 +1018,11 @@
     "fecha_detectado": "2026-11-18T23:40:38.604372+00:00",
     "nivel": "🟢",
     "titulo": "ANÁLISIS: Menos mapa y más brújula: lo que la Sala de Casación Laboral viene diciendo en derecho colectivo del trabajo"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/con-cifra-de-crecimiento-economico-del-21-se-instala-mesa-de-negociacion-del": {
+    "fecha_detectado": "2026-11-27T20:24:55.365988+00:00",
+    "nivel": "🟢",
+    "titulo": "Con cifra de crecimiento económico del 2,1 % se instala mesa de negociación del salario mínimo"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/condicionan-facultad-de-supersalud-para-disenar-procedimiento-sancionatorio-por": {
     "fecha_detectado": "2026-09-19T20:25:53.114244+00:00",
@@ -1219,6 +1244,11 @@
     "nivel": "🟢",
     "titulo": "Modificarán criterios de multas por despidos retaliatorios asociados a denuncias de acoso sexual"
   },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/ocde-propone-subir-la-edad-de-pension-de-forma-gradual": {
+    "fecha_detectado": "2026-11-27T20:24:55.366025+00:00",
+    "nivel": "🟢",
+    "titulo": "OCDE propone subir la edad de pensión de forma gradual"
+  },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/once-circulares-laborales-que-nadie-va-extranar": {
     "fecha_detectado": "2026-09-19T20:25:53.114621+00:00",
     "nivel": "🟡",
@@ -1283,6 +1313,11 @@
     "fecha_detectado": "2026-10-10T16:29:28.329663+00:00",
     "nivel": "🟢",
     "titulo": "SilvIA: Pensión de sobrevivientes, un respaldo económico tras la muerte del afiliado"
+  },
+  "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/silvia-prima-de-servicios-calcule-cuanto-debe-recibir-en-diciembre": {
+    "fecha_detectado": "2026-11-27T20:24:55.366009+00:00",
+    "nivel": "🟢",
+    "titulo": "SilvIA: Prima de servicios: calcule cuánto debe recibir en diciembre"
   },
   "ambitojuridico.com (laboral)::https://www.ambitojuridico.com/noticias/laboral/subsanados-los-vicios-de-tramite-de-la-reforma-pensional": {
     "fecha_detectado": "2026-10-29T17:42:16.079809+00:00",
@@ -1538,6 +1573,11 @@
     "fecha_detectado": "2026-11-13T18:52:36.208048+00:00",
     "nivel": "🟠",
     "titulo": "Dian niega tratos preferenciales en solicitudes de facilidades de pago"
+  },
+  "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/dian-precisa-que-el-cert-constituye-un-ingreso-gravado-con-el-impuesto-de-renta": {
+    "fecha_detectado": "2026-11-27T20:24:55.365872+00:00",
+    "nivel": "🟠",
+    "titulo": "Dian precisa que el CERT constituye un ingreso gravado con el impuesto de renta"
   },
   "ambitojuridico.com (tributario)::https://www.ambitojuridico.com/noticias/tributario/dian-pretende-recuperar-128-billones-en-retenciones-en-la-fuente": {
     "fecha_detectado": "2026-09-19T20:25:53.113750+00:00",
@@ -1889,6 +1929,21 @@
     "nivel": "🟠",
     "titulo": "Concepto 2157"
   },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-2157019132.html": {
+    "fecha_detectado": "2026-11-27T20:25:00.190763+00:00",
+    "nivel": "🟠",
+    "titulo": "Concepto 2157(019132)"
+  },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-2173-019133.html": {
+    "fecha_detectado": "2026-11-27T20:25:00.190751+00:00",
+    "nivel": "🟠",
+    "titulo": "Concepto 2173( 019133)"
+  },
+  "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-2175019134.html": {
+    "fecha_detectado": "2026-11-27T20:25:00.190725+00:00",
+    "nivel": "🟠",
+    "titulo": "Concepto 2175(019134)"
+  },
   "cijuf.org.co::https://cijuf.org.co/normatividad/concepto/2026/concepto-2242.html": {
     "fecha_detectado": "2026-11-13T22:58:57.856384+00:00",
     "nivel": "🟠",
@@ -1989,10 +2044,20 @@
     "nivel": "🟢",
     "titulo": "Seguridad social en trabajadores contratados por días"
   },
+  "gerencie.com::https://www.gerencie.com/aportes-a-seguridad-social-en-trabajadores-independientes.html": {
+    "fecha_detectado": "2026-11-27T20:24:56.349720+00:00",
+    "nivel": "🟢",
+    "titulo": "Seguridad social en los trabajadores independientes"
+  },
   "gerencie.com::https://www.gerencie.com/aportes-a-seguridad-social.html": {
     "fecha_detectado": "2026-09-25T16:02:59.994139+00:00",
     "nivel": "🟢",
     "titulo": "Aportes a seguridad social"
+  },
+  "gerencie.com::https://www.gerencie.com/aportes-seguridad-social-como-asalariado-y-como-independiente.html": {
+    "fecha_detectado": "2026-11-27T20:24:56.349694+00:00",
+    "nivel": "🟢",
+    "titulo": "Seguridad social en asalariados con ingresos como independientes"
   },
   "gerencie.com::https://www.gerencie.com/arrendamiento-operativo.html": {
     "fecha_detectado": "2026-11-14T17:25:31.253565+00:00",
@@ -3769,6 +3834,11 @@
     "nivel": "🟡",
     "titulo": "Bogotá publicó proyecto de decreto para unificar las normas tributarias distritales en un solo estatuto"
   },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/declaraciones-tributarias-firmadas-por-contadores-no-facultados-para-hacerlo-pueden-considerarse-no-presentadas/": {
+    "fecha_detectado": "2026-11-27T20:24:52.346033+00:00",
+    "nivel": "🟢",
+    "titulo": "Declaraciones tributarias firmadas por contadores no facultados para hacerlo pueden considerarse no presentadas"
+  },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/dian-ampliaria-controles-aduaneros-sobre-drones-y-sus-componentes/": {
     "fecha_detectado": "2026-11-18T23:40:35.536439+00:00",
     "nivel": "🟠",
@@ -3788,6 +3858,11 @@
     "fecha_detectado": "2026-11-05T19:10:09.579229+00:00",
     "nivel": "🟠",
     "titulo": "DIAN modificó los formatos y requisitos para reportar información exógena tributaria"
+  },
+  "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/donaciones-recibidas-en-cuentas-de-terceros-no-dan-derecho-a-descuento-tributario/": {
+    "fecha_detectado": "2026-11-27T20:24:52.345997+00:00",
+    "nivel": "🟢",
+    "titulo": "Donaciones recibidas en cuentas de terceros no dan derecho a descuento tributario"
   },
   "incp.org.co::https://incp.org.co/publicaciones/infoincp-publicaciones/impuestos/2026/11/exclusion-voluntaria-del-simple-no-requiere-resolucion-administrativa/": {
     "fecha_detectado": "2026-11-11T18:56:45.951175+00:00",
@@ -4154,6 +4229,11 @@
     "nivel": "🟢",
     "titulo": "Firma del contador público en declaraciones tributarias en 2026"
   },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/ganancias-ocasionales-en-la-declaracion-de-renta/": {
+    "fecha_detectado": "2026-11-27T20:24:50.356267+00:00",
+    "nivel": "🟢",
+    "titulo": "Ganancias ocasionales en la declaración de renta AG 2025: tarifas, exenciones y topes"
+  },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/impuesto-al-patrimonio-de-la-propiedad-horizontal/": {
     "fecha_detectado": "2026-10-13T18:35:50.677178+00:00",
     "nivel": "🟠",
@@ -4203,6 +4283,11 @@
     "fecha_detectado": "2026-10-22T16:11:40.737407+00:00",
     "nivel": "🟢",
     "titulo": "Patrimonio de una persona natural en la declaración de renta: 16 activos que debes revisar"
+  },
+  "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/personas-naturales-obligadas-a-declarar-renta/": {
+    "fecha_detectado": "2026-11-27T20:24:50.356225+00:00",
+    "nivel": "🟢",
+    "titulo": "¿Quién debe declarar renta por el año gravable 2026? Topes, casos y calendario"
   },
   "siemprealdia.co::https://siemprealdia.co/colombia/impuestos/productos-excluidos-de-iva/": {
     "fecha_detectado": "2026-11-26T20:38:53.281270+00:00",
